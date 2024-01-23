@@ -1,0 +1,67 @@
+extends layout
+block content
+  .w3-row
+    .w3-col.m4.l3
+      .w3-container.w3-border-bottom
+        img.w3-round(src="/images/jcr-quadro.jpg" style="width:100%;")
+        h4.w3-padding-0
+          b José Carlos L. Ramalho
+        p.w3-text-grey Prof. Auxiliar
+        p.w3-text-grey Department of Informatics // Algoritmi Research Center
+        p.w3-text-grey University of Minho
+        p.w3-text-grey Campus de Gualtar 4700-057 Braga - Portugal
+        p.w3-text-grey Phone: +351 253 604479 | FAX: +351 253 604471 | Ext.: 604479
+        p.w3-text-grey Orcid: 0000-0002-8574-1574
+        p.w3-text-grey jcr @ di.uminho.pt | 
+          a(href="http://www.di.uminho.pt/~jcr/") http://www.di.uminho.pt/~jcr/
+  
+      .w3-container
+        a.w3-hover-white.w3-hover-text-indigo.w3-show-inline-block(href="#")
+          i.fa.fa-facebook-official
+        a.w3-hover-white.w3-hover-text-blue.w3-show-inline-block(href="#")
+          i.fa.fa-linkedin
+
+    // ------------------- PAGE CONTENT --------------------------------
+    
+    .w3-col.m8.l9
+      // Navbar
+      .w3-container.w3-bar.w3-border.w3-deep-purple
+        a.w3-bar-item.w3-button.w3-margin.w3-round.w3-hover-light-grey(href="/") Home
+        a.w3-bar-item.w3-button.w3-margin.w3-round.w3-hover-light-grey(href="#") Projects
+        a.w3-bar-item.w3-button.w3-margin.w3-round.w3-hover-light-grey(href="/pubs") Publications
+        a.w3-bar-item.w3-button.w3-margin.w3-round.w3-hover-light-grey(href="/thesup") Supervisions
+        a.w3-button.w3-bar-item.w3-margin.w3-round.w3-hover-light-grey(href="/courses") Courses
+        a.w3-bar-item.w3-button.w3-margin.w3-round.w3-hover-light-grey(href="/theexa") Juris
+      // Header
+      header.w3-container
+        h1
+           b Projects
+      .w3-container 
+        table.w3-table-all.display(id="listaProjs")
+            thead
+                tr
+                    th Start
+                    th End
+                    th Title
+                    th Program
+            tbody
+                each p in projsList
+                    tr
+                        td= p.beginDate 
+                        td= p.endDate
+                        if p.url
+                            td
+                                a(href=p.url)= p.title
+                        else 
+                            td= p.title
+                        if p.funding && p.funding.ref && p.funding.program
+                          td 
+                            a(href=p.funding.ref)= p.funding.program
+                        else if p.funding && p.funding.program
+                          td= p.funding.program
+                        else 
+                          td -----
+  .w3-row
+    footer.w3-container.w3-deep-purple
+        address Gerado por myCV :: jcr :: #{d}
+    

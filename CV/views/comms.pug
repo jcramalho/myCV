@@ -1,0 +1,68 @@
+extends layout
+
+block content
+  .w3-row
+    .w3-col.m4.l3
+      .w3-container.w3-border-bottom
+        img.w3-round(src="/images/jcr-quadro.jpg" style="width:100%;")
+        h4.w3-padding-0
+          b José Carlos L. Ramalho
+        p.w3-text-grey Prof. Auxiliar
+        p.w3-text-grey Department of Informatics // Algoritmi Research Center
+        p.w3-text-grey University of Minho
+        p.w3-text-grey Campus de Gualtar 4700-057 Braga - Portugal
+        p.w3-text-grey Phone: +351 253 604479 | FAX: +351 253 604471 | Ext.: 604479
+        p.w3-text-grey Orcid: 0000-0002-8574-1574
+        p.w3-text-grey jcr @ di.uminho.pt | 
+          a(href="http://www.di.uminho.pt/~jcr/") http://www.di.uminho.pt/~jcr/
+
+        .w3-container.w3-border-top
+          p
+            a.w3-bar-item.w3-button.w3-margin.w3-round.w3-hover-light-grey(href="/projs") Projects
+          p 
+            a.w3-padding.w3-text-teal(href="/pubs") Publications
+          p 
+            a.w3-padding.w3-text-teal(href="/comms") Communications
+          p
+            a.w3-padding(href="/thesup") Supervisions 
+          p 
+            a.w3-padding(href="/courses") Courses  
+          p 
+            a.w3-padding(href="/theexa") Juris
+  
+      .w3-container
+        a.w3-hover-white.w3-hover-text-indigo.w3-show-inline-block(href="#")
+          i.fa.fa-facebook-official
+        a.w3-hover-white.w3-hover-text-blue.w3-show-inline-block(href="#")
+          i.fa.fa-linkedin
+
+    // ------------------- PAGE CONTENT --------------------------------
+    .w3-col.m8.l9
+      // Header
+      header.w3-container
+        h1
+           b Communications
+      .w3-container 
+        table.w3-table-all.display(id="listaRegistos")
+            thead
+                tr
+                    th Data
+                    th Título
+                    th Evento 
+                    th Local
+            tbody
+                each c in commsList
+                    tr
+                        if c.date.year && c.date.month && c.date.day
+                            td= c.date.year + "-" + c.date.month + "-" + c.date.day
+                        else if c.date.year && c.date.month
+                            td= c.date.year + "-" + c.date.month
+                        else 
+                            td= c.date.year
+                        td= c.title
+                        td= c.event
+                        td= c.place
+  .w3-row
+    footer.w3-container.w3-deep-purple
+        address Gerado por myCV :: jcr :: 2023-Fevereiro
+    
