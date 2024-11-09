@@ -1,0 +1,1447 @@
+[
+    {
+        "student": {
+            "id": "A84464",
+            "name": "Válter Ferreira Picas Carvalho",
+            "program": {
+                "desc": "MIEI - Mestrado Integrado em Engenharia Informática"
+            }
+        },
+        "document": {
+            "title": "Hypatiamat - I Want To Solve Questions About...",
+            "abstract": {
+                "p": [
+                  "Hypatiamat is a Portuguese project comprised of several applications that aim to develop the Math skills of students from the 1st through 9th grades (Basic Education). The ingraining of mental calculation strategies, numbering systems, and logical operations lead to a better success rate in this subject in later years.",
+                  "One of the project’s components is the online platform (https://www.hypatiamat.com), which aims to foster autonomous learning through more interactive practices due to the current ease of technological access in this age group, by trying to appropriate teaching to everyday life. Several tools are made available, such as videos, tutorials, explanations, questions, etc. on various Math topics that students can easily access at any time.",
+                  "Teachers that aim to enhance their students’ learning process using this digital approach can exercise it in multiple applications provided by the platform, where the interactions are carried out and controlled through these means.",
+                  "The monolithic architecture (written in PHP) has received contributions from multiple developers over the years in order to address the scalability issues introduced with this platform’s growing popularity, which thus far demanded manual efforts for maintenance and content insertion. As such, there has been an incremental process of modernization, turning the various constituent applications into distinct microservices.",
+                  "I Want to Solve Questions About..., is one of these applications where students are provided with a large selection of questions in the form of mini-games (multiple choice, true or false, ...), regarding the themes mentioned above.",
+                  "The first objective of the dissertation is to develop a back-office that allows the teachers in charge of the project to manage existing questions as well as add new ones for the students, since the current process requires updating the database manually.",
+                  "The second one is the modernization of the application’s interface at the technological level, by making use of adequate frameworks and programming languages and at the user level, by making an effort to maintain the intuitive workflow that led to its popularity but with a modernized design, in order to be consistent with other online tools."
+                ]
+            },
+            "palavras-chave": {
+                "palavra": [
+                    "API", "REST", "Node.js", "Strapi", "Vue", "Vuetify", "JavaScript", "MySQL", "NoSQL"
+                ]
+            }
+        },
+        "inst": "Dep. Informática - Universidade do Minho",
+        "beginyear": 2021,
+        "endyear": 2022,
+        "id": "thesup56"
+    },
+    {
+        "student": {
+            "id": "A80624",
+            "name": "Sofia Almeida Teixeira",
+            "program": {
+                "desc": "MIEI - Mestrado Integrado em Engenharia Informática"
+            }
+        },
+        "document": {
+            "title": "EWVM - an Educational Web Virtual Machine",
+            "abstract": {
+                "p": [
+                  "The Language Processing Course at Minho’s University uses a Virtual Machine imple- mented in C with its interface being implemented with the GTK toolkit. However, it is neither very informative nor very easy to install.",
+                  "The goal in this Master’s Project is to analyze and model the entire Virtual Machine’s system and build a Web application with a graphical interface. The new tool offers two main characteristics: compiling and reporting errors in programs written for the Virtual Machine; and animate its execution, displaying the internal state of the VM and providing the user an interface to control the execution.",
+                  "In this document, a study of existing technologies will be carried out, focusing in detail on the current virtual machine VM. After this analysis, a solution will be proposed, followed by a detailed explanation of its implementation."
+                ]
+            },
+            "palavras-chave": {
+                "palavra": [
+                    "Virtual Machines", "Stack Machines", "Register Machines", "Compilers", "Assemblers"
+                ]
+            }
+        },
+        "inst": "Dep. Informática - Universidade do Minho",
+        "beginyear": 2021,
+        "endyear": 2022,
+        "id": "thesup55"
+    },
+    {
+        "student": {
+            "id": "A84302",
+            "name": "José Ricardo Sousa Mendes da Cunha",
+            "program": {
+                "desc": "MIEI - Mestrado Integrado em Engenharia Informática"
+            }
+        },
+        "document": {
+            "title": "CLAV: Nova Ontologia",
+            "abstract": {
+                "p": [
+                  "O CLAV é um projeto nacional financiado pelo Simplex e que visa a classificação e a avaliação de toda a documentação circulante na administração pública portuguesa. A ontologia atual que suporta o CLAV foi desenvolvida de uma forma incremental (patchwork) e a certa altura não houve o cuidado e o formalismo necessário.",
+                  "Este projeto terá duas componentes. Uma teórica onde se especificará uma nova ontologia OWL seguindo os padrões de nomenclatura FAIR, e em inglês.",
+                  "E uma prática, que consistirá em criar de raiz uma API de dados sobre esta ontologia implementando cerca de centena e meia de rotas que no seu todo constituirão um serviço autónomo (haverá um reaproveitamento da API atual mas será necessário recodificar algu- mas rotas, criar novas e alterar o output de outras). Será criado também a documentação da API em Swagger de modo a haver uma fácil compreensão da mesma.",
+                  "Ainda no contexto deste projeto, pretende-se que seja desenvolvido um novo migrador que transfira a informação das folhas de recolha de dados usadas atualmente para nova ontologia especificada."
+                ]
+            },
+            "palavras-chave": {
+                "palavra": [
+                    "CLAV", "FAIR", "API", "SWAGGER"
+                ]
+            }
+        },
+        "inst": "Dep. Informática - Universidade do Minho",
+        "beginyear": 2021,
+        "endyear": 2022,
+        "id": "thesup54"
+    },
+    {
+        "student": {
+            "id": "A85919",
+            "name": "Pedro Dias Parente",
+            "program": {
+                "desc": "MIEI - Mestrado Integrado em Engenharia Informática"
+            }
+        },
+        "document": {
+            "title": "The role of an API Gateway in a Microservice Architecture",
+            "abstract": {
+                "p": [
+                  "Nowadays, with the development of bigger and more complex applications, the architectural paradigm for application development is changing from a more traditional Monolithic approach to an architectural style called Microservices. In this more recent, and increasingly popular, style of developing applications, a tool that has also become increasingly more popular is API Gateways. In this thesis I explored these and a few other concepts on various examples, recording my experience, with the intent to create a guide on how to more efficiently implement these tools on to your own projects, facilitating the usually long and arduous process of researching, learning, and implementing new technologies into your work."
+                ]
+            },
+            "palavras-chave": {
+                "palavra": [
+                    "Microservices", "API Gateway"
+                ]
+            }
+        },
+        "inst": "Dep. Informática - Universidade do Minho",
+        "beginyear": 2021,
+        "endyear": 2022,
+        "id": "thesup53"
+    },
+    {
+        "student": {
+            "id": "A85400",
+            "name": "Nuno Azevedo Alves da Cunha",
+            "program": {
+                "desc": "MIEI - Mestrado Integrado em Engenharia Informática"
+            }
+        },
+        "document": {
+            "title": "Ulisses NextGen",
+            "abstract": {
+                "p": [
+                  "Nowadays data can have many different shapes and relations between itself, ontologies try to formalize the semantics subjacent to this data and make it understandable by humans and code alike.",
+                  "While code succeeds at parsing and interpreting this formalization traditional ontology formats can be tough for a human to understand without previously deepened knowledge of the ontologic paradigm and, even then, directly analyzing a format like RDF would be, at the very least, very tedious. This problem is not exclusive to ontologic data either as to make sense of big datasets, even in famously human readable formats like JSON, humans need visualizations and abstractions.",
+                  "This dissertation is a study on graph visualization of ontologic data and how abstractions can be used to convey information to the end user in meaningful ways",
+                  "The information gathered is then used to implement an application called Ulisses NextGen that can generate an easily navigable graph visualizing application with a strong focus to support ontological data but general enough to support any information that can be abstracted as a graph. The application is served as a javascript package to be used in anywhere on the web where it can be used best to reach the end user."
+                ]
+            },
+            "palavras-chave": {
+                "palavra": [
+                    "Ontology", "Graph", "Data Visualization"
+                ]
+            }
+        },
+        "inst": "Dep. Informática - Universidade do Minho",
+        "beginyear": 2021,
+        "endyear": 2022,
+        "id": "thesup52"
+    },
+    {
+        "student": {
+            "id": "A83930",
+            "name": "Luís Miguel Arieira Ramos",
+            "program": {
+                "desc": "MIEI - Mestrado Integrado em Engenharia Informática"
+            }
+        },
+        "document": {
+            "title": "CLAV: especificação dos workflows (BPMN)",
+            "abstract": {
+                "p": [
+                  "A plataforma web CLAV (https://clav.dglab.gov.pt/) visa na disponibilização de informação e ferramentas que facilitem e normalizem as práticas de classificação e avaliação de toda a documentação circulante na administração pública portuguesa. Um dos seus principais objetivos é a redução da utilização dos documentos físicos que armazenam essa informação, substituindo o uso dos mesmos pelo formato digital. Assim sendo, dá- se uma redução do uso do papel, significando uma menor perda de informação e uma maior facilidade no tratamento dos processos, não havendo necessidade de transitar esses documentos físicos.",
+                  "À data de início desta dissertação, o CLAV já continha alguns workflows especificados em linguagem BPMN, sendo que estes ainda não eram automatizados. Nesta dissertação, pretendeu-se dar continuidade ao trabalho anteriormente realizado no CLAV, ou seja, partindo das especificações BPMN já existentes, seria necessário revê-las e alterá-las, caso se justificasse, e acrescentar os workflows ainda em falta (Araújo, 2021).",
+                  "Com o principal objetivo de tornar o CLAV mais inteligente e automático, pretende- se investir na automatização dos workflows especificados anteriormente, de modo que as interfaces fossem capazes de reagir a esses workflows e às mudanças que estes pudessem sofrer.",
+                  "Por último, existia a necessidade de acrescentar à plataforma CLAV a possibilidade da edição gráfica das especificações BPMN. Assim sendo, seria possível que o utilizador administrador conseguisse melhorar e alterar os fluxos de trabalho, através da edição gráfica dos modelos BPMN na plataforma, com a possibilidade de, no futuro, executar essa edição em runtime."
+                ]
+            },
+            "palavras-chave": {
+                "palavra": [
+                    "BPMN", "Workflow", "CLAV"
+                ]
+            }
+        },
+        "inst": "Dep. Informática - Universidade do Minho",
+        "beginyear": 2021,
+        "endyear": 2022,
+        "id": "thesup51"
+    },
+    {
+        "student": {
+            "id": "A84775",
+            "name": "João da Cunha e Costa",
+            "program": {
+                "desc": "MIEI - Mestrado Integrado em Engenharia Informática"
+            }
+        },
+        "document": {
+            "title": "Hypatiamat: A funcionalidade de multijogador em jogos online",
+            "abstract": {
+                "p": [
+                  "O desempenho escolar na área da Matemática é uma preocupação crescente junto da comunidade educativa, tendo em conta o elevado insucesso escolar e correspondente abandono escolar precoce. Os professores tentam perceber qual a melhor forma para captar a atenção dos alunos ou incutir um maior interesse nestes relativamente a esta disciplina. Para além das técnicas utilizadas no ensino da matéria, os professores começam a aderir cada vez mais às novas tecnologias que auxiliam o ensino, uma vez que, estas permitem captar uma maior atenção por parte das crianças e jovens que, desde cedo, estão familiarizadas com as tecnologias atuais.",
+                  "O Hypatiamat é um projeto, orientado mais em específico para alunos do 1o ao 9o ano, cujo principal objetivo passa por despertar, junto dos alunos, o gosto pela Matemática e consequentemente aumentar o aproveitamento escolar nesta disciplina.",
+                  "Para este efeito, esta plataforma fornece diversos conteúdos hipermédia como explicações, resumos, aplicações, jogos, etc. Para além disso, esta plataforma realiza periodicamente diversos campeonatos com alguns dos seus jogos para milhares de alunos. No entanto, estes pecam por não possuírem a opção de multijogador online, o que dificulta a sua realização e impossibilita que os utilizadores possam jogar entre si os diversos jogos da plataforma de forma remota.",
+                  "Deste modo, esta dissertação centra-se na implementação deste modo multijogador online num dos jogos do Hypatiamat, para futuramente servir como modelo de um guião a ser implementado nos restantes jogos que a plataforma Hypatiamat possui."
+                ]
+            },
+            "palavras-chave": {
+                "palavra": [
+                    "Hypatiamat", "Matemática", "Jogos", "Multijogador Online"
+                ]
+            }
+        },
+        "inst": "Dep. Informática - Universidade do Minho",
+        "beginyear": 2021,
+        "endyear": 2022,
+        "id": "thesup50"
+    },
+    {
+        "student": {
+            "id": "A85006",
+            "name": "Hugo André Coelho Cardoso",
+            "program": {
+                "desc": "MIEI - Mestrado Integrado em Engenharia Informática"
+            }
+        },
+        "document": {
+            "title": "Synthetic Data Generation from JSON/XML Schemas",
+            "abstract": {
+                "p": [
+                  "The objective of this dissertation is the development of an application capable of automatically generating synthetic datasets that are representative and, possibly, very large, directly from JSON and XML schemas, in order to facilitate the testing of software applications and scientific endeavors in areas such as Data Science or Application Development.",
+                  "For this purpose, it is intended to develop a new version of DataGen, an online open-source application that allows the quick prototyping of datasets through its own Domain Specific Language (DSL) of specification of data models. DataGen is able to parse these models and generate synthetic datasets according to the structural and semantic restrictions stipulated, automating the whole process of data generation with spontaneous values created in runtime and/or from a library of support datasets.",
+                  "The objective of this new product, DataGen From Schemas, is to expand DataGen’s use cases and raise the datasets specification’s abstraction level, making it possible to generate synthetic datasets directly from schemas. This new platform builds upon its prior version and acts as its complement, operating jointly and sharing the same data layer, in order to assure the compatibility of both platforms and the portability of the created DSL models between them. Its purpose is to parse schema files and generate corresponding DSL models, effectively translating the JSON or XML specification to a DataGen model, then using the original application as a middleware to generate the final datasets.",
+                  "The present dissertation details the entire creative process behind the development of this application: firstly, it frames the topic of study and its initial phase of investigation, debating relevant technologies and existing related work; then, the ideation phase of the product is addressed, projecting an adequate arquitecture and the reasons behind its design choices, as well as surveying technical requirements for DataGen From Schemas, while taking into account the conclusions reached through prior research; afterwards, the development phase is covered, carefully explaining the elaborated components, their properties and the data flow between them, for both the JSON and XML modules; finally, the reader is presented with conclusions taken from this project’s development and possible future work to implement, in order to improve the current solution."  
+                ]
+            },
+            "palavras-chave": {
+                "palavra": [
+                    "Schemas", "Data Generation", "Synthetic Data", "DataGen", "DSL", "PEG.js"
+                ]
+            }
+        },
+        "inst": "Dep. Informática - Universidade do Minho",
+        "beginyear": 2021,
+        "endyear": 2022,
+        "id": "thesup49"
+    },
+    {
+        "student": {
+            "id": "A83631",
+            "name": "Filipa Alves dos Santos",
+            "program": {
+                "desc": "MIEI - Mestrado Integrado em Engenharia Informática"
+            }
+        },
+        "document": {
+            "title": "CLAV - Processamento dos Autos de Eliminação",
+            "abstract": {
+                "p": [
+                    "O CLAV é um projeto nacional que tem como objetivo a classificação e avaliação de todos os documentos da administração pública portuguesa, com base em normas e orientações delineadas pela Direção Geral do Livro, dos Arquivos e das Bibliotecas (DGLAB). Esta iniciativa surgiu como solução à grande perda de informação causada pelo o uso de papel como método principal de conservação, bem como à incapacidade deste método de processar a enorme quantidade de informação digital produzida atualmente.",
+                    "Uma parte essencial para o bom funcionamento da plataforma inclui a eliminação docu- mental de informação arquivística, que permite uma gestão mais eficiente, assim como uma redução de custos de armazenamentos, melhorando a eficiência e eficácia na recuperação de informação.",
+                    "Com isto, para proceder à eliminação de um documento, é necessário que as entidades que o desejem fazer enviem através da platforma do Classificação e Avaliação de Processos da Administração Pública (CLAV) um pedido de autorização para essa eliminação. Este pedido tem o nome de Auto de Eliminação (AE). Para ser autorizado, terá de ser validado e analisado tendo em conta prazos de conservação administrativa, destinos finais, quem são os donos do processo a quem respeita a documentação, etc.",
+                    "Neste sentido, esta dissertação tem como desígnio a continuação do desenvolvimento do tratamento dos AE, a serem incluídos no CLAV, e do seu armazenamento, para que seja possível garantir transparência da ação administrativa, bem como da capacidade do Estado no cumprimento da sua missão (Lourenço and Gomes, 2019)."     
+                ]
+            },
+            "palavras-chave": {
+                "palavra": [
+                    "CLAV", "Auto de Eliminação", "Workflow"
+                ]
+            }
+        },
+        "inst": "Dep. Informática - Universidade do Minho",
+        "beginyear": 2021,
+        "endyear": 2022,
+        "id": "thesup48"
+    },
+    {
+        "student": {
+            "id": "A82529",
+            "name": "Carlos Manuel Marques Afonso",
+            "program": {
+                "desc": "MIEI - Mestrado Integrado em Engenharia Informática"
+            }
+        },
+        "document": {
+            "title": "Development of a Fraud Detection Microservice Platform",
+            "abstract": {
+                "p": [
+                     "The cyber-world has dropped manual checking and promoted the adoption of more efficient and relying systems to detect fraudulent transactions. These systems aim to optimize and also improve how these transactions are validated.",
+                     "For the sake of achieving these objectives, machine learning models were created or adapted to accomplish these tasks. They are carefully tested and developed to meet users needs to make a more secure way to guarantee that they do not fall into fraudulent businesses and to prevent malicious attempts to steal or do any arm to the end user.",
+                     "In the past few years, DTx has been developing a system that is capable of hosting these kinds of algorithms and making them available for cyber-environment productions systems. In the beginning of this work, DTx proposed to design and create a platform that could be deployed in a cloud environment and also capable of hosting an AI module that was qualified to predicting Churn entries in telecom extracts.",
+                     "In this dissertation, the major goal was to create a platform based on a microservice architecture, in order to provide a solution to the requirements specified by DTx and making it a simple but efficient solution.",
+                     "Comprehensively, this dissertation begins by exposing a deep study on the current state of the art of cyber-physical systems, cloud environments, machine learning algorithms and platforms that can host these types of systems. It is then presented the specifications of the system, how it was implemented, its various services, and finally a analysis of results where it is possible to see that the major needs were achieved."
+                ]
+            },
+            "palavras-chave": {
+                "palavra": [
+                    "Microservices", "Machine Learning", "Fraud Detection", "Classification"
+                ]
+            }
+        },
+        "inst": "Dep. Informática - Universidade do Minho",
+        "beginyear": 2021,
+        "endyear": 2022,
+        "id": "thesup47"
+    },
+    {
+        "student": {
+            "id": "A85813",
+            "name": "António Alexandre Carvalho Lindo",
+            "program": {
+                "desc": "MIEI - Mestrado Integrado em Engenharia Informática"
+            }
+        },
+        "document": {
+            "title": "CLAV: Gestão de Backups e Importação de Dados",
+            "abstract": {
+                "p": [
+                     "O CLAV é um projeto nacional financiado pelo Simplex. O objetivo deste projeto é classificar e avaliar toda a documentação circulante na Administração Pública portuguesa. Desta forma, as entidades públicas disporão de uma ferramenta que possibilita a identificação da documentação que deve ser eliminada ou arquivada. No entanto, como em todas as plataformas, podem ocorrer imprevistos que resultem em perda de informação.",
+                     "Nesta dissertação foi criada uma ferramenta web externa ao CLAV, que permita a execução de backups e importação de informação na plataforma, a fim de ser possível o armazenamento da informação em volumes externos ao CLAV de modo a esta informação poder voltar a ser recolocada no CLAV mais tarde. Para a criação dos pacotes de backup, recorreu-se a formatos standard de armazenamento de informação."
+                ]
+            },
+            "palavras-chave": {
+                "palavra": [
+                    "Backup", "Importação", "CLAV"
+                ]
+            }
+        },
+        "inst": "Dep. Informática - Universidade do Minho",
+        "beginyear": 2021,
+        "endyear": 2022,
+        "id": "thesup46"
+    },
+    {
+        "student": {
+            "id": "A74568",
+            "name": "Ricardo Manuel Cerineu Canela",
+            "program": {
+                "desc": "MIEI - Mestrado Integrado em Engenharia Informática"
+            }
+        },
+        "document": {
+            "title": "CLAV: Interface e Sistema de notificações",
+            "abstract": {
+                "p": [
+                     "O arquivo de documentos enquanto recursos fundamentais na eficiência operacional e recurso de memória organizacional e social, tem várias implicações inerentes. Para além do elevado número de documentos produzidos e consequente acumular de papel, a maior dificuldade deste processo está na classificação e determinação do destino final dos documentos. A análise baseada na semântica do documento é um processo complicado, dá origem à eliminação de evidências importantes e à conservação casuística e desnecessária.",
+                     "A Administração Pública portuguesa com a pretensão de colmatar a interoperabilidade semântica têm implementado políticas que permitam representações, uniformemente reco- nhecidas por todas as partes intervenientes num qualquer processo, independentemente da respetiva área de intervenção. Em conjunto com o desenvolvimento tecnológico as medidas de promoção para desmaterialização de processos e consequente adoção de sistemas de gestão documental electrónicos, surge a iniciativa CLAV. Este projeto nasce de uma iniciativa da DGLAB. Com o objetivo de tirar partido da uniformização das funções das entidades públicas e criar uma plataforma que funciona como elo de ligação entre as entidades e o arquivista, este projeto pretende classificar e avaliar a informação eficientemente.",
+                     "Esta dissertação tem como principais objetivos a reformulação da interface do utilizador, de uma forma clara, concisa, familiar e eficiente tanto na de utilização como no seu desen- volvimento, e a criação de um sistema de notificações que permita aos diferentes tipos de utilizadores acompanharem o estado do processo de classificação e avaliação da documentação."
+                ]
+            }
+        },
+        "inst": "Dep. Informática - Universidade do Minho",
+        "beginyear": 2020,
+        "endyear": 2022,
+        "id": "thesup45"
+    },
+    {
+        "student": {
+            "id": "PG17918",
+            "name": "Paulo Jorge Pereira Martins",
+            "program": {
+                "desc": "MIEI - Mestrado Integrado em Engenharia Informática"
+            }
+        },
+        "document": {
+            "title": "Development of an e-portfolio social network using emerging web technologies",
+            "abstract": {
+                "p": [
+                    "Digital portfolios (also known as e-Portfolios) can be described as digital collections of artifacts, being both a product (a digital collection of artifacts) and a process (reflecting on those artifacts and what they represent). It is an extension of the traditional Curriculum Vitae, which tells the educational and professional milestones of someone, while the portfolio proves and qualifies them (e.g.: annually thousands of students finish a Master degree on Informatics, but only one has built Vue, Twitter or Facebook – the Portfolio goes beyond the CV milestones by specifying the person’s output throughout life and distinguishing them). e-Portfolios augment this by introducing new digital representations and workflows, exposed to a community, being both a product and a process. This approach can be useful for individual self-reflection, education or even job markets, where companies seek talented individuals, because it expands the traditional CV concept and empowers individual merit. There have been many studies, theories, and methodologies related with e-Portfolios, but transpositions to web applications have been unsuccessful, untuitive and too complex (in opposition to the CV format, which had success in various applications, for example LinkedIn).",
+                    "This project aims to study new approaches and develop an exploratory web/mobile application of this method- ology, by exploring the potential of social networks to promote them, augmented by emergent web technologies. Its main output is the prototype of a new product (a social network of e-Portfolio) and its design decisions, with new theoretical approaches applied to web development. By the end of this project, we will have idealized a web infrastructure for interacting with networks of users, their skills, and communities seeking them.",
+                    "The approach to the development of this platform will be to integrate emerging technologies like WebAssembly and Rust in its development cycle and document our findings. At the end of this project, in addition to the prototype of a new product, we hope to have contributed to the State of the Art of Web Engineering and to be able to answer questions regarding new emerging web development ecosystems."
+                ]
+            },
+            "palavras-chave": {
+                "palavra": [
+                    "e-Portfolios", "Microservices", "WebAssembly", "Rust", "Web Engineering"
+                ]
+            }
+        },
+        "inst": "Dep. Informática - Universidade do Minho",
+        "beginyear": 2020,
+        "endyear": 2021,
+        "id": "thesup44"
+    },
+    {
+        "student": {
+            "id": "A82298",
+            "name": "Luís Guilherme Gonçalves Macedo da Silva Martins",
+            "program": {
+                "desc": "MIEI - Mestrado Integrado em Engenharia Informática"
+            }
+        },
+        "document": {
+            "title": "Hypatiamat: Api de Dados e Escritório",
+            "abstract": {
+                "p": [
+                    "A aprendizagem de Matemática no ensino básico (EB) é um assunto muito debatido e as dificuldades sentidas pela generalidade dos alunos nesta área é preocupante. Um professor preocupa-se com questões de qual a forma que se deve captar a atenção dos alunos ou tentar provocar um maior gosto na generalidade dos alunos nesta disciplina. Os professores, além das técnicas que possuem para ensinar a matéria, começam a aderir cada vez mais às novas tecnologias que auxiliam o ensino, dado que permitem captar uma maior atenção por parte das crianças do mundo contemporâneo que, desde cedo, estão familiarizadas com as tecnologias atuais.",
+                    "Deste modo, o Hypatiamat, sendo uma plataforma web pedagógica e que auxilia o ensino básico da Matemática, permite a realização de jogos e aplicações de conteúdo consoante o ano de escolaridade e com níveis de dificuldade que ao longo do tempo irão aumentar, permitindo a evolução dos alunos na disciplina. Além disso, o Hypatiamat permite aos professores observarem a evolução dos seus alunos, originando um acompanhamento dos seus desempenhos nos diversos jogos e aplicações de conteúdo.",
+                    "Assim, nesta dissertação pretende-se fazer evoluir a arquitetura atual do Hypatiamat de um servidor monolítico para uma arquitetura baseada em micro-serviços. Nesse sentido, será especificada e documentada uma API de dados. Além disso, será construído um servidor de interface, designado por Escritório, onde serão acrescentadas novas funcionalidades relacionadas com a gestão do projeto: estatísticas de jogos e aplicações de conteúdo; gestão de utilizadores (adminstrador, professor, agrupamento, município e aluno); estatísticas globais de um ano letivo, geração de relatórios, entre outras funcionalidades."
+                ]
+            },
+            "palavras-chave": {
+                "palavra": [
+                    "Hypatiamat", "Arquitetura Micro-Serviços", "API de dados", "Escritório"
+                ]
+            }
+        },
+        "inst": "Dep. Informática - Universidade do Minho",
+        "beginyear": 2020,
+        "endyear": 2021,
+        "id": "thesup43"
+    },
+    {
+        "student": {
+            "id": "A83099",
+            "name": "Luís Filipe da Costa Cunha",
+            "program": {
+                "desc": "MIEI - Mestrado Integrado em Engenharia Informática"
+            }
+        },
+        "document": {
+            "title": "Entity Recognition in Archival Descriptions",
+            "abstract": {
+                "p": [
+                    "At the moment, there is a vast amount of archival data spread across the Por- tuguese archives, which keeps information from our ancestors’ times to the present day. Most of this information was already transcribed to digital format, and the public can access it through archives’ online repositories. Despite that, some of these documents are structured with many plain text fields without any annotations, mak- ing their content analyses difficult. In this thesis, we implemented several Named Entity Recognition solutions to perform a semantic interpretation of the archival finding aids by extracting named entities like Person, Place, Date, Profession, and Organization. These entities translate into crucial information about the context in which they are inserted. They can be used for several purposes with high confidence results, such as creating smart browsing tools by using entity linking and record linking techniques.",
+                    "In this way, the main challenge of this work was the creation of powerful NER models capable of producing high confidence results. In order to achieve high result scores, we annotated several corpora to train our Machine Learning algorithms in the archival domain. We also used different ML architectures such as MaxEnt, CNNs, LSTMs, and BERT models. During the model’s validation, we created different environments to test the effect of the context proximity in the training data.",
+                    "Finally, during the model’s training, we noticed a lack of available Portuguese annotated data, limiting the potential of several NLP tasks. In this way, we developed an intelligent corpus annotator that uses one of our NER models to assist and accelerate the annotation process."
+                ]
+            },
+            "palavras-chave": {
+                "palavra": [
+                    "Named Entity Recognition", "Archival Finding Aids", "Machine Learning", "Deep Learning", "BERT", "Data Annotation"
+                ]
+            }
+        },
+        "inst": "Dep. Informática - Universidade do Minho",
+        "beginyear": 2020,
+        "endyear": 2021,
+        "id": "thesup42"
+    },
+    {
+        "student": {
+            "id": "A63129",
+            "name": "José Duarte Santos Freitas",
+            "program": {
+                "desc": "MIEI - Mestrado Integrado em Engenharia Informática"
+            }
+        },
+        "document": {
+            "title": "CLAV: Planos de preservação digital",
+            "abstract": {
+                "p": [
+                    "Não podendo deixar de aproveitar os benefícios da era tecnológica que vivemos a Administração Pública Portuguesa caminha a passos largos para a digitalização de todo o seu processo organizacional.",
+                    "Tal se explica através de diversos fatores que, apesar de díspares, se complementam e interligam entre si.",
+                    "Assim, primeiramente se pensarmos no fator da proteção ambiental, a digitalização vai permitir uma redução da utilização de papel e simultaneamente uma redução de custos com o mesmo.",
+                    "Por outro lado, esta garante uma maior agilização e otimização dos processos administrativos, assegurando, ainda, uma maior longevidade aos documentos.",
+                    "De forma a atingir estes objetivos nasceu a plataforma Classificação e avaliação da informação pública (CLAV), plataforma essa que tem vindo a crescer ao longo dos últimos anos, que conta com vários colaboradores do Departamento de informática da universidade do Minho, sendo financiado pelo Simplex, visando a classificação e avaliação de toda a documentação presente na Administração Pública Portuguesa.",
+                    "Como referido esta plataforma já está bem madura e como tal já conta com diversas funcionalidades para criação e manutenção dos instrumentos de classificação e avaliação, esta dissertação pretende acrescentar uma nova componente ao CLAV que permita não só a criar como também gerir os planos de preservação digital.",
+                    "Para isso, é necessário definir um modelo a seguir, tendo em conta todos os seus requisitos e invariantes, e adicionar as interfaces necessárias ao CLAV, com todas as funcionalidades e métodos necessários para a criação, importação e manutenção dos planos de preservação digital."
+                    ]
+            },
+            "palavras-chave": {
+                "palavra": [
+                    "Planos de preservação digital", "CLAV", "digitalização", "classificação", "avaliação"
+                ]
+            }
+        },
+        "inst": "Dep. Informática - Universidade do Minho",
+        "beginyear": 2020,
+        "endyear": 2021,
+        "id": "thesup41"
+    },
+    {
+        "student": {
+            "id": "A76516",
+            "name": "João António Cidade Vieira",
+            "program": {
+                "desc": "MIEI - Mestrado Integrado em Engenharia Informática"
+            }
+        },
+        "document": {
+            "title": "Hypatiamat: Especificação e Implementação de um Componente para Gestão de Trabalhos de Casa",
+            "abstract": {
+                "p": [
+                    "O Hypatiamat é um projeto que pretende mapear as condições de (in)sucesso e assim, contribuir para a promoção do sucesso escolar dos alunos do Ensino Básico, na disciplina de Matemática.",
+                    "O desempenho escolar na Matemática é uma preocupação crescente junto da comunidade educativa: estamos todos preocupados com o elevado insucesso escolar e o correspondente abandono escolar precoce.",
+                    "Sabemos que a literatura educacional aponta a promoção do sucesso na Matemática e a utilização corrente das TIC na sala de aula como dois grandes desafios que a educação enfrenta na atualidade.",
+                    "Respondendo a estes desafios, a presente investigação organiza-se em torno da seguinte questão: Como podem as novas tecnologias, nomeadamente aplicações hipermédia utilizadas nos IWB (interactive whiteboards), contribuir para a promoção do sucesso escolar na Matemática[Hyp20]?",
+                    "Para responder a estes desafios foi criado o Projeto Hypatiamat cuja parte mais visível é a sua Plataforma web com inúmeras aplicações hipermédia e jogos sérios centrados nos conteúdos de Matemática do 1o ao 9o ano.",
+                    "Com algumas aplicações ainda em fase de testes, mas com a garantia da qualidade e correção dos conteúdos, esta Plataforma utilizada por milhares de alunos e professores, de norte a sul do país, pretende contribuir para a promoção do sucesso neste domínio de conhecimento.",
+                    "Nesta dissertação, pretende-se especificar e implementar um novo componente que permita a um professor criar, monitorizar e avaliar trabalhos de casa (TPC), para posteriormente serem realizados pelos respetivos alunos."
+                    ]
+            },
+            "palavras-chave": {
+                "palavra": [
+                    "Hypatiamat", "TPC", "Estatísticas", "Resoluções", "Exercícios"
+                ]
+            }
+        },
+        "inst": "Dep. Informática - Universidade do Minho",
+        "beginyear": 2020,
+        "endyear": 2021,
+        "id": "thesup40"
+    },
+    {
+        "student": {
+            "id": "A77045",
+            "name": "Ricardo Barros Pereira",
+            "program": {
+                "desc": "MIEI - Mestrado Integrado em Engenharia Informática"
+            }
+        },
+        "document": {
+            "title": "Development of a self-diagnosis tests system for integration in a cyber-physical system",
+            "doi": "https://hdl.handle.net/1822/79735",
+            "abstract": {
+                "p": [
+                    "Nowadays, CONTROLAR supplies with Bosch the Intelligent Functional Test System Machine, a cyber physical system developed to perform different levels of functional tests on electronic devices and compo nents.", 
+                    "Bosch uses it to test the correct functioning of the produced car radios.",
+                    "During this process, the car radios are subjected to several tests and the problem arises when the machine detects errors in several consecutive car radios and it is not possible to know if the machine itself has any problems, as it does not have any module that allows knowing whether it’s working correctly or not.",
+                    "The origin of this work arises from the need to find a solution that solves the referred problem, but also, innovative and with contributions to the world of research in cyber-physical systems and self-diagnosis tests systems.",
+                    "The solution is to integrate a self-diagnosis system into the machine that can test its functionality so that when these car radio failures appear, Bosch can be sure whether the problem is with the machine or the car radio. As the machine is a cyber-physical system, it allows the integration of a software system to control and manage all its actions.",
+                    "Therefore, it is necessary to develop a system to manage the tests and their execution, being able to detect internal failures in the machines. The work presented here addresses the problem by creating a new self-diagnosis tests system that will guarantee the reliability and integrity of the cyber-physical system.",
+                    "In detail, this dissertation begins by exposing a study on the current state of the art of cyber-physical systems, test automation, keyword-driven test methodology and some more concepts related to domain-specific languages that will be relevant to the final solution.",
+                    "The specification and analysis of the system are presented, to define well its components.",
+                    "A new modular and extensible architecture is proposed for self-diagnosis test systems, as well as a methodology for extending and integrate it into a cyber-physical system.",
+                    "A new self-diagnosis tests sys tem has been proposed that applies the proposed architecture proving that it is possible to carry out the self-diagnosis in real-time of the cyber-physical system and allowing the integration of any type of test.",
+                    "To validate the implementation of the system, 28 test cases were carried out to cover all its functionalities.",
+                    "The results show that all test cases passed and, therefore, the system meets all the proposed objectives."
+                    ]
+            },
+            "palavras-chave": {
+                "palavra": [
+                    "Sistemas ciber-físicos", "Auto-diagnóstico", "Automação de testes", "Aplicação web", "Cyber-physical systems",
+                    "Self-diagnosis", "Test automation", "Web Application"
+                ]
+            }
+        },
+        "inst": "Dep. Informática - Universidade do Minho",
+        "beginyear": 2020,
+        "endyear": 2021,
+        "id": "thesup39"
+    },
+    {
+        "student": {
+            "id": "A74036",
+            "name": "Manuel João Curopos Monteiro",
+            "program": {
+                "desc": "MIEI - Mestrado Integrado em Engenharia Informática"
+            }
+        },
+        "document": {
+            "title": "CLAV: tabelas de seleção",
+            "doi": "https://hdl.handle.net/1822/81014",
+            "abstract": {
+                "p": [
+                    "Na Administração Pública (AP) Portuguesa, tem havido uma recorrente preocupação em modernizar o arquivo que contém a informação gerada e recebida pelas diferentes entidades produtoras.",  
+                    "Este órgão (AP) tem proporcionado a utilização de sistemas de gestão documental eletrónicos, assim como a digitalização de documentos remetidos a serem arquivados.", 
+                    "Estas providências pretendem reduzir o consumo de papel e os consumíveis de impressão, bem como otimizar os processos e modernizar os procedimentos administrativos.", 
+                    "Destas necessidades surge então a Classificação e Avaliação da Informação Pública (CLAV), um projeto nacional, financiado pelo SIMPLEX, que visa simplificar a gestão documental da AP.", 
+                    "A CLAV tem o intuito de classificar e avaliar todos os documentos da AP, tendo como base as normas e regras coordenadas pela Direção-Geral do Livro, dos Arquivos e das Bibliotecas (DGLAB).", 
+                    "Muitas entidades da AP portuguesa têm os seus instrumentos de classificação e avaliação devidamente publicados em Diário da República numa Portaria de Gestão de Documentos (PGD) ou num Relatório de Avaliação de Documentação Acumulada (RADA), que contém o instrumento, a Tabela de Seleção (TS). No futuro, pretende-se que as TS sejam criadas na plataforma de forma assistida.", 
+                    "Já existe um protótipo desta funcionalidade que agora é necessário finalizar, bem como especificar todo o fluxo de trabalho necessário à aprovação final do instrumento.", 
+                    "Nesta dissertação, pretende-se especificar formalmente uma TS e acrescentar à ontologia do CLAV os conceitos e as relações necessários para a sua descrição.", 
+                    "Pretende-se ainda finalizar, na aplicação web do CLAV, as interfaces necessárias que permitam aos utilizadores criar ou remover de forma assistida as TS, especificar e definir todas as interfaces web necessárias ao fluxo de trabalho de análise, aprovação e remoção de uma TS."
+                ]
+            },
+            "palavras-chave": {
+                "palavra": [
+                    "Public Administration",
+                    "Documents",
+                    "CLAV",
+                    "DGLAB",
+                    "PGD",
+                    "RADA",
+                    "TS"
+                ]
+            }
+        },
+        "inst": "Dep. Informática - Universidade do Minho",
+        "beginyear": 2020,
+        "endyear": 2022,
+        "id": "thesup38"
+    },
+    {
+        "student": {
+            "id": "PG41841",
+            "name": "Carlos Miguel Rebelo Solans",
+            "program": {
+                "desc": "MEI - Mestrado em Engenharia Inform\u00e1tica"
+            }
+        },
+        "document": {
+            "title": "iOS Development: Increasing Home Banking Reliability with Integration of Strong Authentication Mechanism",
+            "doi": "https://hdl.handle.net/1822/82512",
+            "abstract": {
+                "p": [
+                    "At the moment, mobile applications are increasingly present in the daily lives of each individual, allowing them to perform different tasks, such as managing bank accounts and transaction of monetary funds.",
+                    "Due to the rapid adoption and development of IoT, it is also important to guarantee the protection of the users’ security from cyber attacks, preventing the access of these accounts and execution of certain operations not authorized by the respective account holders via Home-Banking applications.",
+                    "With this in mind, this Dissertation’s main objective is to analyze and integrate a security layer for the Authentication and Validation of fund transactions, called TrustFactor, in an existing Home-Banking application.",
+                    "Since the implementation will be aimed at mobile devices, issues related to the Application Develop- ment Paradigms and technologies used in the Apple ecosystem will be addressed."
+                     ]
+            },
+            "palavras-chave": {
+                "palavra": [
+                    "Home-Banking",
+                    "iOS Development",
+                    "Mobile Development",
+                    "Mobile Security",
+                    "CocoaTouch"
+                ]
+            }
+        },
+        "inst": "Dep. Inform\u00e1tica - Universidade do Minho",
+        "beginyear": 2020,
+        "endyear": 2022,
+        "id": "thesup37"
+    },
+    {
+        "student": {
+            "id": "A73639",
+            "name": "Carlos Miguel Lopes S\u00e1 Barbosa",
+            "program": {
+                "desc": "MIEI - Mestrado Integrado em Engenharia Inform\u00e1tica"
+            }
+        },
+        "document": {
+            "title": "Meta Data Migrator",
+            "doi": "https://hdl.handle.net/1822/80092",
+            "abstract": {
+                "p": [
+                    "Atualmente existem empresas que possuem informa\u00e7\u00e3o bastante valiosa, sendo necess\u00e1rio que haja uma boa gest\u00e3o dos \n          seus dados. Os sistemas de armazenamento t\u00eam um ciclo de vida, o que faz com que seja necess\u00e1ria a sua atualiza\u00e7\u00e3o \n          peri\u00f3dica. Sendo assim, o processo de migra\u00e7\u00e3o tornou-se fulcral para a atualiza\u00e7\u00e3o dos reposit\u00f3rios das empresas.",
+                    "Com o passar dos anos, houve a necessidade de automatizar o processo de migra\u00e7\u00e3o de modo a torn\u00e1-lo mais r\u00e1pido \n          e confi\u00e1vel. A partir desta necessidade foi proposto o desenvolvimento uma ferramenta que, a partir de um \n          mapeamento especificado por um utilizador, seja capaz de criar um conversor que realize uma migra\u00e7\u00e3o.",
+                    "Para ajudar ao desenvolvimento da ferramenta, foram propostos subobjetivos. Utilizando o objetivo principal \n          como refer\u00eancia, foram efetuados v\u00e1rios estudos sobre boas pr\u00e1ticas para a realiza\u00e7\u00e3o de um processo de migra\u00e7\u00e3o, \n          bem como abordagens existentes.",
+                    "Ap\u00f3s os estudos efetuados, desenvolveu-se a ferramenta de acordo com os subobjetivos propostos. \n          De seguida, o trabalho realizado foi validado com um caso de estudo real.",
+                    "Na conclus\u00e3o, reflete-se acerca do trabalho realizado, das modifica\u00e7\u00f5es necess\u00e1rias e de poss\u00edveis adi\u00e7\u00f5es."
+                ]
+            },
+            "palavras-chave": {
+                "palavra": [
+                    "CLAV",
+                    "Relat\u00f3rio de Avalia\u00e7\u00e3o de Documenta\u00e7\u00e3o Acumulada",
+                    "RADA"
+                ]
+            }
+        },
+        "inst": "Dep. Inform\u00e1tica - Universidade do Minho",
+        "beginyear": 2020,
+        "endyear": 2022,
+        "id": "thesup0"
+    },
+    {
+        "student": {
+            "id": "A73639",
+            "name": "Frederico Daniel Pereira Pinto",
+            "program": {
+                "desc": "MIEI - Mestrado Integrado em Engenharia Inform\u00e1tica"
+            }
+        },
+        "document": {
+            "title": "CLAV: Classifica\u00e7\u00e3o e Avalia\u00e7\u00e3o da Informa\u00e7\u00e3o P\u00fablica, Especifica\u00e7\u00e3o e Implementa\u00e7\u00e3o dos RADA",
+            "abstract": {
+                "p": [
+                    "A administra\u00e7\u00e3o p\u00fablica portuguesa \u00e9 bastante complexa possuindo processos administrativos demasiados penosos e \n          lentos para os tempos em que vivemos. Com o intuito de melhorar, o governo portugu\u00eas criou um programa \n          denominado Simplex+ que cont\u00e9m in\u00fameras medidas que visam simplificar e modernizar os processos administrativos \n          nas entidades p\u00fablicas.",
+                    "Com o prop\u00f3sito de desmaterializar e simplificar os processos administrativos do arquivo nacional foi criada uma \n          medida no programa Simplex+, denominada \u201dArquivo Digital\u201d. Esta medida tem como intuito implementar instrumentos \n          transversais de gest\u00e3o da documenta\u00e7\u00e3o que visam classificar e avaliar os documentos produzidos e recebidos nos organismos \n          p\u00fablicos, disponibilizando-os numa plataforma online. Como execu\u00e7\u00e3o da \u00faltima etapa da medida nasce a Projeto \n          M51-CLAV-Arquivo digital: Plataforma modular de classifica\u00e7\u00e3o e avalia\u00e7\u00e3o da informa\u00e7\u00e3o p\u00fablica (CLAV).",
+                    "Nos \u00faltimos anos, a CLAV tem vindo a ser desenvolvida na Universidade do Minho (UM) sobre orienta\u00e7\u00e3o do Professor \n          Jos\u00e9 Carlos Ramalho em conjunto com os respons\u00e1veis da entidade detentora do projeto, Dire\u00e7\u00e3o-Geral do Livro, dos \n          Arquivos e das Bibliotecas (DGLAB).",
+                    "Como grande objetivo desta disserta\u00e7\u00e3o surge a introdu\u00e7\u00e3o na plataforma CLAV de um dos instrumentos de gest\u00e3o documental, \n          o Relat\u00f3rio de Avalia\u00e7\u00e3o de Documenta\u00e7\u00e3o Acumulada (RADA). \n          Este instrumento que foi criado h\u00e1 v\u00e1rios anos visava classificar e avaliar a documenta\u00e7\u00e3o produzida ap\u00f3s esta ter sido criada.",
+                    "Para atingir o grande objetivo e cumprir os requisitos impostos pela DGLAB foi necess\u00e1rio criar na aplica\u00e7\u00e3o web da \n          plataforma novas interfaces que suportem a cria\u00e7\u00e3o de um pedido RADA, que possibilitem a an\u00e1lise, valida\u00e7\u00e3o, \n          consulta e despacho do pedido no workflow de pedidos e posteriormente uma interface que permita a consulta e exporta\u00e7\u00e3o em \n          PDF de um RADA aprovado e presente na plataforma. Aliado aos desenvolvimentos na aplica\u00e7\u00e3o web foi necess\u00e1rio tamb\u00e9m \n          especificar o dom\u00ednio de dados do RADA na ontologia da plataforma bem como adaptar e construir novas rotas na \n          Application Programming Interface (API) para suportarem o funcionamento deste novo universo.",
+                    "Todos os desenvolvimentos efetuados nesta disserta\u00e7\u00e3o est\u00e3o dispon\u00edveis em produ\u00e7\u00e3o no s\u00edtio web da \n          CLAV: https://clav.dglab.gov.pt."
+                ]
+            },
+            "palavras-chave": {
+                "palavra": [
+                    "CLAV",
+                    "Relat\u00f3rio de Avalia\u00e7\u00e3o de Documenta\u00e7\u00e3o Acumulada",
+                    "RADA"
+                ]
+            }
+        },
+        "inst": "Dep. Inform\u00e1tica - Universidade do Minho",
+        "beginyear": 2020,
+        "endyear": 2022,
+        "id": "thesup1"
+    },
+    {
+        "student": {
+            "id": "A78821",
+            "name": "Jos\u00e9 Carlos Lima Martins",
+            "program": {
+                "desc": "MIEI - Mestrado Integrado em Engenharia Inform\u00e1tica"
+            }
+        },
+        "document": {
+            "title": "CLAV: API de dados e Autentica\u00e7\u00e3o",
+            "doi": "https://hdl.handle.net/1822/82134",
+            "abstract": {
+                "p": [
+                    "A Administra\u00e7\u00e3o P\u00fablica portuguesa tem desmaterializado processos e tem promovido a ado\u00e7\u00e3o de sistemas de gest\u00e3o documental eletr\u00f3nica bem como a digitaliza\u00e7\u00e3o de documentos destinados a serem arquivados. \n        Estas medidas pretendem atingir a otimiza\u00e7\u00e3o de processos, a moderniza\u00e7\u00e3o de procedimentos administrativos e a redu\u00e7\u00e3o de papel.",
+                    "Com o prop\u00f3sito de atingir estes objetivos e simplificar a gest\u00e3o documental na Administra\u00e7\u00e3o P\u00fablica, a Classifica\u00e7\u00e3o e Avalia\u00e7\u00e3o da Informa\u00e7\u00e3o P\u00fablica (CLAV) nasce como uma das medidas. \n          A CLAV tem como finalidade a classifica\u00e7\u00e3o e a avalia\u00e7\u00e3o da informa\u00e7\u00e3o p\u00fablica por forma a auxiliar os sistemas de informa\u00e7\u00e3o das entidades p\u00fablicas alertando-as quando determinado documento deve ser arquivado ou eliminado. \n          Para tal esta possui um referencial comum, a Lista Consolidada, com as fun\u00e7\u00f5es e processos de neg\u00f3cio das entidades p\u00fablicas associadas a um cat\u00e1logo de legisla\u00e7\u00e3o e de organismos.",
+                    "Nos \u00faltimos dois anos, a CLAV tem vindo a ser desenvolvida no departamento de inform\u00e1tica da Universidade do Minho em estreita colabora\u00e7\u00e3o com a equipa de investiga\u00e7\u00e3o da \u00e1rea na Dire\u00e7\u00e3o-Geral do Livro, dos Arquivos e das Bibliotecas.",
+                    "\u00c0 data de in\u00edcio deste trabalho, a CLAV era constitu\u00edda por dois servidores de bases de dados que tinham como interlocutor o servidor da API de dados da CLAV. \n          Era com este servidor da API de dados que toda a intera\u00e7\u00e3o com o exterior passava: acesso de aplica\u00e7\u00f5es de terceiras partes e acessos da interface cliente desenvolvida para a CLAV.",
+                    "Nesta disserta\u00e7\u00e3o, o grande objetivo era fazer evoluir a arquitetura aplicacional dando resposta a uma s\u00e9rie de requisitos e tentando simplificar ao m\u00e1ximo o processo da sua manuten\u00e7\u00e3o futura.",
+                    "Nesse sentido, especificou-se e implementou-se um servi\u00e7o para a prote\u00e7\u00e3o da API de dados da CLAV, especificou-se a documenta\u00e7\u00e3o desta API de dados, definiram-se os formatos de exporta\u00e7\u00e3o e implementaram-se os exportadores desta API por \n          forma a permitir uma maior interoperabilidade dos dados, implementou-se a autentica\u00e7\u00e3o com a Chave M\u00f3vel Digital recorrendo ao Autentica\u00e7\u00e3o.gov, criaram-se os mecanismos necess\u00e1rios \u00e0 migra\u00e7\u00e3o de HTTP para HTTPS e, por fim, \n          adicionou-se uma API Gateway na CLAV por forma a simplificar o funcionamento e gest\u00e3o da plataforma.",
+                    "Todos estes desenvolvimentos est\u00e3o em produ\u00e7\u00e3o e podem ser observados acedendo ao s\u00edtio Web oficial da CLAV: https://clav.dglab.gov.pt"
+                ]
+            },
+            "palavras-chave": {
+                "palavra": [
+                    "API Gateway",
+                    "Autentica\u00e7\u00e3o",
+                    "Autentica\u00e7\u00e3o.gov",
+                    "CLAV",
+                    "Swagger"
+                ]
+            }
+        },
+        "inst": "Dep. Inform\u00e1tica - Universidade do Minho",
+        "beginyear": 2020,
+        "endyear": 2021,
+        "id": "thesup2"
+    },
+    {
+        "student": {
+            "id": "A78416",
+            "name": "Francisco Jos\u00e9 Moreira Oliveira",
+            "program": {
+                "desc": "MIEI - Mestrado Integrado em Engenharia Inform\u00e1tica"
+            }
+        },
+        "document": {
+            "title": "Developing a RDF4J Frontend",
+            "doi": "https://hdl.handle.net/1822/80738",
+            "abstract": {
+                "p": [
+                    "No passado, dados n\u00e3o era partilhada e permanecia isolada, impedindo comunica\u00e7\u00e3o entre datasets.\n          Atualmente, temos maiores volumes de dados e num mundo onde tudo est\u00e1 interligado, os nossos dados tamb\u00e9m seguem essa tend\u00eancia.",
+                    "O foco de modelo de dados alterou de uma estrutura quadrada, como o modelo relacional, para um modelo centrado em rela\u00e7\u00f5es.\n          Grafos de Conhecimento s\u00e3o o novo paradigma para a representa\u00e7\u00e3o e manipula\u00e7\u00e3o desta nova estrutura de dados.",
+                    "Com o novo paradigma, bases de dados de grafos emergiram para suportar as novas necessidades.\n          Apesar do aumento de interesse neste campo, apenas algumas solu\u00e7\u00f5es nativas est\u00e3o dispon\u00edveis.\n          A maioria requere uma licen\u00e7a comercial, e as op\u00e7\u00f5es open-source s\u00e3o interfaces b\u00e1sicas ou desatualizadas, e por consequ\u00eancia, distantes a muitos utilizadores.",
+                    "Nesta tese introduzimos o Open Web Ontobud e discutimos o seu design e desenvolvimento.\n          O Ontobud \u00e9 uma aplica\u00e7\u00e3o Web direcionada ao melhoramento da interface de uma das mais fascinantes e influentes frameworks nesta \u00e1rea: o RDF4J.\n          O RDF4J \u00e9 uma framework em Java para guardar, manipular e inquirir grafos RDF.",
+                    "Open Web Ontobud \u00e9 um open-source web frontend para o RDF4J criado para diminuir a separa\u00e7\u00e3o entre os utilizadores e o RDF4J backend.\n          N\u00f3s criamos uma interface web que permite utilizadores com conhecimento b\u00e1sico de OWL e SPARQL explorar ontologias atrav\u00e9s de tabelas de recursos ou grafos, e inquirir informa\u00e7\u00e3o com queries SPARQL.\n          O objetivo da interface \u00e9 ser intuitiva, com tooltips e ajuda quando necess\u00e1rio, bem como alguma informa\u00e7\u00e3o de estat\u00edsticas numa forma facilmente acess\u00edvel.",
+                    "Apesar do frontend ser o foco principal, o backend e duas bases de dados tamb\u00e9m s\u00e3o utilizadas, para um total de quatro componentes nesta framework.\n          Para a melhor experi\u00eancia de inicializa\u00e7\u00e3o utilizamos Docker pela sua simplicidade, permitindo inicializa\u00e7\u00e3o em poucos comandos. Cada componente tem uma imagem dedicada, \n          seguindo um design modular e permitindo cada componente ser executada em m\u00e1quinas separadas se necess\u00e1rio."
+                ]
+            },
+            "palavras-chave": {
+                "palavra": [
+                    "RDF4J",
+                    "REST API",
+                    "RDF",
+                    "SPARQL"
+                ]
+            }
+        },
+        "inst": "Dep. Inform\u00e1tica - Universidade do Minho",
+        "beginyear": 2019,
+        "endyear": 2021,
+        "id": "thesup3"
+    },
+    {
+        "student": {
+            "id": "PG38425",
+            "name": "Rui Filipe Ferreira Ara\u00fajo",
+            "program": {
+                "desc": "MIEI - Mestrado em Engenharia Inform\u00e1tica"
+            }
+        },
+        "document": {
+            "title": "Especifica\u00e7\u00e3o e implementa\u00e7\u00e3o de um workflow numa plataforma para classifica\u00e7\u00e3o e avalia\u00e7\u00e3o documental",
+            "doi": "https://hdl.handle.net/1822/81106",
+            "abstract": {
+                "p": [
+                    "A substitui\u00e7\u00e3o do papel pelo formato digital nas institui\u00e7\u00f5es e empresas tornou-se uma pr\u00e1tica comum, sendo que algumas j\u00e1 extinguiram a utiliza\u00e7\u00e3o de formatos anal\u00f3gicos. \n          As pol\u00edticas europeias incentivam a que sejam adotadas medidas para a redu\u00e7\u00e3o de papel. \n          Desta forma, a administra\u00e7\u00e3o p\u00fablica tem abandonado a utiliza\u00e7\u00e3o de suportes anal\u00f3gicos, substituindo-os pelo formato digital, tendo as entidades p\u00fablicas passado a prestar \n          os seus servi\u00e7os e a disponibilizar a documenta\u00e7\u00e3o de forma eletr\u00f3nica.",
+                    "A Plataforma \"CLAV - Classifica\u00e7\u00e3o e avalia\u00e7\u00e3o da informa\u00e7\u00e3o p\u00fablica\" desenvolvida pela DGLAB pretende disponibilizar instrumentos, \n          tal como a Lista Consolidada; a media\u00e7\u00e3o desmaterializada da produ\u00e7\u00e3o de tabelas de sele\u00e7\u00e3o; e a presta\u00e7\u00e3o de um servi\u00e7o automatizado de controlo da elimina\u00e7\u00e3o da informa\u00e7\u00e3o p\u00fablica. \n          A ado\u00e7\u00e3o de esquemas de metainforma\u00e7\u00e3o para a interoperabilidade permite a disponibiliza\u00e7\u00e3o de uma linguagem comum aos v\u00e1rios organismos da Administra\u00e7\u00e3o existente na \n          Lista Consolidada, atrav\u00e9s da plataforma CLAV, permitindo ainda a integra\u00e7\u00e3o com sistemas de informa\u00e7\u00e3o organizacionais e a troca de informa\u00e7\u00e3o entre entidades.",
+                    "Em concord\u00e2ncia com os objetivos delineados para o desenvolvimento do projeto, realizou-se um estudo sobre abordagens id\u00eanticas ao CLAV noutros pa\u00edses, onde foram identificadas \n          as formas de classifica\u00e7\u00e3o desenvolvidas e as tecnologias utilizadas para essa implementa\u00e7\u00e3o, fazendo uma compara\u00e7\u00e3o com a abordagem de Portugal. \n          O plano de trabalho do projeto dividiu-se ent\u00e3o em tr\u00eas fases. Inicialmente realizou-se um estudo te\u00f3rico acerca da abordagem de Andaluzia (Espanha) e a de Portugal. \n          Seguiu-se com o desenvolvimento de um modelo gr\u00e1fico acompanhando as especifica\u00e7\u00f5es do \\textit{Business Process Model and Notation} e, por fim, a implementa\u00e7\u00e3o e o \n          desenvolvimento desse modelo na plataforma CLAV."
+                ]
+            },
+            "palavras-chave": {
+                "palavra": [
+                    "Administra\u00e7\u00e3o P\u00fablica",
+                    "CLAV",
+                    "Web Sem\u00e2ntica",
+                    "Workflow"
+                ]
+            }
+        },
+        "inst": "Dep. Inform\u00e1tica - Universidade do Minho",
+        "beginyear": 2019,
+        "endyear": 2021,
+        "id": "thesup4"
+    },
+    {
+        "student": {
+            "id": "PG38413",
+            "name": "Ezequiel Jos\u00e9 Veloso Ferreira Moreira",
+            "program": {
+                "desc": "MIEI - Mestrado em Engenharia Inform\u00e1tica"
+            }
+        },
+        "document": {
+            "title": "SPARQL versus CYPHER",
+            "subtitle": "um estudo comparativo",
+            "doi": "https://hdl.handle.net/1822/82133",
+            "abstract": {
+                "p": [
+                    "Com a crescente necessidade de armazenar dados sobre forma digital as ontologias tornam-se cada vez mais relevantes \n          como maneira simples de expressar conhecimento. Assim bases de dados capazes de guardar este tipo de estruturas de dados de modo eficaz, \n          nomeadamente bases de dados orientadas a grafos, t\u00eam visto a sua utiliza\u00e7\u00e3o aumentar.",
+                    "Nesta disserta\u00e7\u00e3o foram estudados dois motores de base de dados deste tipo: o GraphDB e o Neo4j.\n          GraphDB foi criado para armazenamento de ontologias Web: OWL, SKOS e RDF, podendo estas ser interrogadas atrav\u00e9s de SPARQL, \n          enquanto Neo4J foi desenhado para armazenar informa\u00e7\u00e3o fortemente relacionada: grafos de informa\u00e7\u00e3o dos quais as ontologias fazem parte, \n          sendo CYPHER a linguagem de query utilizada para a sua explora\u00e7\u00e3o.",
+                    "Nesta disserta\u00e7\u00e3o estudou-se a viabilidade de armazenar ontologias em Neo4J e explor\u00e1-las utilizando CYPHER.",
+                    "Ao longo do processo da resolu\u00e7\u00e3o deste problema foi determinado um segundo objectivo: criar uma camada tecnol\u00f3gica que permite o uso de SPARQL para interrogar o Neo4J.",
+                    "Nesse sentido foi realizado um estudo comparativo das duas linguagens, implementou-se um compilador capaz de traduzir um subconjunto de queries SPARQL \n          em CYPHER e foi desenvolvida uma bateria de testes que permitem fazer o benchmarking da tecnologia criada.",
+                    "Finalmente foi constru\u00eddo um prot\u00f3tipo Web que implementa uma frontend sobre o Neo4J de modo a permitir n\u00e3o s\u00f3 armazenar ontologias como interrog\u00e1-las atrav\u00e9s de SPARQL."
+                ]
+            },
+            "palavras-chave": {
+                "palavra": [
+                    "Bases de Dados Orientadas a Grafos",
+                    "CYPHER",
+                    "SPARQL",
+                    "OWL",
+                    "RDF"
+                ]
+            }
+        },
+        "inst": "Dep. Inform\u00e1tica - Universidade do Minho",
+        "beginyear": 2019,
+        "endyear": 2020,
+        "id": "thesup5"
+    },
+    {
+        "student": {
+            "id": "A73547",
+            "name": "Alexandre Nunes da Costa Morango Teixeira",
+            "program": {
+                "desc": "MIEI - Mestrado Integrado em Engenharia Inform\u00e1tica"
+            }
+        },
+        "document": {
+            "title": "CLAV: Autos de Elimin\u00e7\u00e3o",
+            "doi": "https://hdl.handle.net/1822/82137",
+            "abstract": {
+                "p": [
+                    "Na Administra\u00e7\u00e3o P\u00fablica portuguesa, existe uma preocupa\u00e7\u00e3o recorrente em rela\u00e7\u00e3o \u00e0 informa\u00e7\u00e3o gerada e recebida pelas diferentes entidades produtoras, \n          sendo o uso de papel um fator significativo na perda de informa\u00e7\u00e3o.",
+                    "A CLAV \u00e9 um projeto nacional, financiado pelo Simplex, que visa a classifica\u00e7\u00e3o e avalia\u00e7\u00e3o de todos os documentos da administra\u00e7\u00e3o p\u00fablica portuguesa, \n          com base em normas e orienta\u00e7\u00f5es delineadas pela Dire\u00e7\u00e3o Geral do Livro, dos Arquivos e das Bibliotecas.",
+                    "A aplica\u00e7\u00e3o e o modelo de desenvolvimento j\u00e1 suportavam a cria\u00e7\u00e3o e a manuten\u00e7\u00e3o dos instrumentos de classifica\u00e7\u00e3o e avalia\u00e7\u00e3o, designados por Lista Consolidada \n          e Tabelas de Sele\u00e7\u00e3o, onde j\u00e1 estavam definidos padr\u00f5es de controlo, gest\u00e3o e acesso \u00e0 informa\u00e7\u00e3o ou documentos arquiv\u00edsticos.",
+                    "Esta disserta\u00e7\u00e3o implementou a a\u00e7\u00e3o de avalia\u00e7\u00e3o, especificamente, a gest\u00e3o e controlo dos procedimentos de elimina\u00e7\u00e3o. \n          Assim, foi necess\u00e1rio definir um modelo para as instru\u00e7\u00f5es de elimina\u00e7\u00e3o juntamente com todos os seus requisitos e invariantes. \n          Na plataforma CLAV foi crucial adicionar as interfaces que implementam os m\u00e9todos e funcionalidades necess\u00e1rias para criar ou importar as \n          instru\u00e7\u00f5es de Elimina\u00e7\u00e3o e todas as funcionalidades relacionadas ao seu processamento, nomeadamente, o registo da meta-informa\u00e7\u00e3o num banco de dados est\u00e1tico, \n          an\u00e1lise e consulta das declara\u00e7\u00f5es de elimina\u00e7\u00e3o, entre outros."
+                ]
+            },
+            "palavras-chave": {
+                "palavra": [
+                    "CLAV",
+                    "Lista Consolidada (LC)",
+                    "Tabela de Sele\u00e7\u00e3o (TS)",
+                    "Relat\u00f3rio de Avalia\u00e7\u00e3o de Documenta\u00e7\u00e3o Acumulada (RADA)",
+                    "Auto de Elimina\u00e7\u00e3o (AE)"
+                ]
+            }
+        },
+        "inst": "Dep. Inform\u00e1tica - Universidade do Minho",
+        "beginyear": 2019,
+        "endyear": 2020,
+        "id": "thesup6"
+    },
+    {
+        "student": {
+            "id": "A70938",
+            "name": "Diogo Meira Neves",
+            "program": {
+                "desc": "MIEI - Mestrado Integrado em Engenharia Inform\u00e1tica"
+            }
+        },
+        "document": {
+            "title": "OntoReport",
+            "subtitle": "Gerador de relat\u00f3\u0301rios sobre ontologias",
+            "doi": "https://hdl.handle.net/1822/79955",
+            "abstract": {
+                "p": [
+                    "Uma ontologia pode ser definida como um modelo de dados, que representa uma descri\u00e7\u00e3o de conceitos num determinado dom\u00ednio. Esta tem como principal objetivo, aumentar a compreens\u00e3o partilhada num determinado dom\u00ednio, eliminando as diferen\u00e7as, sobreposi\u00e7\u00f5es e incompatibilidades em conceitos, estruturas, entre outros, criando assim uma especifica\u00e7\u00e3o formal leg\u00edvel por um computador, e explicita, no sentido em que as entidades da ontologia s\u00e3o claramente definidas, distintas e inter-relacionadas entre si.",
+                    "Tendo em conta o aumento exponencial de dados presentes na WEB, ontologias t\u00eam sido cada vez mais usadas como modelo de armazenamento de dados. Este aumento de usabilidade leva a que seja necess\u00e1rio o desenvolvimento de ferramentas que nos permitam criar/editar/analisar ontologias, ou seja, que nos permitam m\u00e3o s\u00f3 interagir com elas, mas tamb\u00e9m realizar um tratamento dos dados consequentemente recolhidos.",
+                    "Assim, pretende-se nesta disserta\u00e7\u00e3o, desenvolver uma aplica\u00e7\u00e3o web capaz de gerar, atrav\u00e9s de uma especifica\u00e7\u00e3o, um relat\u00f3rio, referente a uma determinada ontologia acess\u00edvel atrav\u00e9s de um determinado endpoint. Por outras palavras, pretende-se a cria\u00e7\u00e3o de uma aplica\u00e7\u00e3o que permita ao utilizador obter, da ontologia, apenas os dados que pretende, em vez de uma quantidade enorme de dados sem qualquer tratamento pr\u00e9vio."
+                ]
+            }
+        },
+        "inst": "Dep. Inform\u00e1tica - Universidade do Minho",
+        "beginyear": 2018,
+        "endyear": 2019,
+        "id": "thesup7"
+    },
+    {
+        "student": {
+            "id": "A71369",
+            "name": "Oct\u00e1vio Jos\u00e9 Azevedo Maia",
+            "program": {
+                "desc": "MIEI - Mestrado Integrado em Engenharia Inform\u00e1tica"
+            }
+        },
+        "document": {
+            "title": "CLAV: Autentica\u00e7\u00e3o e integra\u00e7\u00e3o na plataforma iAP",
+            "doi": "https://hdl.handle.net/1822/79707",
+            "abstract": {
+                "p": [
+                    "Existe uma preocupa\u00e7\u00e3o cada vez maior em rela\u00e7\u00e3o \u00e0 quantidade de informa\u00e7\u00e3o gerada e recebida por diversas institui\u00e7\u00f5es.",
+                    "N\u00e3o s\u00f3 no que toca ao consumo excessivo de papel, como tamb\u00e9m a gest\u00e3o de grandes quantidades de informa\u00e7\u00e3o.",
+                    "Com o intuito de simplificar a gest\u00e3o documental, o governo tem desenvolvido diversas estrat\u00e9gias.",
+                    "Nomeadamente, na AP, com base em normas e orienta\u00e7\u00f5es provenientes da Comiss\u00e3o Europeia.",
+                    "A CLAV, surge como uma dessas estrat\u00e9gias.",
+                    "Esta visa a classifica\u00e7\u00e3o e a avalia\u00e7\u00e3o de toda a documenta\u00e7\u00e3o que circula na Administra\u00e7\u00e3o P\u00fablica portuguesa, utilizando um referencial comum que permite o desenvolvimento de instrumentos de natureza transversal a aplicar em contexto organizacional.",
+                    "Esta disserta\u00e7\u00e3o tem como objetivo prim\u00e1rio, a integra\u00e7\u00e3o dos servi\u00e7os da plataforma Autentica\u00e7\u00e3o.Gov na CLAV, bem como a cria\u00e7\u00e3o de estrat\u00e9gias apropriadas de gest\u00e3o de utilizadores, autentica\u00e7\u00e3o de pedidos referentes \u00e0 API p\u00fablica disponibilizada, autentica\u00e7\u00e3o no backend e seguran\u00e7a da aplica\u00e7\u00e3o."
+                ]
+            }
+        },
+        "inst": "Dep. Inform\u00e1tica - Universidade do Minho",
+        "beginyear": 2018,
+        "endyear": 2019,
+        "id": "thesup8"
+    },
+    {
+        "student": {
+            "id": "a71655",
+            "name": "Alfredo Miguel Macedo Gomes",
+            "program": {
+                "desc": "MIEI - Mestrado Integrado em Engenharia Inform\u00e1tica"
+            }
+        },
+        "document": {
+            "title": "CLAV: Avalia\u00e7\u00e3o da Informa\u00e7\u00e3o P\u00fablica",
+            "doi": "https://hdl.handle.net/1822/79982",
+            "abstract": {
+                "p": [
+                    "Existe uma preocupa\u00e7\u00e3o cada vez maior em rela\u00e7\u00e3o \u00e0 quantidade de informa\u00e7\u00e3o gerada e recebida por diversas institui\u00e7\u00f5es, n\u00e3o s\u00f3 no que\n          concerne ao consumo excessivo de papel, como tamb\u00e9m \u00e0 gest\u00e3o de grandes quantidades de informa\u00e7\u00e3o.",
+                    "Com o intuito de simplificar esta gest\u00e3o documental, foi criado o \"Projeto M51-CLAV- Arquivo digital: Plataforma modular de classifica\u00e7\u00e3o e\n          avalia\u00e7\u00e3o da informa\u00e7\u00e3o p\u00fablica\" que visa a classifica\u00e7\u00e3o e a avalia\u00e7\u00e3o de toda a documenta\u00e7\u00e3o que circula na Administra\u00e7\u00e3o P\u00fa\u0301blica\n          portuguesa, utilizando um referencial comum que permite o desenvolvimento de instrumentos de natureza transversal a aplicar em contexto\n          organizacional. Este referencial \u00e9 a Lista Consolidada (LC) e foi estruturada atrav\u00e9s de um projeto colaborativo de grande parte dos\n          organismos da Administra\u00e7\u00e3o P\u00fablica.",
+                    "Estando o projeto j\u00e1\u0301 numa fase avan\u00e7ada, a LC foi modelada como uma ontologia OWL e encontra-se dispon\u00edvel para consulta na plataforma do\n          CLAV, sendo que est\u00e3o em desenvolvimento outras funcionalidades, com recurso \u00e0 utiliza\u00e7\u00e3o de diferentes tecnologias e ferramentas, com o fim\n          de tornar esta plataforma capaz da gest\u00e3o documental referida. Uma dessas funcionalidades pretendidas \u00e9 a cria\u00e7\u00e3o de instrumentos de\n          classifica\u00e7\u00e3o e avalia\u00e7\u00e3o, chamados de Tabelas de Sele\u00e7\u00e3o (TS), que \u00e9 o foco e o objetivo principal desta disserta\u00e7\u00e3o. Pretende-se ent\u00e3o\n          tornar a plataforma capaz do processo de cria\u00e7\u00e3o de uma TS de uma forma simples, r\u00e1pida e intuitiva, e que se prende com o preenchimento de\n          um formul\u00e1rio com v\u00e1rios passos. Ap\u00f3s este preenchimento, \u00e9 submetido um pedido de submiss\u00e3o de uma nova TS, pedido esse que ter\u00e1 de passar\n          por uma tramita\u00e7\u00e3o para que seja validado e, caso isso aconteca, a TS passar\u00e1 a ser um instrumento de extrema import\u00e2ncia para avaliar e\n          classificar os documentos produzidos pela(s) entidade(s) em causa, ou seja, permite uma melhor gest\u00e3o documental.",
+                    ""
+                ]
+            },
+            "palavras-chave": {
+                "palavra": [
+                    "Administra\u00e7\u00e3o P\u00fablica",
+                    "Gest\u00e3o documental",
+                    "Macroestrutura Funcional",
+                    "Plataforma CLAV",
+                    "Tabelas de Sele\u00e7\u00e3o",
+                    "Lista Consolidada",
+                    "Ontologia"
+                ]
+            }
+        },
+        "inst": "Dep. Inform\u00e1tica - Universidade do Minho",
+        "beginyear": 2018,
+        "endyear": 2019,
+        "id": "thesup9"
+    },
+    {
+        "student": {
+            "id": "a71509",
+            "name": "Cláudia Azevedo Marques",
+            "program": {
+                "desc": "MIEI - Mestrado Integrado em Engenharia Inform\u00e1tica"
+            }
+        },
+        "document": {
+            "title": "CLAV: Editor gen\u00e9rico de XML",
+            "doi": "https://hdl.handle.net/1822/80748",
+            "abstract": {
+                "p": [ "Nos dias de hoje, in\u00fameras institui\u00e7\u00f5es recebem, todos os dias, uma vasta quantidade de informa\u00e7\u00e3o e, muitas das vezes em papel.", 
+                "Desta forma, existe uma preocupa\u00e7\u00e3o cada vez maior quer no consumo excessivo de papel quer na gest\u00e3o de uma grande quantidade de informa\u00e7\u00e3o.", 
+                "Com o intuito de simplificar a gestão documental, o governo tem concebido algumas estrat\u00e9gias, particularmente na Administra\u00e7\u00e3o P\u00fablica (AP), com base em normas e orienta\u00e7\u00f5es provenientes da Comiss\u00e3o Europeia. Assim, surge uma dessas estrat\u00e9gias, o Projeto \"M51-CLAV- Arquivo digital: Plataforma modular de classifica\u00e7\u00e3o e avalia\u00e7\u00e3o da informa\u00e7\u00e3o p\u00fablica\", da Dire\u00e7\u00e3o-Geral do Livro, dos Arquivos e das Bibliotecas (DGLAB).", 
+                "O objetivo principal deste projeto é a automatiza\u00e7\u00e3o de alguns processos relativos \u00e0 classifica\u00e7\u00e3o e avalia\u00e7\u00e3o de documenta\u00e7\u00e3o na Administra\u00e7\u00e3o P\u00fablica Portuguesa, utilizando um referencial comum que permite o desenvolvimento de instrumentos de natureza transversal a aplicar em contexto organizacional.", 
+                "Desta forma, nesta disserta\u00e7\u00e3o, pretende-se ter fora da Plataforma \"CLAV - Classifica\u00e7\u00e3o e avalia\u00e7\u00e3o da informa\u00e7\u00e3o p\u00fablica\u201d, um ambiente que permita \u00e0s pessoas manipular e editar a informa\u00e7\u00e3o relativa aos processos de neg\u00f3cio da Administra\u00e7\u00e3o P\u00fablica (AP).", 
+                "Desse modo, numa fase inicial foi feito um XML Schema, com base na Macroestrutura Funcional (MEF), com os dados da CLAV.",
+                "Posteriormente, pretende-se ver de que forma \u00e9 que alguns dos invariantes sobre os processos de neg\u00f3cio podem ser colocados a n\u00edvel do schema, e depois implementados no Xonomy - um editor XML em JavaScript."
+                ]
+            },
+            "palavras-chave": {
+                "palavra": [
+                    "Administra\u00e7\u00e3o P\u00fablica",
+                    "Gest\u00e3o documental",
+                    "Macroestrutura Funcional",
+                    "Plataforma CLAV"
+                ]
+            }
+        },
+        "inst": "Dep. Inform\u00e1tica - Universidade do Minho",
+        "beginyear": 2018,
+        "endyear": 2019,
+        "id": "thesup10"
+    },
+    {
+        "student": {
+            "id": "PG29026",
+            "name": "Frederico Moreira Ribeiro",
+            "program": {
+                "desc": "MEI - Mestrado em Engenharia Inform\u00e1tica"
+            }
+        },
+        "document": {
+            "title": "Especificação de uma ontologia para genealogia",
+            "doi": "https://hdl.handle.net/1822/56058",
+            "abstract": {
+                "p": [
+                    "Este documento apresenta uma proposta de disserta\u00e7\u00e3o em Engenharia Inform\u00e1tica, na \u00e1rea de Ontologias e Aplica\u00e7\u00f5es Web.",
+                    "Nesta disserta\u00e7\u00e3o, o principal objetivo \u00e9 desenvolver uma ontologia em OWL capaz de suportar a descri\u00e7\u00e3o da genealogia de um conjunto de\n          indiv\u00edduos.",
+                    "Para al\u00e9m disso, pretende-se desenvolver uma aplica\u00e7\u00e3o Web que suporte todas as opera\u00e7\u00f5es de gest\u00e3o e manuten\u00e7\u00e3o da ontologia bem como a\n          sua explora\u00e7\u00e3o."
+                ]
+            }
+        },
+        "inst": "Dep. Inform\u00e1tica - Universidade do Minho",
+        "beginyear": 2016,
+        "endyear": 2017,
+        "id": "thesup11"
+    },
+    {
+        "student": {
+            "id": "pg29030",
+            "name": "Bruno Alexandre Alves Ferreira",
+            "program": {
+                "desc": "MEI - Mestrado em Engenharia Inform\u00e1tica"
+            }
+        },
+        "document": {
+            "title": "Database Preservation Toolkit",
+            "subtitle": "A relational database conversion and normalization tool",
+            "doi": "https://hdl.handle.net/1822/47635",
+            "abstract": {
+                "p": [
+                    "Databases are one of the main technologies supporting organizations\u2019 information assets, and very often these databases contain information\n          that is irreplaceable or prohibitively expensive to reacquire. The digital preservation field attempts to maintain this kind of information\n          accessible and authentic for multiple decades, but the complexity commonly found in databases and the incompatibilities between database\n          systems make it difficult to preserve this kind of digital object.Databases are one of the main technologies supporting organizations\u2019\n          information assets, and very often these databases contain information that is irreplaceable or prohibitively expensive to reacquire. The\n          digital preservation field attempts to maintain this kind of information accessible and authentic for multiple decades, but the complexity\n          commonly found in databases and the incompatibilities between database systems make it difficult to preserve this kind of digital\n          object.",
+                    "The Database Preservation Toolkit is a software that automates the migration of relational databases to the second version of the Software\n          Independent Archiving of Relational Databases format. Furthermore, this flexible tool that supports the current most popular Relational\n          Database Management Systems can also convert a preserved database back to a Database Management System, allowing for some special usage\n          scenarios in an archival context. The conversion of databases between different formats, whilst retaining the databases\u2019 significant\n          properties, poses a number of interesting issues, which are described in this document, along with their current solutions.",
+                    "To complement the conversion software, the Database Visualization Toolkit is introduced, a software tool that provides access to preserved\n          databases, enabling a consumer to quickly search and explore a database without knowing any query language. The viewer is capable of\n          handling big databases as well, promptly presenting results of searching and filtering operations on millions of records.",
+                    "This work covers the challenges of relational database preservation, and the development of a format and tools that play an important role\n          in successfully preserving this kind of information."
+                ]
+            }
+        },
+        "inst": "Dep. Inform\u00e1tica - Universidade do Minho / KEEP Solutions Lda",
+        "beginyear": 2015,
+        "endyear": 2016,
+        "id": "thesup12"
+    },
+    {
+        "student": {
+            "id": "pg28507",
+            "name": "André Diogo Ribeiro Assunção Pereira",
+            "program": {
+                "desc": "MEI - Mestrado em Engenharia Informática"
+            }
+        },
+        "document": {
+            "title": "RODA-in - a generic tool for the mass creation of submission information packages",
+            "doi": "https://hdl.handle.net/1822/47724",
+            "abstract": {
+                "p": [
+                    "Digital preservation is the sum of activities necessary to ensure the long-term access to digital information. The OAIS standard(ISO,\n          2012a) was developed in order to ease the communication between the various entities involved in the preservation of digital objects and\n          regulate the long-lasting storage of digital information.",
+                    "The preservation process begins when the producer creates Submission Information Packages (SIP) and uploads them to the archive\u2019s\n          repository. To create these packages, the producer must choose which files to archive and provide extra information (metadata) to describe\n          and to allow finding the information. As the production of digital content increases exponentially, the creation of SIP by current methods\n          can be too onerous and even unfeasible.",
+                    "This work focuses on creating a semi-automatic way of producing SIPs by employing a simple and well-defined workflow. Using the file system\n          as the source of content, the producer defines aggregation and metadata association rules and specify how the SIPs are created. The\n          application that was developed to support this work, RODA-in, was designed to be able to create thousands of SIPs with gigabytes of data in\n          an easy to use way. Additionally, it has multiple features that ease the work of the producer, such as metadata templating and mass\n          edition."
+                ]
+            }
+        },
+        "inst": "Dep. Inform\u00e1tica - Universidade do Minho / KEEP Solutions Lda",
+        "beginyear": 2015,
+        "endyear": 2016,
+        "id": "thesup13"
+    },
+    {
+        "student": {
+            "name": "Luís Francisco da Cunha Cardoso de Faria",
+            "program": {
+                "desc": "PDI - Programa Doutoral em Informática"
+            }
+        },
+        "document": {
+            "title": "Automated Watch for Digital Preservation",
+            "doi": "https://hdl.handle.net/1822/48577",
+            "abstract":{
+                "p": [
+                    "The current extensive growth of digitally created documents is an obvious effect of the global tendency towards the digital technology.",
+                    "Replacing paper with digital documents has become a common activity in all kinds of public institutions and businesses, on which many already completely eradicated the use of paper and other analogue media.",
+                    "European policies, such as eGovernment, urge for the public administration to cease the use of analogue media and provide all services and documentation in digital form.",
+                    "But documents in digital form are much more perishable than their paper counterparts and it is not obvious for the users that keeping a digital document accessible for several decades is a very different task than safekeeping paperbased documents.",
+                    "Furthermore, some aspects that a user will consider maintained when keeping the physical form of the paper do not behave the same way when the information is in digital form.",
+                    "Authenticity is one of these aspects, and it is crucial in some domains where the information has no value to be kept if the power to serve as evidence is lost.",
+                    "The digital preservation field tries to tackle all these problems.",
+                    "The main problem in digital preservation relates with the ever-changing technological environment with which the documents must be compatible to be accessible by users.",
+                    "Part of the solution must include the detection of these changes by continuously monitoring the documents, their users, and the technological, organisational, financial, legal, social and even political environment, to detect preservation threats. However, the volume and heterogeneity of documents make manual monitoring of all relevant aspects of the world infeasible.",
+                    "Moreover, current practice is limited to monitoring influencers of a very reduced set of domains, specifically file format obsolescence, ignoring others that might introduce threats.",
+                    "This work focuses on creating automatic and systematic ways to monitor the environment on a wide set of domains and provide a valuable input for digital preservation threat detection and assessment.",
+                    "It does so by inquiring the community about their view on the preservation threat importance and the methods used to effectively detect and monitor the threats.",
+                    "Then, an approach for automatic threat detection is laid out and implemented, focusing on the most important and neglected threats. Finally, the approach is validated against real world problems, proving to be a successful approach for scalable and automatic preservation watch."
+                ]
+            }
+        },
+        "cosup": {
+            "name": "Jos\u00e9 Miguel Ara\u00fajo Ferreira",
+            "inst": "KEEP SOLUTIONS LDA"
+        },
+        "inst": "Dep. Inform\u00e1tica - Universidade do Minho, KEEP SOLUTIONS LDA",
+        "beginyear": 2011,
+        "endyear": 2017,
+        "id": "thesup14"
+    },
+    {
+        "student": {
+            "name": "Ricardo Freitas",
+            "program": {
+                "desc": "MAP-i",
+                "address": "href=\"http://map.edu.pt/"
+            }
+        },
+        "document": {
+            "title": "Relational Databases Digital Preservation",
+            "doi": "http://hdl.handle.net/1822/25655"
+        },
+        "inst": "Universidade do Minho",
+        "beginyear": 2009,
+        "endyear": 2013,
+        "id": "thesup15"
+    },
+    {
+        "student": {
+            "name": "Jos\u00e9 Miguel Ferreira",
+            "program": {
+                "desc": "DTSI - Doutoramento em Tecnologias e Sistemas de Informa\u00e7\u00e3o, Especializa\u00e7\u00e3o em Preserva\u00e7\u00e3o Digital"
+            }
+        },
+        "document": {
+            "title": "Preserva\u00e7\u00e3o Digital",
+            "doi": "http://hdl.handle.net/1822/9563"
+        },
+        "cosup": {
+            "name": "Ana A. Baptista",
+            "inst": "DSI/UM"
+        },
+        "inst": "Universidade do Minho",
+        "endyear": 2009,
+        "id": "thesup16"
+    },
+    {
+        "student": {
+            "name": "Giovani Rubert Librelotto"
+        },
+        "document": {
+            "title": "Topic maps : da sintaxe \u00e0 sem\u00e2ntica",
+            "doi": "http://hdl.handle.net/1822/4822"
+        },
+        "cosup": {
+            "name": "Pedro Rangel Henriques",
+            "inst": "DI/UM"
+        },
+        "inst": "Universidade do Minho",
+        "endyear": 2006,
+        "id": "thesup17"
+    },
+    {
+        "student": {
+            "id": "pg20681",
+            "name": "Tiago Pereira",
+            "program": {
+                "desc": "MI - Mestrado em Inform\u00e1tica"
+            }
+        },
+        "document": {
+            "title": "FITTEST logging and log-analysis\u2019 infrastructure for PHP",
+            "doi": "http://hdl.handle.net/1822/36829"
+        },
+        "inst": "Dep. Inform\u00e1tica - Universidade do Minho",
+        "beginyear": 2012,
+        "endyear": 2014,
+        "id": "thesup18"
+    },
+    {
+        "student": {
+            "id": "pg22842",
+            "name": "Miguel da Silva Coutada",
+            "program": {
+                "desc": "MEI - Mestrado em Engenharia Inform\u00e1tica",
+                "address": "http://mei.di.uminho.pt/"
+            }
+        },
+        "document": {
+            "title": "Database Preservation Toolkit",
+            "abstract": {
+                "p": "A preserva\u00e7\u00e3o de sistemas de informa\u00e7\u00e3o \u00e9 um dos maiores desafios da preserva\u00e7\u00e3o digital. Entre esses sistemas, encontram-se as bases de\n          dados. Estas servem de sustento \u00e0 maior parte dos sistemas de gest\u00e3o de informa\u00e7\u00e3o, apresentando, assim, um grande interesse no que diz\n          respeito \u00e0 sua preserva\u00e7\u00e3o. Se por um lado existe a necessidade de migrar as bases de dados para outras mais atuais, que v\u00e3o aparecendo com\n          o evoluir da tecnologia, por outro, existe tamb\u00e9m a necessidade de preservar a informa\u00e7\u00e3o nelas contida durante um longo per\u00edodo de tempo,\n          quer seja por quest\u00f5es legais, quer seja por quest\u00f5es de arquivo. Desta forma, essa informa\u00e7\u00e3o dever\u00e1 estar dispon\u00edvel independentemente do\n          sistema de gest\u00e3o da base de dados. Nesta \u00e1rea, os produtos que existem para preserva\u00e7\u00e3o de base de dados relacionais ainda s\u00e3o poucos -\n          CHRONOS e SIARD s\u00e3o os principais. O primeiro \u00e9 muitas das vezes inacess\u00edvel devido ao pre\u00e7o que apresenta. O segundo apenas suporta\n          funcionalidades b\u00e1sicas. Assim, existe a oportunidade de explorar as principais qualidades e fraquezas das ferramentas existentes, de forma\n          a melhorar a ferramenta de preserva\u00e7\u00e3o de base de dados db-preservation-toolkit, componente extra\u00edda do projeto RODA. Deste modo, esta\n          ferramenta foi melhorada, quer pela adi\u00e7\u00e3o de funcionalidades de forma a ser capaz de suportar um maior n\u00famero de sistemas de gest\u00e3o de\n          bases de dados, quer pela adi\u00e7\u00e3o do suporte ao formato SIARD, mas tamb\u00e9m pelo desenvolvimento de uma interface que possibilita a\n          visualiza\u00e7\u00e3o e pesquisa de informa\u00e7\u00e3o numa base de dados arquivada."
+            },
+            "doi": "http://hdl.handle.net/1822/36740"
+        },
+        "inst": "Dep. Inform\u00e1tica - Universidade do Minho",
+        "beginyear": 2013,
+        "endyear": 2014,
+        "id": "thesup19"
+    },
+    {
+        "student": {
+            "id": "pg22806",
+            "name": "Nuno Ricardo Arieira Morais",
+            "program": {
+                "desc": "MEI - Mestrado em Engenharia Inform\u00e1tica",
+                "address": "http://mei.di.uminho.pt/"
+            }
+        },
+        "document": {
+            "title": "Investiga\u00e7\u00e3o/estudo tecnol\u00f3gico para introdu\u00e7\u00e3o de HTML5 e estrutura\u00e7\u00e3o do processo de migra\u00e7\u00e3o",
+            "doi": "http://hdl.handle.net/1822/37512"
+        },
+        "inst": "Dep. Inform\u00e1tica - Universidade do Minho",
+        "beginyear": 2013,
+        "endyear": 2014,
+        "id": "thesup20"
+    },
+    {
+        "student": {
+            "id": "pg22807",
+            "name": "Paulo Agostinho Fernandes Lima",
+            "program": {
+                "desc": "MEI - Mestrado em Engenharia Inform\u00e1tica",
+                "address": "http://mei.di.uminho.pt/"
+            }
+        },
+        "document": {
+            "title": "Sistema de baixo custo para deteção de fraude em quiosques de auto-empréstimo para bibliotecas",
+            "doi": "http://hdl.handle.net/1822/37280"
+        },
+        "inst": "Dep. Informática - Universidade do Minho",
+        "beginyear": 2013,
+        "endyear": 2014,
+        "id": "thesup21"
+    },
+    {
+        "student": {
+            "name": "Hélder de Jesus Almeida da Silva",
+            "program": {
+                "desc": "MEI - Mestrado em Engenharia Inform\u00e1tica",
+                "address": "http://mei.di.uminho.pt/"
+            }
+        },
+        "document": {
+            "title": "Servi\u00e7o Centralizado de Estat\u00edsticas de Utiliza\u00e7\u00e3o de Reposit\u00f3rios",
+            "doi": "http://hdl.handle.net/1822/20352"
+        },
+        "inst": "Dep. Inform\u00e1tica - Universidade do Minho",
+        "beginyear": 2010,
+        "endyear": 2011,
+        "id": "thesup22"
+    },
+    {
+        "student": {
+            "id": "pg19820",
+            "name": "Fábio Alves Rocha",
+            "program": {
+                "desc": "MI - Mestrado em Informática"
+            }
+        },
+        "document": {
+            "title": "Preservação de bases de dados com SIARD",
+            "abstract": {
+                "p": [
+                    "Atualmente, com a expans\u00e3o das tecnologias de informa\u00e7\u00e3o, muito do conhecimento humano passou a estar registado em suportes digitais, o que\n          nos remete \u00e0 utiliza\u00e7\u00e3o de intermedi\u00e1rios para a leitura dessa informa\u00e7\u00e3o: hardware e software. Devido a esses intermedi\u00e1rios estarem em\n          constante evolu\u00e7\u00e3o e havendo o perigo da sua descontinuidade, essa informa\u00e7\u00e3o poder\u00e1 ser perdida, n\u00e3o pelo desaparecimento do objeto\n          digital, mas por ficar ileg\u00edvel para os novos equipamentos e aplica\u00e7\u00f5es. Devido a estes problemas emergiu uma nova problem\u00e1tica no universo\n          digital, a preserva\u00e7\u00e3o digital.",
+                    "Este projeto estuda a problem\u00e1tica da preserva\u00e7\u00e3o digital, mas foca-se numa \u00fanica classe de objetos digitais: as bases de dados\n          relacionais. As bases de dados relacionais s\u00e3o de extrema import\u00e2ncia, particularmente para as organiza\u00e7\u00f5es, pois \u00e9 nas suas bases de dados\n          que se encontra informa\u00e7\u00e3o essencial \u00e0s suas atividades. Por essa raz\u00e3o, \u00e9 fundamental n\u00e3o comprometer a sua longevidade, integridade e\n          autenticidade.",
+                    "O presente trabalho visa o desenvolvimento de um sistema de explora\u00e7\u00e3o de ontologias, que recebe ficheiros em formato SIARD,\n          transformando-os em ontologias (OWL) e acrescentando-os ao reposit\u00f3rio.",
+                    "Como \u00faltima fase, foi criado um navegador Web que permite explorar a informa\u00e7\u00e3o das ontologias armazenadas, onde \u00e9 poss\u00edvel questionar as\n          ontologias atrav\u00e9s de SPARQL e guardar essas mesmas interroga\u00e7\u00f5es para posterior uso.",
+                    "O reposit\u00f3rio das ontologias foi desenvolvido segundo a norma OAIS, e tem por base uma aplica\u00e7\u00e3o Web com v\u00e1rias interfaces, para assim\n          proporcionar a ingest\u00e3o da informa\u00e7\u00e3o e a sua administra\u00e7\u00e3o, preserva\u00e7\u00e3o e dissemina\u00e7\u00e3o."
+                ]
+            },
+            "doi": "http://hdl.handle.net/1822/36799"
+        },
+        "inst": "Dep. Inform\u00e1tica - Universidade do Minho",
+        "beginyear": 2012,
+        "endyear": 2014,
+        "id": "thesup23"
+    },
+    {
+        "student": {
+            "id": "pg17475",
+            "name": "Nuno Antunes Marques",
+            "program": {
+                "desc": "MI - Mestrado em Inform\u00e1tica"
+            }
+        },
+        "document": {
+            "title": "Gest\u00e3o de dep\u00f3sitos em arquivos",
+            "abstract": {
+                "p": "Os Arquivos Nacionais e Regionais t\u00eam como objectivo principal recolher e preservar a heran\u00e7a arquiv\u00edstica nacional que de alguma forma\n          possuam interesse hist\u00f3rico, como por exemplo, documentos originados em cart\u00f3rios, tribunais, ou em organismos religiosos. Estes documentos\n          est\u00e3o tipicamente relacionados com registos de nascimentos/\u00f3bitos, processos c\u00edveis, entre outros. Para al\u00e9m de preservar esta informa\u00e7\u00e3o,\n          os Arquivos disponibilizam tamb\u00e9m a consulta p\u00fablica destes documentos a quem assim o desejar. De uma forma geral, estes documentos s\u00e3o\n          organizados, de forma hier\u00e1rquica num modelo que comporta tr\u00eas n\u00edveis, org\u00e2nico, funcional e documental, e constitu\u00eddos fisicamente em\n          dep\u00f3sitos, que correspondem a uma determinada \u00e1rea f\u00edsica do(s) edif\u00edcio(s) que representam o Arquivo (por exemplo, salas). A aplica\u00e7\u00e3o\n          DigitArq da KEEP Solutions \u00e9 um software de gest\u00e3o de Arquivos, baseada em normas internacionais, que permite a produ\u00e7\u00e3o e exporta\u00e7\u00e3o de\n          registos descritivos (informa\u00e7\u00e3o recolhida nos documentos e outros objetos presentes nos fundos), disponibilizando-os em portais agregadores\n          de conte\u00fados arquiv\u00edsticos. Atualmente, esta aplica\u00e7\u00e3o permite guardar e obter informa\u00e7\u00e3o relativa aos documentos e \u00e0 sua hierarquia l\u00f3gica\n          nos fundos em que est\u00e3o inseridos, mas n\u00e3o permite conhecer detalhes sobre os dep\u00f3sitos em que est\u00e3o inseridos, nem sobre os dep\u00f3sitos em si\n          mesmos. \u00c9 neste contexto que esta disserta\u00e7\u00e3o \u00e9 realizada, acompanhando o processo de cria\u00e7\u00e3o de um novo m\u00f3dulo experimental para o DigitArq\n          que permita realizar a manuten\u00e7\u00e3o de dep\u00f3sitos, incluindo a gest\u00e3o do seu espa\u00e7o, a identifica\u00e7\u00e3o da localiza\u00e7\u00e3o f\u00edsica dos seus documentos,\n          e que possua tamb\u00e9m funcionalidades de optimiza\u00e7\u00e3o dos seus espa\u00e7os em termos de armazenamento."
+            },
+            "doi": "http://hdl.handle.net/1822/28222"
+        },
+        "inst": "Dep. Inform\u00e1tica - Universidade do Minho",
+        "endyear": 2012,
+        "id": "thesup24"
+    },
+    {
+        "student": {
+            "name": "David Pires",
+            "program": {
+                "desc": "MIECOM - Mestrado Integrado em Engenharia de Comunica\u00e7\u00f5es"
+            }
+        },
+        "document": {
+            "title": "Cria\u00e7\u00e3o de interfaces hier\u00e1rquicas para acesso a redes ontol\u00f3gicas de ficheiros",
+            "doi": "http://hdl.handle.net/1822/20253"
+        },
+        "inst": "Dep. Inform\u00e1tica - Universidade do Minho, KEEP SOLUTIONS LDA",
+        "endyear": 2011,
+        "id": "thesup25"
+    },
+    {
+        "student": {
+            "name": "Vitor Fernandes",
+            "program": {
+                "desc": "MI - Mestrado em Inform\u00e1tica"
+            }
+        },
+        "document": {
+            "title": "Transposi\u00e7\u00e3o de aplica\u00e7\u00f5es Desktop para plataformas m\u00f3veis : um caso de estudo",
+            "doi": "http://hdl.handle.net/1822/13632"
+        },
+        "inst": "Dep. Inform\u00e1tica, Universidade do Minho",
+        "endyear": 2010,
+        "id": "thesup26"
+    },
+    {
+        "student": {
+            "name": "Luis Miguel Neiva S\u00e1 Ferros",
+            "program": {
+                "desc": "MSDPA - Mestrado em Sistemas de Dados e Processamento Anal\u00edtico"
+            }
+        },
+        "document": {
+            "title": "Extrac\u00e7\u00e3o e Concentra\u00e7\u00e3o de Metainforma\u00e7\u00e3o distribu\u00edda por v\u00e1rios Reposit\u00f3rios",
+            "doi": "http://hdl.handle.net/1822/11066"
+        },
+        "inst": "Dep. Inform\u00e1tica, Universidade do Minho",
+        "endyear": 2009,
+        "id": "thesup27"
+    },
+    {
+        "student": {
+            "name": "Jorge Filipe Pereira da Cruz",
+            "program": {
+                "desc": "MICEI - Mestrado em Inform\u00e1tica / Curso de Especializa\u00e7\u00e3o em Inform\u00e1tica"
+            }
+        },
+        "document": {
+            "title": "Portef\u00f3lio digital (e-portef\u00f3lio)",
+            "doi": "http://hdl.handle.net/1822/11380"
+        },
+        "inst": "Dep. Inform\u00e1tica, Universidade do Minho",
+        "endyear": 2009,
+        "id": "thesup28"
+    },
+    {
+        "student": {
+            "name": "Ricardo Freitas",
+            "program": {
+                "desc": "MICEI - Mestrado em Inform\u00e1tica / Curso de Especializa\u00e7\u00e3o em Inform\u00e1tica"
+            }
+        },
+        "document": {
+            "title": "Preserva\u00e7\u00e3o Digital de Bases de Dados Relacionais",
+            "doi": "http://hdl.handle.net/1822/12907"
+        },
+        "inst": "Dep. Inform\u00e1tica, Universidade do Minho",
+        "endyear": 2008,
+        "id": "thesup29"
+    },
+    {
+        "student": {
+            "name": "Margarida Silva",
+            "program": {
+                "desc": "MCA - Mestrado em Contabilidade e Auditoria"
+            }
+        },
+        "document": {
+            "title": "XBRL: Aplica\u00e7\u00e3o em Pequenas e M\u00e9dias Empresas",
+            "doi": "http://hdl.handle.net/1822/9793"
+        },
+        "cosup": {
+            "name": "L\u00facia Rodrigues",
+            "inst": "EEG/UM"
+        },
+        "inst": "Escola de Economia e Gest\u00e3o, Universidade do Minho",
+        "endyear": 2007,
+        "id": "thesup30"
+    },
+    {
+        "student": {
+            "name": "Paulo Jorge Dias Domingues",
+            "program": {
+                "desc": "MICEI - Mestrado em Inform\u00e1tica / Curso de Especializa\u00e7\u00e3o em Inform\u00e1tica"
+            }
+        },
+        "document": {
+            "title": "Especifica\u00e7\u00e3o e implementa\u00e7\u00e3o de um reposit\u00f3rio de objectos de ensino"
+        },
+        "inst": "Dep. Inform\u00e1tica, Universidade do Minho",
+        "endyear": 2007,
+        "id": "thesup31"
+    },
+    {
+        "student": {
+            "name": "Ant\u00f3nio Jos\u00e9 Lira Ramos Fernandes",
+            "program": {
+                "desc": "MICEI - Mestrado em Inform\u00e1tica / Curso de Especializa\u00e7\u00e3o em Inform\u00e1tica"
+            }
+        },
+        "document": {
+            "title": "Defini\u00e7\u00e3o e implementa\u00e7\u00e3o de um sistema de avalia\u00e7\u00e3o para E-Learning"
+        },
+        "inst": "Dep. Inform\u00e1tica, Universidade do Minho",
+        "endyear": 2007,
+        "id": "thesup32"
+    },
+    {
+        "student": {
+            "name": "Ricardo Manuel Meira Ferrão Luís",
+            "program": {
+                "desc": "MICEI - Mestrado em Inform\u00e1tica / Curso de Especializa\u00e7\u00e3o em Inform\u00e1tica"
+            }
+        },
+        "document": {
+            "title": "Especifica\u00e7\u00e3o e gera\u00e7\u00e3o de um ambiente de suporte ao workflow de aplica\u00e7\u00f5es distribu\u00eddas por Web Services",
+            "doi": "http://hdl.handle.net/1822/6746"
+        },
+        "inst": "Dep. Inform\u00e1tica, Universidade do Minho",
+        "endyear": 2006,
+        "id": "thesup33"
+    },
+    {
+        "student": {
+            "name": "Lu\u00eds Miguel Alves Domingues",
+            "program": {
+                "desc": "MICEI - Mestrado em Inform\u00e1tica / Curso de Especializa\u00e7\u00e3o em Inform\u00e1tica"
+            }
+        },
+        "document": {
+            "title": "Especifica\u00e7\u00e3o e Gera\u00e7\u00e3o Autom\u00e1tica de navegadores para redes sem\u00e2nticas baseados em interfaces Web"
+        },
+        "inst": "Dep. Inform\u00e1tica, Universidade do Minho",
+        "endyear": 2006,
+        "id": "thesup34"
+    },
+    {
+        "student": {
+            "name": "Joel Alexandre da Silva Vicente",
+            "program": {
+                "desc": "MICEI - Mestrado em Inform\u00e1tica / Curso de Especializa\u00e7\u00e3o em Inform\u00e1tica"
+            }
+        },
+        "document": {
+            "title": "XBRL em Portugal: Apresenta\u00e7\u00e3o e Indica\u00e7\u00f5es T\u00e9cnicas para a sua Implementa\u00e7\u00e3o"
+        },
+        "inst": "Dep. Inform\u00e1tica, Universidade do Minho",
+        "endyear": 2006,
+        "id": "thesup35"
+    },
+    {
+        "student": {
+            "name": "Carlos Jorge Feij\u00f3 Lopes",
+            "program": {
+                "desc": "MICEI - Mestrado em Inform\u00e1tica / Curso de Especializa\u00e7\u00e3o em Inform\u00e1tica"
+            }
+        },
+        "document": {
+            "title": "Web Services: Aplica\u00e7\u00f5es Distribu\u00eddas sobre Protocolos Internet"
+        },
+        "inst": "Dep. Inform\u00e1tica, Universidade do Minho",
+        "endyear": 2004,
+        "id": "thesup36"
+    }
+]

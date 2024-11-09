@@ -1,0 +1,14 @@
+{
+  "name": "cvapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server -H 0.0.0.0 --watch myJSONDatabase.json"
+  },
+  "author": "jcr",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}

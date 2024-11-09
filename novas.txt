@@ -1,0 +1,11 @@
+Cunha, Luis; Ramalho, José Carlos Leite. "NER in Archival Finding Aids". Trabalho apresentado em SLATE 2021 - Symposium on Languages, Applications and Technologies, Póvoa do Varzim, 2021. http://hdl.handle.net/1822/74782
+
+Cunha, Luis; Ramalho, José Carlos Leite. "Towards Entity Linking, NER in Archival Finding Aids". Trabalho apresentado em Linked Archives International Workshop 2021, 2021. http://hdl.handle.net/1822/74782
+
+Luis Filipe Costa Cunha; José Carlos Ramalho. "NER in Archival Finding Aids: Extended". Machine Learning and Knowledge Extraction (2022): https://www.mdpi.com/2504-4990/4/1/3.
+10.3390/make4010003
+
+Cunha, Luis Filipe; Ramalho, José Carlos. Autor correspondente: Cunha, Luis Filipe. "NER in Archival Finding Aids: Next Level". Trabalho apresentado em Welcome to WorldCist'22 - 10th World Conference on Information Systems and Technologies, Budva, 2022.
+Publicado • https://doi.org/10.1007/978-3-031-04819-7_33
+
+Cunha, Luis Filipe; Ramalho, José Carlos. Autor correspondente: Cunha, Luis Filipe. "Fine-Tuning BERT Models to Extract Named Entities from Archival Finding Aids". Trabalho apresentado em Proceedings of the Workshops and Doctoral Consortium of the 26th International Conference on Theory and Practice of Digital Libraries, Padua, 2022. http://ceur-ws.org/Vol-3246/08_Paper1.pdf

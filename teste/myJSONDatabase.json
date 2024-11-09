@@ -1,203 +1,5 @@
 {
-    "projects": [
-        {
-            "id": "roda",
-            "title": "RODA: Repositório de Objetos Digitais Autênticos",
-            "beginDate": "2006-09-01",
-            "endDate": "2007-11-30",
-            "funding": {
-                "program": "Direção Geral de Arquivos (DGARQ)"
-            },
-            "url": "https://www.roda-community.org/"
-        },
-        {
-            "id": "digitarq",
-            "title": "Criação e Manutenção de Metainformação no contexto de Arquivos Históricos - DigitArq",
-            "beginDate": "2002-11-01",
-            "endDate": "2004-04-30",
-            "funding": {
-                "program": "Plano Operacional da Cultura - POC 315/02"
-            },
-            "desc": "Fui responsável pelos recursos humanos e por toda a gestão da parte técnica do projecto que decorreu de Novembro de 2002 a Abril de 2004. Recentemente, já em 2005, este projecto foi galardoado com o Prémio Fernandes Costa - AGÊNCIA PARA A SOCIEDADE DO CONHECIMENTO, IP promovido pelo Instituto de Informática. Os objectivos do projecto foram plenamente atingidos e consistiram na concepção e implementação da plataforma de software que neste momento suporta a nível digital todos os arquivos sob a alçada administrativa da Direcção Geral de Arquivos (18 instituições nacionais). Está também a ser equacionada a sua adopção em vários arquivos municipais."
-        },
-        {
-            "id": "metamedia2",
-            "title": "Metadata for the Preservation and Retrieval of Multimedia Components - METAMEDIA II",
-            "beginDate": "2000-07-31",
-            "endDate": "2002-07-31",
-            "funding": {
-                "program": "POSI/1999/SRI/34903"
-            }
-        },
-        {
-            "id": "metamedia",
-            "title": "MetaMedia: Metadata for Multimedia Archives",
-            "beginDate": "1999-07-01",
-            "endDate": "2000-07-01",
-            "desc": "Led by Prof. Gabriel David, from FEUP/INESC-Porto. This project had follow-up in another project. In addition to the results scientific studies that focused on modeling and designing a system for storage of metadata associated with multimedia objects, this project created a great spirit of collaboration between the teams, namely FEUP and DI/UM. This collaboration has extended to several levels: we have collaborated thesis supervisions, in the launching and organizing XATA conferences and applying for new research projects."
-        },
-        {
-            "id": "david",
-            "title": "David: Algebraic Specification of Documents",
-            "beginDate": "1996-09-01",
-            "endDate": "1998-12-31",
-            "funding": {
-                "program": "JNICT, PBIC/TIT/2479/95"
-            }
-        },
-        {
-            "id": "geira",
-            "title": "GeIRA: Information System supporting the portuguese heritage",
-            "beginDate": "1996-09-01",
-            "endDate": "1999-12-31",
-            "funding": {
-                "program": "INTERREG II"
-            },
-            "desc": "In the first years, I was in charge of the Development Center. Several pioneering solutions were developed in the cultural area."
-        },
-        {
-            "id": "j-ark",
-            "title": "J-Ark: European Jewish Community Archive",
-            "beginDate": "2021-12-01",
-            "endDate": "2022-05-31",
-            "funding": {
-                "program": "European Commission Seventh Framework Programme for Research and Technological Development (Brussels, BE), GRANT_NUMBER: TENtec number 29416093",
-                "ref": "http://dx.doi.org/10.13039/100011102",
-                "amount": "EUR 91,485"
-            },
-            "desc": "J-Ark -European Jewish Community Archive will connect the eArchiving, Europeana, and eTranslation CEF digital services to support long-term viability and sustainability of Jewish heritage archives in an integrated long-term preservation platform named J-Ark. This online solution will offer cloud services to ingest, preserve and distribute a wide range of heritage materials, including oral history interviews and recordings, historical photographs, documents, and more. J-Ark will be based on RODA, a mature open-source digital preservation platform, and will be customised according to the project needs. J-Ark will provide built-in support for Europeana and eTranslation DSIs. As a result, the ingested heritage materials will be offered to Europeana for publishing and automatically translated into the European languages of choice. The long-term sustainability of the system will be ensured through a combination of public funding, private funding (including from Jewish philanthropy) and usage fees. This project is an eArchiving Generic Services project, and it is co-financed by the Connecting Europe Facility of the European Union."
-        },
-        {
-            "id": "earchiving",
-            "title": "CEF eArchiving Building Blocks",
-            "beginDate": "2019-03-01",
-            "endDate": "2021-03-01",
-            "funding": {
-                "program": "European Commission Seventh Framework Programme for Research and Technological Development (Brussels, BE), GRANT_NUMBER: CET-TC-2019-3",
-                "ref": "http://dx.doi.org/10.13039/100011102",
-                "amount": "EUR 121,005"
-            },
-            "desc": "The CEF eArchiving Building Block is based on the outcomes of the E-ARK project (2014  2017). The project, which involved a number of European national archives, e-government agencies, digital preservation software developers and research institutions, aimed to synthesise best-practices from across Europe and develop a core set of interoperability specifications for archival operations. The project also updated a number of archival software components to meet the specifications, and carried out a number of operational pilots to verify the cross-border validity and interoperability of the specifications. After the successful conclusion of the E-ARK project in 2017, the European Commission included its outcomes into the CEF programme to become the basis of the eArchiving Building Block. Within CEF the initial specifications and open-source software components are being enriched with training and implementation guidance services. The mid-term vision of eArchiving is that within the next five years its specifications will be implemented throughout Europe across all sectors."
-        },
-        {
-            "id": "perf",
-            "title": "Performance em Expansão Tecnológica",
-            "beginDate": "2018-10-01",
-            "endDate": "2022-04-30",
-            "funding": {
-                "program": "Fundação para a Ciência e a Tecnologia (Lisboa, PT), GRANT_NUMBER: PTDC/ART-PER/31263/2017",
-                "ref": "http://dx.doi.org/10.13039/501100001871",
-                "amount": "EUR 224,392"
-            },
-            "desc": "TEPe é um projeto interdisciplinar que adopta o conceito de tecnologia em sentido operativo, enquanto estratégia de ampliação das possibilidades dos corpos em movimento, e modo de expansão de zonas de intersubjetividade. TEPe é o desenvolvimento de Technologically Expanded Dance TeDANCE, que foi o primeiro projeto sediado em universidades portuguesas a propor um cruzamento bidirecional entre arte e tecnociência. TeDANCE proporcionou a apresentação pública dos estudos e a disseminação de resultados, a publicação de uma obra bilingue com contribuições de pesquisadores de diversos países e estimulou o aparecimento de projetos artísticos, alguns dos quais de intercâmbio entre Portugal e Brasil. TEPe alarga o campo da dança ao da performance, na medida em que esta configura um território inclusivo de disciplinas e de contaminação de linguagens artísticas. Além disso, persiste e consolida a ligação atlântica, através da submissão à candidatura integrada FCT / FUNCAP. TEPe continua a investigação que vem sendo realizada sobre a produção de sonoridades a partir dos movimentos do corpo humano. Com este projeto, pretendemos aprofundar a experimentação intensiva de um dispositivo de captura de movimento MOCAP em articulação com a recolha e geração de sonoridades. O programa de trabalho decorre em duas escalas - a do corpo e a da cidade. TEPe tenciona mais concretamente estudar os contextos sonoros na e da cidade de Lisboa. Em articulação com este desiderato, TEPe proporcionará, caso tenha apoio, o desdobramento e a extensão posterior da investigação também para a cidade de Fortaleza. Os movimentos dos corpos nas paisagens urbanas e os modos de produção sonora e imagética constituem portanto o foco da investigação. Pretendemos analisar a forma como as assinaturas dos corpos em movimento se inscrevem nos percursos urbanos e como estes se rebatem nas escutas dos indivíduos. As sonoridades surgem aqui como scores de criação artística. E esta realizar-se-á através da intervenção de criadores de diferentes proveniências artísticas: do som ao teatro, da dança ao vídeo. Em termos de resultados, TEPe está alinhado sobre dois eixos principais: 1 a qualificação das vivências urbanas, por meio da negociação em site specific de diferentes tempos da cidade, assumindo a labilidade e desaceleração dos ritmos citadinos; 2 a valorização do património, graças à exposição tensional entre o material e o imaterial, no pressuposto de que todo o património material detém camadas imateriais, e todo o património imaterial contém as suas materialidades. TEPe é concebido em ligação com o repositório online http://weebox.fmh.ulisboa.pt. Os seus resultados serão considerados não apenas em termos de indicadores académicos - publicações, edições sonoras e de imagens em movimento, e formação de jovens investigadores - mas também contribuindo para outras plataformas, para a presença em festivais e para a organização de residências e eventos artísticos em regime de site-specific.",
-            "url": "http://weebox.fmh.ulisboa.pt/community/#front"
-        },
-        {
-            "id": "e-ark4all",
-            "title": "E-ARK4ALL",
-            "beginDate": "2018-06-01",
-            "endDate": "2019-05-31",
-            "funding": {
-                "program": "European Commission Seventh Framework Programme for Research and Technological Development (Brussels, BE), GRANT_NUMBER: LC-00921441 CEF-TC-2018-15 eArchiving",
-                "ref": "http://dx.doi.org/10.13039/100011102",
-                "amount": "EUR 122,500"
-            },
-            "desc": "E-ARK4ALL is supporting the development of the CEF eArchiving Building Block. The eArchiving Building Block is a solution to long-term information assurance. It provides the specifications, reference software, training and service desk support for digital archiving. This benefits both the design of repositories as digital archiving and preservation systems and the enabling of business systems to send data to those repositories. Data drives the global economy, but to remain accessible over time, it frequently needs to be migrated between successive generations of software. That can occur because software needs to be updated, replaced or decommissioned. Such migrations always incur costs and bring risks concerning data integrity and information assurance. This is where eArchiving can help. The foundation of eArchiving is the set of Information Package specifications. These describe platform-independent formats for storing information assets as bulk data and metadata that remains authentic and understandable over the long-term. These specifications are based on the accumulated knowledge and experience of a large international community of researchers and practitioners. They are thus ideal for long-term information assurance, supporting: migrating data between generations of business information systems; transferring data to dedicated archival repositories; managing data in repositories concerning its long-term preservation; reusing data over the long-term, independently of the business systems. eArchiving also provides a set of sample software components for several scenarios and business environments. With these components any organisation can develop its own institutional archiving and preservation ecosystem, or develop standardised workflows for delivering content from its business systems to external repositories. Using eArchiving guidelines guarantees that information will still be available and reusable for as long as it is required.",
-            "url": "https://e-ark4all.eu/"
-        },
-        {
-            "id": "e-ark",
-            "title": "E-ARK: European Archival Records and Knowledge Preservation",
-            "beginDate": "2014-01-17",
-            "endDate": "2017-01-17",
-            "funding": {
-                "program": "European Commission Seventh Framework Programme for Research and Technological Development (Brussels, BE), GRANT_NUMBER: 620998 E-ARK",
-                "ref": "http://dx.doi.org/10.13039/100011102",
-                "amount": "EUR 162,060"
-            },
-            "desc": "Archives provide an indispensable component of the digital ecosystem by safeguarding information and enabling access to it. Harmonisation of currently fragmented archival approaches is required to provide the economies of scale necessary for general adoption of end-to-end solutions. There is a critical need for an overarching methodology addressing business and operational issues, and technical solutions for ingest, preservation and re-use. In co-operation w300ith commercial systems providers, E-ARK will create and pilot a pan-European methodology for electronic document archiving, synthesising existing national and international best practices, that will keep records and databases authentic and usable over time. The methodology will be implemented in an open pilot in various national contexts, using existing, near-to-market tools, and services developed by the partners. This will allow memory institutions and their clients (public- and private-sector) to assess, in an operational context, the suitability of those state-of-the-art technologies. Our objective is to provide a single, scalable, robust approach capable of meeting the needs of diverse organisations, public and private, large and small, and able to support complex data types. E-ARK will demonstrate the potential benefits for public administrations, public agencies, public services, citizens and business by providing simple, efficient access to the workflows for the three main activities of an archive  acquiring, preserving and enabling re-use of information. The practices developed within the project will reduce the risk of information loss due to unsuitable approaches to keeping and archiving of records. The project will be public facing, providing a fully operational archival service, and access to information for its users. The project results will be generic and scalable in order to build an archival infrastructure across the EU and in environments where different legal systems and records management traditions apply. E-ARK will provide new types of access for business users. E-ARK will pilot an end-to-end OAIS-compliant e-archival service covering ingest, vendor-neutral archiving, and reuse of structured and unstructured data, thus covering both databases and records, addressing the needs of data subjects, owners and users. The pilot and methodology will also focus on the essential pre-ingest phase of data export and normalisation in source systems. The pilot will integrate tools currently in use in partner organisations, and provide a framework for providers of these and similar tools ensuring compatibility and interoperability. A core component of the project is the integration platform which uses the existing ESSArch Preservation Platform (EPP) application as an Archival Information System, which is already in productive deployment at the National Archives of Norway and Sweden. In order to achieve scalability, E-ARK will adopt a data management and storage layer for this tool on top of the proven open-source Cloudera CDH4 distribution of Apache Hadoop, enabling storage and computational power to be seamlessly added to the system. The pilot will run in several national archives, each of which will provide data to run in the pilot instance by agreement from an associated government data owner (e.g. national or regional / federal). To sustain the outputs of our project, project partner The DLM Forum, comprising 22 national archives and associated commercial and technical providers, is well placed to ensure these. Using the open Apache licensing model, commercial suppliers will be able to incorporate the project outputs (particularly the open interfaces for pre-ingest, ingest, archival, access and re-use) into their own systems, enhancing their longevity. National archives running E-ARK pilot instances will serve as exemplars for others wanting to adopt up the new e-archiving open system."
-        },
-        {
-            "id": "scape",
-            "title": "SCAPE: Scalable Preservation Environments",
-            "beginDate": "2011-02-01",
-            "endDate": "2015-02-01",
-            "funding": {
-                "program": "European Commission Seventh Framework Programme for Research and Technological Development (Brussels, BE), GRANT_NUMBER: 270137 SCAPE",
-                "ref": "http://dx.doi.org/10.13039/100011102",
-                "amount": "EUR 451,121"
-            },
-            "desc": "The SCAPE project will develop scalable services for planning and execution of institutional preservation strategies on an open source platform that orchestrates semi-automated workflows for large-scale, heterogeneous collections of complex digital objects. SCAPE will enhance the state of the art of digital preservation in three ways: by developing infrastructure and tools for scalable preservation actions; by providing a framework for automated, quality-assured preservation workflows and by integrating these components with a policy-based preservation planning and watch system. These concrete project results will be validated within three large-scale Testbeds from diverse application areas. SCAPE approaches digital preservation through research and development sub-projects: Testbeds, Preservation Components, Platform, and Planning and Watch. The SCAPE Testbeds are the primary driver for the rest of the project, in that they define use case scenarios, create preservation workflows, and assess the large scale applicability of the SCAPE Preservation Platform and the preservation components developed within the project. Using these software components, test environments are created for the different scenarios and the complex large scale preservation workflows. SCAPE Preservation Components address known limitations of digital preservation systems on three levels: scalability, functional coverage quality. This sub-project improves and extends existing tools, develop new ones where necessary, and apply proven approaches to the problem of ensuring quality in digital preservation. Building on the state of the art and focusing on formats and tools that are considered most important by the Testbeds sub-project, SCAPE investigates methods to parallelise and embed components in robust and scalable workflows. A major focus is the ability to capture relevant provenance and contextual information and metadata, and to provide usable outputs for automated policy-driven preservation. The SCAPE Platform will provide an extensible infrastructure for the execution of digital preservation processes on large volumes of data. It will include a flexible mechanism for the integration of existing digital repository systems and provide a reference implementation. The Preservation Platform will also provide the underlying environment for large-scale testing and evaluation performed by the Testbeds and the Preservation Component providers in the project. The computational layer of the Preservation Platform system will make use of Hadoop, with the underlying distributed storage layer being based on HBase, which provides high performance and scalable data storage on top of Hadoops Distributed File System (HDFS). The Planning and Watch Components developed in SCAPE address the bottleneck of decision processes and processing information required for decision making. Work on these components started with a conceptual analysis, based on extensive real-world application experience. A set of essential policy elements is being defined and modelled. These elements will make use of the SCAPE Policy Catalogue. Building on SCAPEs machine-understandable policy representation and the first release of the automated planning component, core watch services will be implemented. In the final phase the policy-aware planning component will be fully integrated with the platform and repository operations.300 The Cross-project Activities in SCAPE include project management and coordination as well as the investigation of Open Research Challenges and a Research Roadmap. These activities provide administrative control and technical coordination for the project as well as focused research on innovative and emerging technologies having the potential to improve SCAPEs capabilities.",
-            "url": "https://scape-project.eu/"
-        }
-    ],
     "pubs": [
-        {
-            "type": "inproceedings",
-            "id": "CR23",
-            "authors": [
-                "Luís Filipe Cunha",
-                "José Carlos Ramalho"
-            ],
-            "title": "ARCANO - No caminho para adicionar semântica às descrições arquivísticas",
-            "booktitle": "14º Congresso Nacional BAD - Comunidades e Profissionais para o Futuro: Agir Hoje",
-            "address": "Universidade do Algarve, Portugal",
-            "year": "2023",
-            "doi": "https://publicacoes.bad.pt/revistas/index.php/congressosbad/issue/view/129"
-        },
-        {
-            "type": "inproceedings",
-            "id": "TRH22",
-            "authors": [
-                "Sofia Teixeira",
-                "José Carlos Ramalho",
-                "Pedro Rangel Henriques"
-            ],
-            "title": "EWVM, a Web Virtual Machine to Support Code Generation in Compiler Courses",
-            "booktitle": "11th Symposium on Languages, Applications and Technologies (SLATE 2022)",
-            "isbn": "978-3-95977-245-7",
-            "year": "2022",
-            "doi": "https://drops.dagstuhl.de/opus/volltexte/2022/16753"
-        },
-        {
-            "type": "inproceedings",
-            "id": "CardRam22",
-            "authors": [
-                "Hugo André Coelho Cardoso",
-                "José Carlos Ramalho"
-            ],
-            "title": "Synthetic Data Generation From JSON Schemas",
-            "booktitle": "11th Symposium on Languages, Applications and Technologies (SLATE 2022)",
-            "isbn": "978-3-95977-245-7",
-            "year": "2022",
-            "doi": "https://drops.dagstuhl.de/opus/volltexte/2022/16751"
-        },
-        {
-            "type": "inproceedings",
-            "id": "CR22c",
-            "authors": [
-                "José Carlos Ramalho",
-                "Luís Filipe Cunha"
-            ],
-            "title": "Fine-Tuning BERT Models to Extract Named Entities from Archival Finding Aids",
-            "booktitle": "Workshops and Doctoral Consortium of the 26th International Conference on Theory and Practice of Digital Libraries",
-            "address": "Pádua, Itália",
-            "year": "2022",
-            "doi": "http://ceur-ws.org/Vol-3246/08_Paper1.pdf"
-        },
-        {
-            "type": "inproceedings",
-            "id": "CR22b",
-            "authors": [
-                "José Carlos Ramalho",
-                "Luís Filipe Cunha"
-            ],
-            "title": "NER in Archival Finding Aids: Next Level",
-            "booktitle": "WorldCist'22 - 10th World Conference on Information Systems and Technologies",
-            "address": "Budva, Montenegro",
-            "year": "2022",
-            "doi": "https://doi.org/10.1007/978-3-031-04819-7_33"
-        },
         {
             "type": "article",
             "id": "CR22",
@@ -211,7 +13,7 @@
             "issn": "2504-4990",
             "year": "2022",
             "publisher": "MDPI",
-            "doi": "https://doi.org/10.3390/make4010003"
+            "doi": "10.3390/make4010003"
         },
         {
             "type": "inproceedings",
@@ -2169,95 +1971,6 @@
     "thesup": [
         {
             "student": {
-                "id": "A82522",
-                "name": "Pedro Duarte Cunha e Silva",
-                "program": {
-                    "desc": "MIEI - Mestrado em Engenharia Informática"
-                }
-            },
-            "document": {
-                "title": "Sistema de Recomendação para Bibliotecas",
-                "abstract": {
-                    "p": [
-                        "..."
-                        
-                    ]
-                },
-                "palavras-chave": {
-                    "palavra": [
-                        ""
-                    ]
-                }
-            },
-            "inst": "Dep. Informática - Universidade do Minho / Keep Solutions Lda",
-            "beginyear": 2022,
-            "endyear": 2023,
-            "id": "thesup59"
-        },
-        {
-            "student": {
-                "id": "PG47375",
-                "name": "Luís Pedro Oliveira de Castro Vieira",
-                "program": {
-                    "desc": "MIEI - Mestrado em Engenharia Informática"
-                }
-            },
-            "document": {
-                "title": "Hypatiamat : Gestão de Campeonatos",
-                "abstract": {
-                    "p": [
-                        "Hypatiamat, namely through its Hypatiamat Association (AHM) has, among others, the objective of contributing to awakening among students of various educational levels an interest for mathematics and a better understanding of its nature; of promoting the development of mathematics teaching at all levels; of promoting the quality of teaching/learning of mathematics through the use and integration of new technologies in the classroom, through the resources available on the Hypatiamat Platform, thus capitalizing on the familiarity and enthusiasm of students for more technological environments.",
-                        "Considering that the first years of schooling are essential for the construction of knowledge in mathematics and for the development of transversal skills such as logical reasoning and problem solving, and taking into account that the evolution of mathematical learning takes place in a continuous and spiral dynamic, it is important to establish solid foundations so as not to compromise the learning of the following years. Note that failure in this subject is often rooted in incomplete or dysfunctional learning, resulting from a poor construction of the mathematics foundations.",
-                        "The intervention of the Hypatiamat project, being directly aimed at the students, takes advantage of their natural taste for technological environments. With this in mind, it proposes to provide teachers with tools that will allow them to incorporate, in their daily practice, methodologies that use this type of environment, duly articulated with other methodologies. It should be noted that learning is richer and more effective if the experiences and contexts provided to students are more diversed, and it is in this perspective that the Hypatiamat Project offers a great diversity of materials and approaches, allowing teachers to work them not only in a technological context, but also in a concrete one.",
-                        "In this dissertation the objective is to update and improve the component corresponding to the management of championships of Hypatiamat, thus allowing users of the platform an easier and more intuitive interaction with it."
-                    ]
-                },
-                "palavras-chave": {
-                    "palavra": [
-                        "Hypatiamat", "Championships", "Certificates", "Interface", "Statistics"
-                    ]
-                }
-            },
-            "inst": "Dep. Informática - Universidade do Minho / Associação Hypatiamat",
-            "beginyear": 2022,
-            "endyear": 2023,
-            "id": "thesup58"
-        },
-        {
-            "student": {
-                "id": "PG47375",
-                "name": "José Pedro Castro Ferreira",
-                "program": {
-                    "desc": "MIEI - Mestrado em Engenharia Informática"
-                }
-            },
-            "document": {
-                "title": "Web XML IDE",
-                "abstract": {
-                    "p": [
-                        "This document is the report for a Master Thesis, included in the second year of the Master’s Degree in Informatics Engineering at Universidade do Minho in Braga, Portugal.",
-                        "The project consists on the design and development of a Web IDE for XML to support teaching annotation languages to students that deal with digital documents but are not related to computer programming. The developed tool must be easy to install and to use, considering it is made to help users that are not experienced with programming or annotation languages nor IDEs.",
-                        "The goal of this project is to get an user-friendly, easy to learn, Web-based platform to assist in: creating well-formed XML documents, DTDs, XML Schemas and XML Stylesheets; converting DTDs to XML Schemas; validating XML documents according to given DTDs or Schemas; running XPath expressions on XML Documents; and automatically generating XML documents from a DTD or a Schema and some parameters.",
-                        "The state of the art on XML IDEs was analyzed in order to prove the necessity for the proposed application. The different IDEs were analyzed regarding their features, UI/UX, ease-of-use, price and availability.",
-                        "This document also contemplates the proposed approach for meeting the project’s ob- jectives, the plan for the development stage of this project, as well as the definition for the desired features, and the report for the development process itself, describing how the different features were implemented.",
-                        "The developed application was compared to the analyzed state of the art IDEs and proved to meet the proposed objectives for the project.",
-                        "The WebXMLIDE application is publicly available for free in the following link: https: //webxml.epl.di.uminho.pt/."
-                        
-                    ]
-                },
-                "palavras-chave": {
-                    "palavra": [
-                        "XML", "XSL", "DTD", "XSD", "XSLT", "XPath", "IDE", "Web-platform", "Schema", "Documents"
-                    ]
-                }
-            },
-            "inst": "Dep. Informática - Universidade do Minho",
-            "beginyear": 2022,
-            "endyear": 2023,
-            "id": "thesup57"
-        },
-        {
-            "student": {
                 "id": "A84464",
                 "name": "Válter Ferreira Picas Carvalho",
                 "program": {
@@ -2266,7 +1979,6 @@
             },
             "document": {
                 "title": "Hypatiamat - I Want To Solve Questions About...",
-                "doi": "https://hdl.handle.net/1822/84392",
                 "abstract": {
                     "p": [
                       "Hypatiamat is a Portuguese project comprised of several applications that aim to develop the Math skills of students from the 1st through 9th grades (Basic Education). The ingraining of mental calculation strategies, numbering systems, and logical operations lead to a better success rate in this subject in later years.",
@@ -2299,7 +2011,6 @@
             },
             "document": {
                 "title": "EWVM - an Educational Web Virtual Machine",
-                "doi": "https://hdl.handle.net/1822/84398",
                 "abstract": {
                     "p": [
                       "The Language Processing Course at Minho’s University uses a Virtual Machine imple- mented in C with its interface being implemented with the GTK toolkit. However, it is neither very informative nor very easy to install.",
@@ -2328,7 +2039,6 @@
             },
             "document": {
                 "title": "CLAV: Nova Ontologia",
-                "doi": "https://hdl.handle.net/1822/84577",
                 "abstract": {
                     "p": [
                       "O CLAV é um projeto nacional financiado pelo Simplex e que visa a classificação e a avaliação de toda a documentação circulante na administração pública portuguesa. A ontologia atual que suporta o CLAV foi desenvolvida de uma forma incremental (patchwork) e a certa altura não houve o cuidado e o formalismo necessário.",
@@ -2358,7 +2068,6 @@
             },
             "document": {
                 "title": "The role of an API Gateway in a Microservice Architecture",
-                "doi": "https://hdl.handle.net/1822/84396",
                 "abstract": {
                     "p": [
                       "Nowadays, with the development of bigger and more complex applications, the architectural paradigm for application development is changing from a more traditional Monolithic approach to an architectural style called Microservices. In this more recent, and increasingly popular, style of developing applications, a tool that has also become increasingly more popular is API Gateways. In this thesis I explored these and a few other concepts on various examples, recording my experience, with the intent to create a guide on how to more efficiently implement these tools on to your own projects, facilitating the usually long and arduous process of researching, learning, and implementing new technologies into your work."
@@ -2385,7 +2094,6 @@
             },
             "document": {
                 "title": "Ulisses NextGen",
-                "doi": "https://hdl.handle.net/1822/84497",
                 "abstract": {
                     "p": [
                       "Nowadays data can have many different shapes and relations between itself, ontologies try to formalize the semantics subjacent to this data and make it understandable by humans and code alike.",
@@ -2415,7 +2123,6 @@
             },
             "document": {
                 "title": "CLAV: especificação dos workflows (BPMN)",
-                "doi": "https://hdl.handle.net/1822/84364",
                 "abstract": {
                     "p": [
                       "A plataforma web CLAV (https://clav.dglab.gov.pt/) visa na disponibilização de informação e ferramentas que facilitem e normalizem as práticas de classificação e avaliação de toda a documentação circulante na administração pública portuguesa. Um dos seus principais objetivos é a redução da utilização dos documentos físicos que armazenam essa informação, substituindo o uso dos mesmos pelo formato digital. Assim sendo, dá- se uma redução do uso do papel, significando uma menor perda de informação e uma maior facilidade no tratamento dos processos, não havendo necessidade de transitar esses documentos físicos.",
@@ -2445,7 +2152,6 @@
             },
             "document": {
                 "title": "Hypatiamat: A funcionalidade de multijogador em jogos online",
-                "doi": "https://hdl.handle.net/1822/84393",
                 "abstract": {
                     "p": [
                       "O desempenho escolar na área da Matemática é uma preocupação crescente junto da comunidade educativa, tendo em conta o elevado insucesso escolar e correspondente abandono escolar precoce. Os professores tentam perceber qual a melhor forma para captar a atenção dos alunos ou incutir um maior interesse nestes relativamente a esta disciplina. Para além das técnicas utilizadas no ensino da matéria, os professores começam a aderir cada vez mais às novas tecnologias que auxiliam o ensino, uma vez que, estas permitem captar uma maior atenção por parte das crianças e jovens que, desde cedo, estão familiarizadas com as tecnologias atuais.",
@@ -2475,7 +2181,6 @@
             },
             "document": {
                 "title": "Synthetic Data Generation from JSON/XML Schemas",
-                "doi": "https://hdl.handle.net/1822/84498",
                 "abstract": {
                     "p": [
                       "The objective of this dissertation is the development of an application capable of automatically generating synthetic datasets that are representative and, possibly, very large, directly from JSON and XML schemas, in order to facilitate the testing of software applications and scientific endeavors in areas such as Data Science or Application Development.",
@@ -2505,7 +2210,6 @@
             },
             "document": {
                 "title": "CLAV - Processamento dos Autos de Eliminação",
-                "doi": "https://hdl.handle.net/1822/84063",
                 "abstract": {
                     "p": [
                         "O CLAV é um projeto nacional que tem como objetivo a classificação e avaliação de todos os documentos da administração pública portuguesa, com base em normas e orientações delineadas pela Direção Geral do Livro, dos Arquivos e das Bibliotecas (DGLAB). Esta iniciativa surgiu como solução à grande perda de informação causada pelo o uso de papel como método principal de conservação, bem como à incapacidade deste método de processar a enorme quantidade de informação digital produzida atualmente.",
@@ -2535,7 +2239,6 @@
             },
             "document": {
                 "title": "Development of a Fraud Detection Microservice Platform",
-                "doi": "https://hdl.handle.net/1822/84378",
                 "abstract": {
                     "p": [
                          "The cyber-world has dropped manual checking and promoted the adoption of more efficient and relying systems to detect fraudulent transactions. These systems aim to optimize and also improve how these transactions are validated.",
@@ -2566,7 +2269,6 @@
             },
             "document": {
                 "title": "CLAV: Gestão de Backups e Importação de Dados",
-                "doi": "https://hdl.handle.net/1822/84078",
                 "abstract": {
                     "p": [
                          "O CLAV é um projeto nacional financiado pelo Simplex. O objetivo deste projeto é classificar e avaliar toda a documentação circulante na Administração Pública portuguesa. Desta forma, as entidades públicas disporão de uma ferramenta que possibilita a identificação da documentação que deve ser eliminada ou arquivada. No entanto, como em todas as plataformas, podem ocorrer imprevistos que resultem em perda de informação.",
@@ -2594,7 +2296,6 @@
             },
             "document": {
                 "title": "CLAV: Interface e Sistema de notificações",
-                "doi": "https://hdl.handle.net/1822/87162",
                 "abstract": {
                     "p": [
                          "O arquivo de documentos enquanto recursos fundamentais na eficiência operacional e recurso de memória organizacional e social, tem várias implicações inerentes. Para além do elevado número de documentos produzidos e consequente acumular de papel, a maior dificuldade deste processo está na classificação e determinação do destino final dos documentos. A análise baseada na semântica do documento é um processo complicado, dá origem à eliminação de evidências importantes e à conservação casuística e desnecessária.",
@@ -2618,7 +2319,6 @@
             },
             "document": {
                 "title": "Development of an e-portfolio social network using emerging web technologies",
-                "doi": "https://hdl.handle.net/1822/86572",
                 "abstract": {
                     "p": [
                         "Digital portfolios (also known as e-Portfolios) can be described as digital collections of artifacts, being both a product (a digital collection of artifacts) and a process (reflecting on those artifacts and what they represent). It is an extension of the traditional Curriculum Vitae, which tells the educational and professional milestones of someone, while the portfolio proves and qualifies them (e.g.: annually thousands of students finish a Master degree on Informatics, but only one has built Vue, Twitter or Facebook – the Portfolio goes beyond the CV milestones by specifying the person’s output throughout life and distinguishing them). e-Portfolios augment this by introducing new digital representations and workflows, exposed to a community, being both a product and a process. This approach can be useful for individual self-reflection, education or even job markets, where companies seek talented individuals, because it expands the traditional CV concept and empowers individual merit. There have been many studies, theories, and methodologies related with e-Portfolios, but transpositions to web applications have been unsuccessful, untuitive and too complex (in opposition to the CV format, which had success in various applications, for example LinkedIn).",
@@ -2647,7 +2347,6 @@
             },
             "document": {
                 "title": "Hypatiamat: Api de Dados e Escritório",
-                "doi": "https://hdl.handle.net/1822/86582",
                 "abstract": {
                     "p": [
                         "A aprendizagem de Matemática no ensino básico (EB) é um assunto muito debatido e as dificuldades sentidas pela generalidade dos alunos nesta área é preocupante. Um professor preocupa-se com questões de qual a forma que se deve captar a atenção dos alunos ou tentar provocar um maior gosto na generalidade dos alunos nesta disciplina. Os professores, além das técnicas que possuem para ensinar a matéria, começam a aderir cada vez mais às novas tecnologias que auxiliam o ensino, dado que permitem captar uma maior atenção por parte das crianças do mundo contemporâneo que, desde cedo, estão familiarizadas com as tecnologias atuais.",
@@ -2704,7 +2403,6 @@
             },
             "document": {
                 "title": "CLAV: Planos de preservação digital",
-                "doi": "https://hdl.handle.net/1822/87163",
                 "abstract": {
                     "p": [
                         "Não podendo deixar de aproveitar os benefícios da era tecnológica que vivemos a Administração Pública Portuguesa caminha a passos largos para a digitalização de todo o seu processo organizacional.",
@@ -2737,7 +2435,6 @@
             },
             "document": {
                 "title": "Hypatiamat: Especificação e Implementação de um Componente para Gestão de Trabalhos de Casa",
-                "doi": "https://hdl.handle.net/1822/83046",
                 "abstract": {
                     "p": [
                         "O Hypatiamat é um projeto que pretende mapear as condições de (in)sucesso e assim, contribuir para a promoção do sucesso escolar dos alunos do Ensino Básico, na disciplina de Matemática.",
@@ -2917,7 +2614,6 @@
             },
             "document": {
                 "title": "CLAV: Classifica\u00e7\u00e3o e Avalia\u00e7\u00e3o da Informa\u00e7\u00e3o P\u00fablica, Especifica\u00e7\u00e3o e Implementa\u00e7\u00e3o dos RADA",
-                "doi": "https://hdl.handle.net/1822/83609",
                 "abstract": {
                     "p": [
                         "A administra\u00e7\u00e3o p\u00fablica portuguesa \u00e9 bastante complexa possuindo processos administrativos demasiados penosos e \n          lentos para os tempos em que vivemos. Com o intuito de melhorar, o governo portugu\u00eas criou um programa \n          denominado Simplex+ que cont\u00e9m in\u00fameras medidas que visam simplificar e modernizar os processos administrativos \n          nas entidades p\u00fablicas.",
@@ -3349,7 +3045,6 @@
             "inst": "Dep. Inform\u00e1tica - Universidade do Minho, KEEP SOLUTIONS LDA",
             "beginyear": 2011,
             "endyear": 2017,
-            "type": "phd",
             "id": "thesup14"
         },
         {
@@ -3367,7 +3062,6 @@
             "inst": "Universidade do Minho",
             "beginyear": 2009,
             "endyear": 2013,
-            "type": "phd",
             "id": "thesup15"
         },
         {
@@ -3387,7 +3081,6 @@
             },
             "inst": "Universidade do Minho",
             "endyear": 2009,
-            "type": "phd",
             "id": "thesup16"
         },
         {
@@ -3404,7 +3097,6 @@
             },
             "inst": "Universidade do Minho",
             "endyear": 2006,
-            "type": "phd",
             "id": "thesup17"
         },
         {
@@ -3725,39 +3417,25 @@
     ],
     "theexa": [
         {
-        "student": {
-            "name": "António Alexandre Sousa Gouveia"
-        },
-        "document": {
-            "title": "Rule-based and user feedback-driven decision support system for transforming automatically-generated alignments into information-integration alignments"
-        },
-        "inst": "Universidade de Trás-os-Montes e Alto Douro (UTAD)",
-        "date": "2020-01-01",
-        "type": "phd",
-        "id": "theexa54"
-        },
-        {
             "student": {
                 "name": "Ricardo Giuliani Martini"
             },
             "document": {
                 "title": "Formal Description and Automatic Generation of Learning Spaces based on Ontologies"
             },
-            "inst": "Universidade do Minho, Escola de Engenharia, Departamento de Informática, PDINF",
-            "date": "2018-09-26",
-            "type": "phd",
+            "inst": "Universidade do Minho, Escola de Engenharia, Departamento de Inform\u00e1tica, PDINF",
+            "date": "Sep. 2018 (2018-09-26)",
             "id": "theexa0"
         },
         {
             "student": {
-                "name": "Luís Miguel Gomes dos Santos Reis Leitão"
+                "name": "Lu\u00eds Miguel Gomes dos Santos Reis Leit\u00e3o"
             },
             "document": {
                 "title": "Duplicate Detection in XML Databases"
             },
-            "inst": "Instituto Superior Técnico da Universidade Técnica de Lisboa (IST/UTL)",
-            "date": "2013-07-01",
-            "type": "phd",
+            "inst": "Instituto Superior T\u00e9cnico da Universidade T\u00e9cnica de Lisboa (IST/UTL)",
+            "date": "Jul. 2013 (2013-07-01)",
             "id": "theexa1"
         },
         {
@@ -3768,8 +3446,7 @@
                 "title": "A framework for practice-based learning applied to computer programmming"
             },
             "inst": "Faculdade de Ci\u00eancias da Universidade do Porto",
-            "date": "2012-09-14",
-            "type": "phd",
+            "date": "Set. 2012 (2012-09-14)",
             "id": "theexa2"
         },
         {
@@ -3780,8 +3457,7 @@
                 "title": "Los Objetos de Aprendizaje en la Educaci\u00f3n Superior: Fundamentos, Tratamiento y Recuperaci\u00f3n en Repositorios y Bibliotecas\n                Digitales Educativas"
             },
             "inst": "Doctorado, Univ. Carlos III, Madrid, Spain",
-            "date": "2009",
-            "type": "phd",
+            "date": "Jun. 2009",
             "id": "theexa3"
         },
         {
@@ -3792,8 +3468,7 @@
                 "title": "The Role of an ICT Change Agent in ICT Diffusion within Technology Projects in Public and Private Sector Settings"
             },
             "inst": "Doctorate of Business Administration (DBA), School of Business, University of Ballarat, Australia",
-            "date": "2008-08",
-            "type": "phd",
+            "date": "August 2008",
             "id": "theexa4"
         },
         {
@@ -3804,609 +3479,29 @@
                 "title": "Automatization of the Code Generation for Different Industrial Robots"
             },
             "inst": "Escola de Engenharia da Universidade do Minho",
-            "date": "2008-06",
-            "type": "phd",
+            "date": "June 2008",
             "id": "theexa5"
         },
         {
             "student": {
-                "name": "Maria João Tinoco Varanda Pereira"
+                "name": "Maria Jo\u00e3o Tinoco Varanda Pereira"
             },
             "document": {
-                "title": "Sistematização da Animação de Programas"
+                "title": "Sistematiza\u00e7\u00e3o da Anima\u00e7\u00e3o de Programas"
             },
             "inst": "Escola de Engenharia da Universidade do Minho",
-            "date": "2003-10",
-            "type": "phd",
+            "date": "Oct. 2003",
             "id": "theexa6"
         },
         {
             "student": {
-                "name": "Tiago Manuel de Sousa Mendes (Mestrado em Ensino da Informática)"
+                "name": "Eduardo Lu\u00eds Braga Machado (Mestrado em Engenharia de Sistemas)"
             },
             "document": {
-                "title": "OS JOGOS E A GAMIFICAÇÃO NO ENSINO DA PROGRAMAÇÃO EM C/C++"
-            },
-            "inst": "Instituto de Educação da Universidade do Minho",
-            "date": "2023-12-13",
-            "type": "msc",
-            "id": "theexa67"
-        },
-        {
-            "student": {
-                "name": "Francisco José Borges (Mestrado em Ensino da Informática)"
-            },
-            "document": {
-                "title": "Aprendizagem de Uma Linguagem de Alto Nível Baseada num Projeto por Alunos do Ensino Profissional"
-            },
-            "inst": "Instituto de Educação da Universidade do Minho",
-            "date": "2023-12-11",
-            "type": "msc",
-            "id": "theexa66"
-        },
-    
-        {
-            "student": {
-                "name": "Tiago Gonçalves da Silva (Mestrado em Engenharia Informática e Computação)"
-            },
-            "document": {
-                "title": "Access Control in Linked Data Archives"
-            },
-            "inst": "Faculdade de Engenharia da Universidade do Porto",
-            "date": "2023-03-03",
-            "type": "msc",
-            "id": "theexa65"
-        },
-        {
-            "student": {
-                "name": "Pedro Nuno de Oliveira Duarte Carvalho (Mestrado em Engenharia de Software)"
-            },
-            "document": {
-                "title": "Structural Clustering of Web Pages for Usage Pattern Mining"
-            },
-            "inst": "Faculdade de Engenharia da Universidade do Porto",
-            "date": "2022-06-24",
-            "type": "msc",
-            "id": "theexa64"
-        },
-        {
-            "student": {
-                "name": "Nuno Miguel Barbosa Ferreira (Mestrado em Ensino da Informática)"
-            },
-            "document": {
-                "title": "Aprendizagem Baseada em Problemas aplicada ao ensino da folha de cálculo em cursos profissionais"
-            },
-            "inst": "Instituto de Educação da Universidade do Minho",
-            "date": "2022-06",
-            "type": "msc",
-            "id": "theexa63"
-        },
-        {
-            "student": {
-                "name": "Henrique Gabriel dos Santos Neto (Mestrado em Engenharia Informática)"
-            },
-            "document": {
-                "title": "Mining hints for fixing formal specifications"
+                "title": "Projeto de classifica\u00e7\u00e3o de documentos - DocClassify"
             },
             "inst": "Escola de Engenharia da Universidade do Minho",
-            "date": "2023-12-22",
-            "type": "msc",
-            "id": "theexa102"
-        },
-        {
-            "student": {
-                "name": "Marco António Álvares Ferreira (Mestrado em Engenharia Informática)"
-            },
-            "document": {
-                "title": "Protótipo de um sistema de Apoio à Decisão Clínica na urgência: caso de estudo exploratório"
-            },
-            "inst": "Escola de Engenharia da Universidade do Minho",
-            "date": "2023-12-14",
-            "type": "msc",
-            "id": "theexa101"
-        },
-        {
-            "student": {
-                "name": "José Nuno Baptista Martins (Mestrado em Engenharia Informática)"
-            },
-            "document": {
-                "title": "Interfaces Hotelaria"
-            },
-            "inst": "Escola de Engenharia da Universidade do Minho",
-            "date": "2023-12-14",
-            "type": "msc",
-            "id": "theexa100"
-        },
-        {
-            "student": {
-                "name": "Pedro Miguel Dias Veloso (Mestrado em Engenharia Informática)"
-            },
-            "document": {
-                "title": "Deteção de conflitos em programas de Home Automation"
-            },
-            "inst": "Escola de Engenharia da Universidade do Minho",
-            "date": "2023-12-11",
-            "type": "msc",
-            "id": "theexa99"
-        },
-        {
-            "student": {
-                "name": "Rui Alexandre da Costa Gonçalves (Mestrado em Engenharia Informática)"
-            },
-            "document": {
-                "title": "Análise de Cenários para especificação de interfaces web"
-            },
-            "inst": "Escola de Engenharia da Universidade do Minho",
-            "date": "2023-12-05",
-            "type": "msc",
-            "id": "theexa98"
-        },
-        {
-            "student": {
-                "name": "André Rafael Olim Martins (Mestrado em Engenharia Informática)"
-            },
-            "document": {
-                "title": "Authorization and security of MEC applications"
-            },
-            "inst": "Escola de Engenharia da Universidade do Minho",
-            "date": "2023-11-30",
-            "type": "msc",
-            "id": "theexa97"
-        },
-        {
-            "student": {
-                "name": "Ana Luísa Lira Tomé Carneiro (Mestrado em Engenharia Informática)"
-            },
-            "document": {
-                "title": "Speculative Execution Resilient Cryptography"
-            },
-            "inst": "Escola de Engenharia da Universidade do Minho",
-            "date": "2023-11-30",
-            "type": "msc",
-            "id": "theexa96"
-        },
-        {
-            "student": {
-                "name": "Carlos João Teixeira Preto (Mestrado em Engenharia Informática)"
-            },
-            "document": {
-                "title": "e-Saúde - Design e Desenvolvimento de Serviços Web de Telemonitorização"
-            },
-            "inst": "Escola de Engenharia da Universidade do Minho",
-            "date": "2023-11-21",
-            "type": "msc",
-            "id": "theexa95"
-        },
-        {
-            "student": {
-                "name": "Ricardo Oliveira Vaz (Mestrado em Engenharia Informática)"
-            },
-            "document": {
-                "title": "Sistema de pagamentos descentralizados para e- commerce na Blockchain"
-            },
-            "inst": "Escola de Engenharia da Universidade do Minho",
-            "date": "2023-11-13",
-            "type": "msc",
-            "id": "theexa94"
-        },
-        {
-            "student": {
-                "name": "José Gabriel Correia Neves Parpot (Mestrado Integrado em Engenharia Informática)"
-            },
-            "document": {
-                "title": "Sensor Fusion for Impact Detection in Vehicles"
-            },
-            "inst": "Escola de Engenharia da Universidade do Minho",
-            "date": "2023-06-26",
-            "type": "msc",
-            "id": "theexa93"
-        },
-        {
-            "student": {
-                "name": "Nelson Correia Faria (Mestrado Integrado em Engenharia Informática)"
-            },
-            "document": {
-                "title": "Estratégia de Cibersegurança"
-            },
-            "inst": "Escola de Engenharia da Universidade do Minho",
-            "date": "2022-12-14",
-            "type": "msc",
-            "id": "theexa92"
-        },
-        {
-            "student": {
-                "name": "Susana Vitória Sá Silva Marques (Mestrado Integrado em Engenharia Informática)"
-            },
-            "document": {
-                "title": "Autonomous Optimization for a Transactional Middleware"
-            },
-            "inst": "Escola de Engenharia da Universidade do Minho",
-            "date": "2022-11-29",
-            "type": "msc",
-            "id": "theexa91"
-        },
-        {
-            "student": {
-                "name": "Bruno Alves Martins Carvalho (Mestrado Integrado em Engenharia Informática)"
-            },
-            "document": {
-                "title": "Automated and Intelligent Hacking Detection System"
-            },
-            "inst": "Escola de Engenharia da Universidade do Minho",
-            "date": "2022-11-17",
-            "type": "msc",
-            "id": "theexa90"
-        },
-        {
-            "student": {
-                "name": "Diogo José Cruz Sobral (Mestrado Integrado em Engenharia Informática)"
-            },
-            "document": {
-                "title": "Acordo distribuído em sistemas de computação de alto desempenho"
-            },
-            "inst": "Escola de Engenharia da Universidade do Minho",
-            "date": "2022-07-22",
-            "type": "msc",
-            "id": "theexa89"
-        },
-        {
-            "student": {
-                "name": "Rafaela Cristina Riço Rodrigues (Mestrado em Engenharia Informática)"
-            },
-            "document": {
-                "title": "Mobile Identification as a Service"
-            },
-            "inst": "Escola de Engenharia da Universidade do Minho",
-            "date": "2022-02-17",
-            "type": "msc",
-            "id": "theexa88"
-        },
-        {
-            "student": {
-                "name": "Luís Miguel Andrade Alves (Mestrado em Engenharia Informática)"
-            },
-            "document": {
-                "title": "Software defined applications: A DevOps approach to monitoring"
-            },
-            "inst": "Escola de Engenharia da Universidade do Minho",
-            "date": "2022-02-17",
-            "type": "msc",
-            "id": "theexa87"
-        },
-        {
-            "student": {
-                "name": "Hugo Afonso da Gião (Mestrado em Engenharia Informática)"
-            },
-            "document": {
-                "title": "LPBlocks - A Block-based Language for Linear Programming"
-            },
-            "inst": "Escola de Engenharia da Universidade do Minho",
-            "date": "2022-01-11",
-            "type": "msc",
-            "id": "theexa86"
-        },
-        {
-            "student": {
-                "name": "Joaquim Manuel Gonçalves Oliveira (Mestrado em Engenharia Informática)"
-            },
-            "document": {
-                "title": "Análise e Optimização de Protocolos de Acordo Distribuído Aproximado"
-            },
-            "inst": "Escola de Engenharia da Universidade do Minho",
-            "date": "2021-12-16",
-            "type": "msc",
-            "id": "theexa85"
-        },
-        {
-            "student": {
-                "name": "Nelson José Dias Teixeira (Mestrado em Engenharia Informática)"
-            },
-            "document": {
-                "title": "HyLake: Atualização de lagos de dados com granularidade fina"
-            },
-            "inst": "Escola de Engenharia da Universidade do Minho",
-            "date": "2021-11-29",
-            "type": "msc",
-            "id": "theexa84"
-        },
-        {
-            "student": {
-                "name": "Filipe Daniel Vieira da Silva (Mestrado em Engenharia Informática)"
-            },
-            "document": {
-                "title": "Data Market for Energy Industry Forecasting"
-            },
-            "inst": "Escola de Engenharia da Universidade do Minho",
-            "date": "2021-11-29",
-            "type": "msc",
-            "id": "theexa83"
-        },
-        {
-            "student": {
-                "name": "André Filipe Amorim Pereira  (Mestrado em Engenharia Informática)"
-            },
-            "document": {
-                "title": "Optimization of deep learning algorithms for an autonomous RC vehicle"
-            },
-            "inst": "Escola de Engenharia da Universidade do Minho",
-            "date": "2021-09-30",
-            "type": "msc",
-            "id": "theexa82"
-        },
-        {
-            "student": {
-                "name": "Miguel Lobo Pinto Leite (Mestrado Integrado em Engenharia Informática)"
-            },
-            "document": {
-                "title": "Active Learning for Fraud Detection"
-            },
-            "inst": "Escola de Engenharia da Universidade do Minho",
-            "date": "2021-11-10",
-            "type": "msc",
-            "id": "theexa81"
-        },
-        {
-            "student": {
-                "name": "Mariana de Martins Sá Miranda (Mestrado Integrado em Engenharia Informática)"
-            },
-            "document": {
-                "title": "S2Dedup: SGX-enabled Secure Deduplication System"
-            },
-            "inst": "Escola de Engenharia da Universidade do Minho",
-            "date": "2021-12-11",
-            "type": "msc",
-            "id": "theexa80"
-        },
-        {
-            "student": {
-                "name": "Marco António Rodrigues Oliveira Silva (Mestrado Integrado em Engenharia Informática)"
-            },
-            "document": {
-                "title": "Improving the Resilience of Microservices-based Applications"
-            },
-            "inst": "Escola de Engenharia da Universidade do Minho",
-            "date": "2021-02-19",
-            "type": "msc",
-            "id": "theexa79"
-        },
-        {
-            "student": {
-                "name": "José Miguel Ribeiro da Silva (Mestrado Integrado em Engenharia Informática)"
-            },
-            "document": {
-                "title": "RDMA mechanisms for columnar data in analytical environments"
-            },
-            "inst": "Escola de Engenharia da Universidade do Minho",
-            "date": "2021-02-26",
-            "type": "msc",
-            "id": "theexa78"
-        },
-        {
-            "student": {
-                "name": "José Miguel Silva Dias (Mestrado Integrado em Engenharia Informática)"
-            },
-            "document": {
-                "title": "Humanized Data Cleaning"
-            },
-            "inst": "Escola de Engenharia da Universidade do Minho",
-            "date": "2021-02-19",
-            "type": "msc",
-            "id": "theexa77"
-        },
-        {
-            "student": {
-                "name": "José Diogo do Lago Viana (Mestrado Integrado em Engenharia Informática)"
-            },
-            "document": {
-                "title": "Monitoring and Real-time Simulation of an Industrial Production Pipeline"
-            },
-            "inst": "Escola de Engenharia da Universidade do Minho",
-            "date": "2021-01-29",
-            "type": "msc",
-            "id": "theexa76"
-        },
-        {
-            "student": {
-                "name": "João Carlos Faria Padrão (Mestrado Integrado em Engenharia Informática)"
-            },
-            "document": {
-                "title": "Fault Tolerant Decentralized Deep Neural Networks"
-            },
-            "inst": "Escola de Engenharia da Universidade do Minho",
-            "date": "2021-12-22",
-            "type": "msc",
-            "id": "theexa75"
-        },
-        {
-            "student": {
-                "name": "Daniel António Landeira da Silva (Mestrado em Engenharia Informática)"
-            },
-            "document": {
-                "title": "Monitorização e controlo de aplicações na nuvem"
-            },
-            "inst": "Escola de Engenharia da Universidade do Minho",
-            "date": "2021-02-26",
-            "type": "msc",
-            "id": "theexa74"
-        },
-        {
-            "student": {
-                "name": "Ana Catarina Gomes Rodrigues (Mestrado Integrado em Engenharia Informática)"
-            },
-            "document": {
-                "title": "Bloom Filters for Stream Windows"
-            },
-            "inst": "Escola de Engenharia da Universidade do Minho",
-            "date": "2021-03-04",
-            "type": "msc",
-            "id": "theexa73"
-        },
-        {
-            "student": {
-                "name": "Bernardo Braga Bastos Mota (Mestrado Integrado em Engenharia Informática)"
-            },
-            "document": {
-                "title": "Tagus: an IoT data ingestion pipeline for MonetDB"
-            },
-            "inst": "Escola de Engenharia da Universidade do Minho",
-            "date": "2021-09-17",
-            "type": "msc",
-            "id": "theexa72"
-        },
-        {
-            "student": {
-                "name": "Joana Catarina Maciel Pereira (Mestrado Integrado em Engenharia Informática)"
-            },
-            "document": {
-                "title": "Construção Automática de CMDB"
-            },
-            "inst": "Escola de Engenharia da Universidade do Minho",
-            "date": "2021-07-23",
-            "type": "msc",
-            "id": "theexa71"
-        },
-        {
-            "student": {
-                "name": "Daniel Jorge Barros Tinoco (Mestrado Integrado em Engenharia Informática)"
-            },
-            "document": {
-                "title": "Automated Order Processing and Responses"
-            },
-            "inst": "Escola de Engenharia da Universidade do Minho",
-            "date": "2021-07-23",
-            "type": "msc",
-            "id": "theexa70"
-        },
-        {
-            "student": {
-                "name": "Vítor Emanuel Carvalho Peixoto (Mestrado Integrado em Engenharia Informática)"
-            },
-            "document": {
-                "title": "Building a Hybrid Recommender Engine for E- Commerce"
-            },
-            "inst": "Escola de Engenharia da Universidade do Minho",
-            "date": "2021-03-19",
-            "type": "msc",
-            "id": "theexa69"
-        },
-        {
-            "student": {
-                "name": "Carla Filipa Lopes Monteiro Costa (Mestrado em Engenharia Informática)"
-            },
-            "document": {
-                "title": "Desenho e Desenvolvimento de Novos Módulos para Apoiar os Auxiliares de Saúde em Lares"
-            },
-            "inst": "Escola de Engenharia da Universidade do Minho",
-            "date": "2021-03-09",
-            "type": "msc",
-            "id": "theexa68"
-        },
-        {
-            "student": {
-                "name": "Eduardo Miguel Fernandes Pereira (Mestrado em Ensino da Informática)"
-            },
-            "document": {
-                "title": "As TIC ao serviço da aprendizagem significativa: criação de uma base de dados de autores e obras previstos na disciplina de Português do 10º ano de escolaridade"
-            },
-            "inst": "Instituto de Educação da Universidade do Minho",
-            "date": "2020-12-15",
-            "type": "msc",
-            "id": "theexa62"
-        },
-        {
-            "student": {
-                "name": "Ricardo Gomes da Rocha (Mestrado em Engenharia Informática)"
-            },
-            "document": {
-                "title": "Full Expression - Emotion Recognition Software"
-            },
-            "inst": "Instituto Superior de Engenharia do Porto (ISEP)",
-            "date": "2019-07-24",
-            "type": "msc",
-            "id": "theexa61"
-        },
-        {
-            "student": {
-                "name": "Nuno Miguel Cardoso Lopes de Freitas (Mestrado Integrado em Engenharia Informática e Computação)"
-            },
-            "document": {
-                "title": "ArchGraph: Design of a vertical prototype infrastructure for semantic archives"
-            },
-            "inst": "Faculdade de Engenharia da Universidade do Porto (FEUP)",
-            "date": "2019-07-24",
-            "type": "msc",
-            "id": "theexa60"
-        },
-        {
-            "student": {
-                "name": "Carla Krause (Mestrado em Ciências da Informação)"
-            },
-            "document": {
-                "title": "MÉTODO DE ELABORAÇÃO DE UM PLANO DE PRESERVAÇÃO DIGITAL"
-            },
-            "inst": "Faculdade de Engenharia e Faculdade de Letras da Universidade do Porto",
-            "date": "2019",
-            "type": "msc",
-            "id": "theexa59"
-        },
-        {
-            "student": {
-                "name": "Luís Miguel da Silveira Vilaça (Mestrado em Ensino da Informática)"
-            },
-            "document": {
-                "title": "Estudo da Metodologia Projetual no Desenvolvimento de um Projeto de Redes"
-            },
-            "inst": "Instituto de Educação da Universidade do Minho",
-            "date": "2018-12-06",
-            "type": "msc",
-            "id": "theexa58"
-        },
-        {
-            "student": {
-                "name": "Gil Manuel Carvalho (Mestrado em Ensino da Informática)"
-            },
-            "document": {
-                "title": "Gamificação: no ensino de programação, estudo de uma estratégia pedagógica para sucesso na aprendizagem"
-            },
-            "inst": "Instituto de Educação da Universidade do Minho",
-            "date": "2018-12-06",
-            "type": "msc",
-            "id": "theexa57"
-        },
-        {
-            "student": {
-                "name": "Daniel Cerveira Furtado Malhadas (Mestrado Integrado em Engenharia Informática)"
-            },
-            "document": {
-                "title": "GPM: Generic Predictive Machine, Uma Framework Automatizada para Machine Learning"
-            },
-            "inst": "Escola de Engenharia da Universidade do Minho",
-            "date": "2018-12-05",
-            "type": "msc",
-            "id": "theexa56"
-        },
-        {
-            "student": {
-                "name": "Cristiana Esteves Araújo (Mestrado em Engenharia Informática)"
-            },
-            "document": {
-                "title": "Building the Museum of the Person"
-            },
-            "inst": "Escola de Engenharia da Universidade do Minho",
-            "date": "2016",
-            "type": "msc",
-            "id": "theexa55"
-        },
-        {
-            "student": {
-                "name": "Eduardo Luís Braga Machado (Mestrado em Engenharia de Sistemas)"
-            },
-            "document": {
-                "title": "Projeto de classificação de documentos - DocClassify"
-            },
-            "inst": "Escola de Engenharia da Universidade do Minho",
-            "date": "2016-06-07",
-            "type": "msc",
+            "date": "Jun. 2016 (2016-06-07)",
             "id": "theexa7"
         },
         {
@@ -4416,9 +3511,8 @@
             "document": {
                 "title": "GAMIFICATION AND GAME-BASED LEARNING: A ludic approach to learning"
             },
-            "inst": "Instituto de Educação da Universiade do Minho",
-            "date": "2015-07-29",
-            "type": "msc",
+            "inst": "Instituto de Educa\u00e7\u00e3o da Universiade do Minho",
+            "date": "Jul. 2015 (2015-07-29)",
             "id": "theexa8"
         },
         {
@@ -4429,8 +3523,7 @@
                 "title": "O Desenvolvimento do Pensamento Abstrato atrav\u00e9s de game-based learning e do Scratch"
             },
             "inst": "Instituto de Educa\u00e7\u00e3o da Universiade do Minho",
-            "date": "2015-07-29",
-            "type": "msc",
+            "date": "Jul. 2015 (2015-07-29)",
             "id": "theexa9"
         },
         {
@@ -4441,8 +3534,7 @@
                 "title": "Especifica\u00e7\u00e3o de Conhcecimento Associado a Bases de Dados Relacionais: Ontologias"
             },
             "inst": "Universidade Lus\u00edada de Vila Nova de Famalic\u00e3o",
-            "date": "2015-06-05",
-            "type": "msc",
+            "date": "Jun. 2015 (2015-06-05)",
             "id": "theexa10"
         },
         {
@@ -4453,8 +3545,7 @@
                 "title": "O uso da OFICINABOX no ensino da multim\u00e9dia: um estudo na \"Sala de D\u00favidas\" Virtual"
             },
             "inst": "Instituto de Educa\u00e7\u00e3o da Universiade do Minho",
-            "date": "2014-12-11",
-            "type": "msc",
+            "date": "Dez. 2014 (2014-12-11)",
             "id": "theexa11"
         },
         {
@@ -4465,8 +3556,7 @@
                 "title": "A utiliza\u00e7\u00e3o do Scratch como estrat\u00e9gia de ensino e aprendizagem da programa\u00e7\u00e3o: uma experi\u00eancia no \u00e2mbito do ensino\n                profissional"
             },
             "inst": "Instituto de Educa\u00e7\u00e3o da Universiade do Minho",
-            "date": "2014-12-09",
-            "type": "msc",
+            "date": "Dez. 2014 (2014-12-09)",
             "id": "theexa12"
         },
         {
@@ -4477,8 +3567,7 @@
                 "title": "Promo\u00e7\u00e3o da Autonomia dos Alunos na Aprendizagem de Programa\u00e7\u00e3o para a WEB"
             },
             "inst": "Instituto de Educa\u00e7\u00e3o da Universiade do Minho",
-            "date": "2014-11-21",
-            "type": "msc",
+            "date": "Nov. 2014 (2014-11-21)",
             "id": "theexa13"
         },
         {
@@ -4489,8 +3578,7 @@
                 "title": "Cria\u00e7\u00e3o de Sites para o utilizador comum"
             },
             "inst": "Instituto de Educa\u00e7\u00e3o da Universiade do Minho",
-            "date": "2014-11-06",
-            "type": "msc",
+            "date": "Nov. 2014 (2014-11-06)",
             "id": "theexa14"
         },
         {
@@ -4501,8 +3589,7 @@
                 "title": "A Metodologia de Trabalho de Projeto como promotora da aprendizagem dos alunos: uma abordagem a um curso profissional"
             },
             "inst": "Instituto de Educa\u00e7\u00e3o da Universiade do Minho",
-            "date": "2014-09-30",
-            "type": "msc",
+            "date": "Set. 2014 (2014-09-30)",
             "id": "theexa15"
         },
         {
@@ -4513,8 +3600,7 @@
                 "title": "LabTablet: A multi-domain laboratory book"
             },
             "inst": "Faculdade de Engenharia da Universidade do Porto (FEUP)",
-            "date": "2014-07-18",
-            "type": "msc",
+            "date": "Jul. 2014 (2014-07-18)",
             "id": "theexa16"
         },
         {
@@ -4525,8 +3611,7 @@
                 "title": "IPBrick - M\u00f3dulo de Diagn\u00f3stico e de Despiste de Problemas"
             },
             "inst": "Faculdade de Engenharia da Universidade do Porto (FEUP)",
-            "date": "2014-07-16",
-            "type": "msc",
+            "date": "Jul. 2014 (2014-07-16)",
             "id": "theexa17"
         },
         {
@@ -4537,8 +3622,7 @@
                 "title": "IPBrick - API para Integra\u00e7\u00e3o de Aplica\u00e7\u00f5es \"Third Party\""
             },
             "inst": "Faculdade de Engenharia da Universidade do Porto (FEUP)",
-            "date": "2014-07-16",
-            "type": "msc",
+            "date": "Jul. 2014 (2014-07-16)",
             "id": "theexa18"
         },
         {
@@ -4549,8 +3633,7 @@
                 "title": "Engineering Temporal and Spatial Aspects in OWL using Patterns"
             },
             "inst": "Instituto Superior de Engenharia do Porto (ISEP)",
-            "date": "2013-11-22",
-            "type": "msc",
+            "date": "Nov. 2013 (2013-11-22)",
             "id": "theexa19"
         },
         {
@@ -4561,8 +3644,7 @@
                 "title": "Evaluating the Combination of Relaxation and Argumentation in Ontology Matching Negotiation"
             },
             "inst": "Instituto Superior de Engenharia do Porto (ISEP)",
-            "date": "2013-11-15",
-            "type": "msc",
+            "date": "Nov. 2013 (2013-11-15)",
             "id": "theexa20"
         },
         {
@@ -4573,8 +3655,7 @@
                 "title": "Solu\u00e7\u00f5es Open-source para os Servi\u00e7os de Fax e VPN numa Rede Empresarial"
             },
             "inst": "Faculdade de Engenharia da Universidade do Porto",
-            "date": "2012-02",
-            "type": "msc",
+            "date": "Feb. 2012",
             "id": "theexa21"
         },
         {
@@ -4585,8 +3666,7 @@
                 "title": "Integra\u00e7\u00e3o do OpenERP (Enterprise Resource Planning) no Sistema de Gest\u00e3o Documental e Workflow"
             },
             "inst": "Faculdade de Engenharia da Universidade do Porto",
-            "date": "2012-02",
-            "type": "msc",
+            "date": "Feb. 2012",
             "id": "theexa22"
         },
         {
@@ -4597,8 +3677,7 @@
                 "title": "Interface Avan\u00e7ado de Utilizador para An\u00e1lise de Formatos Multim\u00e9dia"
             },
             "inst": "Faculdade de Engenharia da Universidade do Porto",
-            "date": "2012-02",
-            "type": "msc",
+            "date": "Feb. 2012",
             "id": "theexa23"
         },
         {
@@ -4609,8 +3688,7 @@
                 "title": "Indexa\u00e7\u00e3o e Pesquisa de Informa\u00e7\u00e3o com Base em Ontologias Interligadas"
             },
             "inst": "Instituto Superior de Engenharia do Porto (ISEP)",
-            "date": "2011-11-16",
-            "type": "msc",
+            "date": "Nov. 2011 (2011-11-16)",
             "id": "theexa24"
         },
         {
@@ -4621,8 +3699,7 @@
                 "title": "Sharing Botanical Information using Geospatial Databases"
             },
             "inst": "Faculdade de Engenharia da Universidade do Porto",
-            "date": "2009-07",
-            "type": "msc",
+            "date": "July 2009",
             "id": "theexa25"
         },
         {
@@ -4633,8 +3710,7 @@
                 "title": "Computa\u00e7\u00e3o Ub\u00edqua no Ensino B\u00e1sico: Plataforma orientada \u00e0 informa\u00e7\u00e3o multissensorial georreferenciada"
             },
             "inst": "Faculdade de Engenharia da Universidade do Porto",
-            "date": "2009-07",
-            "type": "msc",
+            "date": "July 2009",
             "id": "theexa26"
         },
         {
@@ -4645,8 +3721,7 @@
                 "title": "Earthquake Record Selection for Dynamic Structural Analysis: an Application with a Web Interface"
             },
             "inst": "Faculdade de Engenharia da Universidade do Porto",
-            "date": "2009-07",
-            "type": "msc",
+            "date": "July 2009",
             "id": "theexa27"
         },
         {
@@ -4657,8 +3732,7 @@
                 "title": "Sistema de Gest\u00e3o Financeira para um Parque Tecnol\u00f3gico utilizando um Sistema de Gera\u00e7\u00e3o Autom\u00e1tica de C\u00f3digo"
             },
             "inst": "Faculdade de Engenharia da Universidade do Porto",
-            "date": "2009-03",
-            "type": "msc",
+            "date": "March 2009",
             "id": "theexa28"
         },
         {
@@ -4669,8 +3743,7 @@
                 "title": "Arquitecturas de Integra\u00e7\u00e3o de Mediadores com Companhias de Seguros"
             },
             "inst": "Faculdade de Engenharia da Universidade do Porto",
-            "date": "2009-03",
-            "type": "msc",
+            "date": "March 2009",
             "id": "theexa29"
         },
         {
@@ -4681,8 +3754,7 @@
                 "title": "Improving Database Reporting Processes with XML Technologies"
             },
             "inst": "Faculdade de Engenharia da Universidade do Porto",
-            "date": "2009-03",
-            "type": "msc",
+            "date": "March 2009",
             "id": "theexa30"
         },
         {
@@ -4693,8 +3765,7 @@
                 "title": "Integration using Oracle SOA Suite"
             },
             "inst": "Faculdade de Engenharia da Universidade do Porto",
-            "date": "2009-03",
-            "type": "msc",
+            "date": "March 2009",
             "id": "theexa31"
         },
         {
@@ -4705,8 +3776,7 @@
                 "title": "Reactivity in the Semantic Web applied to Bio-informatics"
             },
             "inst": "Faculdade de Ci\u00eancia e Tecnologia da Universidade Nova de Lisboa",
-            "date": "2009-02",
-            "type": "msc",
+            "date": "February 2009",
             "id": "theexa32"
         },
         {
@@ -4717,8 +3787,7 @@
                 "title": "A Control for Graph Representation and Interaction"
             },
             "inst": "Faculdade de Engenharia da Universidade do Porto (FEUP)",
-            "date": "2008-07",
-            "type": "msc",
+            "date": "July 2008",
             "id": "theexa33"
         },
         {
@@ -4729,8 +3798,7 @@
                 "title": "Digital Archives: Comparative Study and Interoperability"
             },
             "inst": "Faculdade de Engenharia da Universidade do Porto (FEUP)",
-            "date": "2008-07",
-            "type": "msc",
+            "date": "July 2008",
             "id": "theexa34"
         },
         {
@@ -4741,8 +3809,7 @@
                 "title": "Utiliza\u00e7\u00e3o do Oracle BPEL Process Manager"
             },
             "inst": "Faculdade de Engenharia da Universidade do Porto (FEUP)",
-            "date": "2008-07",
-            "type": "msc",
+            "date": "July 2008",
             "id": "theexa35"
         },
         {
@@ -4753,8 +3820,7 @@
                 "title": "Gest\u00e3o Integrada de Controlo de Acessos"
             },
             "inst": "Faculdade de Engenharia da Universidade do Porto (FEUP)",
-            "date": "2008-07",
-            "type": "msc",
+            "date": "July 2008",
             "id": "theexa36"
         },
         {
@@ -4765,8 +3831,7 @@
                 "title": "Sistema autom\u00e1tico de reconhecimento do montante de um cheque"
             },
             "inst": "Faculdade de Engenharia da Universidade do Porto (FEUP)",
-            "date": "2008-05",
-            "type": "msc",
+            "date": "May 2008",
             "id": "theexa37"
         },
         {
@@ -4777,8 +3842,7 @@
                 "title": "Reconhecimento de s\u00edmbolos musicais manuscritos na framework Gamera"
             },
             "inst": "Faculdade de Engenharia da Universidade do Porto (FEUP)",
-            "date": "2008-05",
-            "type": "msc",
+            "date": "May 2008",
             "id": "theexa38"
         },
         {
@@ -4789,8 +3853,7 @@
                 "title": "Clinical Protocols Enabling Evidence Based Medicine Practice in Healthcare Software Solutions"
             },
             "inst": "Faculdade de Engenharia da Universidade do Porto (FEUP)",
-            "date": "2008-05",
-            "type": "msc",
+            "date": "May 2008",
             "id": "theexa39"
         },
         {
@@ -4801,8 +3864,7 @@
                 "title": "Audit Trail CCHIT: Specification and Implementation"
             },
             "inst": "Faculdade de Engenharia da Universidade do Porto (FEUP)",
-            "date": "2008-05",
-            "type": "msc",
+            "date": "May 2008",
             "id": "theexa40"
         },
         {
@@ -4813,8 +3875,7 @@
                 "title": "Uma infra-estrutura de suporte \u00e0 adaptabilidade em sites web"
             },
             "inst": "Faculdade de Ci\u00eancias da Uiversidade do Porto (FCUP)",
-            "date": "2006-12",
-            "type": "msc",
+            "date": "Dez. de 2006",
             "id": "theexa41"
         },
         {
@@ -4825,8 +3886,7 @@
                 "title": "Sistemas Remotos para Monitoriza\u00e7\u00e3o e An\u00e1lise de Dados em Plataformas de E-Learning"
             },
             "inst": "Instituto Superior T\u00e9cnico da Universidade T\u00e9cnica de Lisboa (IST/UTL)",
-            "date": "2006-01",
-            "type": "msc",
+            "date": "Jan. de 2006",
             "id": "theexa42"
         },
         {
@@ -4837,8 +3897,7 @@
                 "title": "Evolving E-Learning Standards: Vianet, a case study"
             },
             "inst": "Instituto Superior T\u00e9cnico da Universidade T\u00e9cnica de Lisboa (IST/UTL)",
-            "date": "2005-07",
-            "type": "msc",
+            "date": "Jul. 2005",
             "id": "theexa43"
         },
         {
@@ -4849,8 +3908,7 @@
                 "title": "Formalizing Interface Markup Languages"
             },
             "inst": "Escola de Engenharia da Universidade do Minho",
-            "date": "2005-05",
-            "type": "msc",
+            "date": "Apr. 2005",
             "id": "theexa44"
         },
         {
@@ -4861,8 +3919,7 @@
                 "title": "Edi\u00e7\u00e3o estrutural de documentos XML sobre a Web"
             },
             "inst": "Faculdade de Ci\u00eancias da Uiversidade do Porto (FCUP)",
-            "date": "2004-12",
-            "type": "msc",
+            "date": "Dec. 2004",
             "id": "theexa45"
         },
         {
@@ -4873,8 +3930,7 @@
                 "title": "Explora\u00e7\u00e3o do GML e Web Services para uso de SIG's em PDA's"
             },
             "inst": "Escola de Engenharia da Universidade do Minho",
-            "date": "2004-12",
-            "type": "msc",
+            "date": "Dec. 2004",
             "id": "theexa46"
         },
         {
@@ -4885,8 +3941,7 @@
                 "title": "pGML - Estudo de um Subconjunto 'Preciso' do GML 2.12"
             },
             "inst": "Escola de Engenharia da Universidade do Minho",
-            "date": "2004-11",
-            "type": "msc",
+            "date": "Nov. 2004",
             "id": "theexa47"
         },
         {
@@ -4897,7 +3952,7 @@
                 "title": "Normaliza\u00e7\u00e3o de Meta-Informa\u00e7\u00e3o para Arquivos Multim\u00e9dia"
             },
             "inst": "Faculdade de Engenharia da Universidade do Porto (FEUP)",
-            "date": "2004-11",
+            "date": "Nov. 2004",
             "id": "theexa48"
         },
         {
@@ -4908,8 +3963,7 @@
                 "title": "Explora\u00e7\u00e3o de Solu\u00e7\u00f5es de Arquivo para Documentos anotados na linguagem XML e o seu processamento"
             },
             "inst": "Escola de Engenharia da Universidade do Minho",
-            "date": "2004-11",
-            "type": "msc",
+            "date": "Nov. 2004",
             "id": "theexa49"
         },
         {
@@ -4920,8 +3974,7 @@
                 "title": "Armazenamento de Dados Complexos Utilizando XML"
             },
             "inst": "Instituto Superior T\u00e9cnico da Universidade T\u00e9cnica de Lisboa (IST/UTL)",
-            "date": "2003-06",
-            "type": "msc",
+            "date": "Jun. 2003",
             "id": "theexa50"
         },
         {
@@ -4932,7 +3985,7 @@
                 "title": "Interac\u00e7\u00e3o com uma Arquitectura de Componentes com Independ\u00eancia de Dispositivo e Localiza\u00e7\u00e3o"
             },
             "inst": "Faculdade de Engenharia da Universidade do Porto (FEUP)",
-            "date": "2003-04",
+            "date": "Apr. 2003",
             "id": "theexa51"
         },
         {
@@ -4943,8 +3996,7 @@
                 "title": "Especifica\u00e7\u00e3o XML de Aplica\u00e7\u00f5ees para WWW"
             },
             "inst": "Faculdade de Engenharia da Universidade do Porto (FEUP)",
-            "date": "2002-12",
-            "type": "msc",
+            "date": "Dec. 2002",
             "id": "theexa52"
         },
         {
@@ -4955,162 +4007,53 @@
                 "title": "Valida\u00e7\u00e3o Sem\u00e2ntica em Documentos XML"
             },
             "inst": "Escola de Engenharia da Universidade do Minho",
-            "date": "2002-10",
-            "type": "msc",
+            "date": "Oct. 2002",
             "id": "theexa53"
         }
     ],
     "courses": [
         {
-            "year": "2024/2025",
-            "name": "Projeto de Informática",
-            "url": "http://www.di.uminho.pt/~jcr/AULAS",
-            "grad": {
-                "name": "Mestrado em Engenharia Informática",
-                "acr": "MEI",
-                "year": 2
-            },
-            "students": 28,
-            "id": "PI2024"
-        },
-        {
-            "year": "2024/2025",
-            "name": "Algoritmos e Técnicas de Programação",
-            "url": "https://epl.di.uminho.pt/~jcr/AULAS/ATP2024/",
-            "grad": {
-                "name": "Licenciatura em Engenharia Biomédica",
-                "acr": "ENGBIOM",
-                "year": 2
-            },
-            "students": 91,
-            "id": "ATP2024"
-        },
-        {
-            "year": "2023/2024",
-            "name": "Projeto",
-            "url": "http://www.di.uminho.pt/~jcr/AULAS",
-            "grad": {
-                "name": "Licenciatura em Ciências da Computação",
-                "acr": "LCC",
-                "year": 3
-            },
-            "students": 12,
-            "id": "lccProj24"
-        },
-        {
-            "year": "2023/2024",
-            "name": "Engenharia Web (Opção)",
-            "url": "https://epl.di.uminho.pt/~jcr/AULAS/EngWeb2024",
-            "grad": {
-                "name": "Licenciatura em Engenharia Informática",
-                "acr": "LEI",
-                "year": 3
-            },
-            "students": 107,
-            "id": "EngWeb2024"
-        },
-        {
-            "year": "2023/2024",
-            "name": "Processamento de Linguagens",
-            "url": "http://www.di.uminho.pt/~jcr/AULAS/PL2024",
-            "grad": {
-                "name": "Licenciatura em Engenharia Informática",
-                "acr": "LEI",
-                "year": 3
-            },
-            "students": 206,
-            "id": "PL2024"
-        },
-        {
-            "year": "2023/2024",
-            "name": "Representação e Processamento de Conhecimento na Web",
-            "url": "https://epl.di.uminho.pt/~jcr/AULAS/RPCW2024",
-            "grad": {
-                "name": "Mestrado em Engenharia Informática",
-                "acr": "MEI",
-                "year": 1
-            },
-            "students": 33,
-            "id": "RPCW2024"
-        },
-        {
-            "year": "2023/2024",
-            "name": "Projeto de Informática",
-            "url": "http://www.di.uminho.pt/~jcr/AULAS",
-            "grad": {
-                "name": "Mestrado em Engenharia Informática",
-                "acr": "MEI",
-                "year": 2
-            },
-            "students": 24,
-            "id": "PI2023"
-        },
-        {
-            "year": "2023/2024",
-            "name": "Algoritmos e Técnicas de Programação",
-            "url": "https://epl.di.uminho.pt/~jcr/AULAS/ATP2023/",
-            "grad": {
-                "name": "Licenciatura em Engenharia Biomédica",
-                "acr": "ENGBIOM",
-                "year": 2
-            },
-            "students": 87,
-            "id": "ATP2023"
-        },
-        {
             "year": "2022/2023",
-            "name": "Engenharia Web (Opção)",
-            "url": "https://epl.di.uminho.pt/~jcr/AULAS/EngWeb2023",
+            "name": "Engenharia Web (Op\u00e7\u00e3o)",
+            "url": "http://www.di.uminho.pt/~jcr/AULAS",
             "grad": {
-                "name": "Licenciatura em Engenharia Informática",
+                "name": "Licenciatura em Engenharia Inform\u00e1tica",
                 "acr": "LEI",
                 "year": 3
             },
             "students": 60,
-            "id": "EngWeb2023"
+            "id": "courses0"
         },
         {
             "year": "2022/2023",
             "name": "Processamento de Linguagens",
             "url": "http://www.di.uminho.pt/~jcr/AULAS",
             "grad": {
-                "name": "Licenciatura em Engenharia Informática",
+                "name": "Licenciatura em Engenharia Inform\u00e1tica",
                 "acr": "LEI",
                 "year": 3
             },
             "students": 178,
-            "id": "PL2023"
+            "id": "courses1"
         },
         {
             "year": "2022/2023",
-            "name": "Representação e Processamento de Conhecimento na Web",
-            "url": "https://epl.di.uminho.pt/~jcr/AULAS/RPCW2023",
+            "name": "Representa\u00e7\u00e3o e Processamento de Conhecimento na Web",
+            "url": "http://www.di.uminho.pt/~jcr/AULAS",
             "grad": {
-                "name": "Mestrado em Engenharia Informática",
+                "name": "Mestrado em Engenharia Inform\u00e1tica",
                 "acr": "MEI",
                 "year": 1
             },
             "students": 30,
-            "id": "RPCW2023"
+            "id": "courses2"
         },
         {
             "year": "2022/2023",
-            "name": "Projeto",
+            "name": "Projeto de Inform\u00e1tica",
             "url": "http://www.di.uminho.pt/~jcr/AULAS",
             "grad": {
-                "name": "Licenciatura em Ciências da Computação",
-                "acr": "LCC",
-                "year": 3
-            },
-            "students": 18,
-            "id": "lccProj23"
-        },
-        {
-            "year": "2022/2023",
-            "name": "Projeto de Informática",
-            "url": "http://www.di.uminho.pt/~jcr/AULAS",
-            "grad": {
-                "name": "Mestrado em Engenharia Informática",
+                "name": "Mestrado em Engenharia Inform\u00e1tica",
                 "acr": "MEI",
                 "year": 2
             },
@@ -5119,10 +4062,10 @@
         },
         {
             "year": "2022/2023",
-            "name": "Algoritmos e Técnicas de Programação",
+            "name": "Algoritmos e T\u00e9cnicas de Programa\u00e7\u00e3o",
             "url": "https://epl.di.uminho.pt/~jcr/AULAS/ATP2022/",
             "grad": {
-                "name": "Licenciatura em Engenharia Biomédica",
+                "name": "Licenciatura em Engenharia Biom\u00e9dica",
                 "acr": "ENGBIOM",
                 "year": 2
             },
@@ -5131,10 +4074,10 @@
         },
         {
             "year": "2021/2022",
-            "name": "Projeto de Informática",
+            "name": "Projeto de Inform\u00e1tica",
             "url": "http://www.di.uminho.pt/~jcr/AULAS",
             "grad": {
-                "name": "Mestrado Integrado em Engenharia Informática",
+                "name": "Mestrado Integrado em Engenharia Inform\u00e1tica",
                 "acr": "MIEI",
                 "year": 5
             },
@@ -5182,7 +4125,7 @@
             "name": "Projeto",
             "url": "http://www.di.uminho.pt/~jcr/AULAS",
             "grad": {
-                "name": "Licenciatura em Ciências da Computação",
+                "name": "Licenciatura em Ci\u00eancias da Computa\u00e7\u00e3o",
                 "acr": "LCC",
                 "year": 3
             },
@@ -5191,7 +4134,7 @@
         },
         {
             "year": "2020/2021",
-            "name": "Projeto de Engenharia Informática",
+            "name": "Projeto de Engenharia Inform\u00e1tica",
             "url": "http://www.di.uminho.pt/~jcr/AULAS",
             "grad": {
                 "name": "Mestrado Integrado em Engenharia Inform\u00e1tica",
@@ -6460,44 +5403,11 @@
     "comms": [
         {
             "date": {
-                "year": 2024,
-                "month": "Oct",
-                "day": 24
-            },
-            "title": "Uma Taxionomia para a Justiça Portuguesa",
-            "event": "Informação para o Desenvolvimento da Justiça",
-            "place": "Ministério da Justiça, Lisboa, Portugal",
-            "id": "comms42"
-        },
-        {
-            "date": {
-                "year": 2024,
-                "month": "Feb",
-                "day": 2
-            },
-            "title": "Preservação dos nossos ativos de informação",
-            "event": "Time to Think Digital",
-            "place": "Braga, Portugal",
-            "id": "comms41"
-        },
-        {
-            "date": {
-                "year": 2023,
-                "month": "Oct",
-                "day": 13
-            },
-            "title": "Interoperabilidade Semântica: o quê e como",
-            "event": "IV Jornadas de Gestão da Informação – Interação entre arquivistas e informáticos",
-            "place": "Coimbra, Portugal",
-            "id": "comms40"
-        },
-        {
-            "date": {
                 "year": 2022,
                 "month": "Jul",
                 "day": 7
             },
-            "title": "Software comercial versus Software Open Source: o dilema do ponto de vista empresarial",
+            "title": "Software comercial versus Software Open Source: o dilema do ponto de vista empresarialcar3118",
             "event": "Colóquio Internacional: Bases de dados arquivísticas entre o projeto e a comunidade",
             "place": "Torre do Tombo, Lisboa, Portugal",
             "id": "comms37"

@@ -1,0 +1,1834 @@
+[
+    {
+        "year": "2022/2023",
+        "name": "Engenharia Web (Opção)",
+        "url": "https://epl.di.uminho.pt/~jcr/AULAS/EngWeb2023",
+        "grad": {
+            "name": "Licenciatura em Engenharia Informática",
+            "acr": "LEI",
+            "year": 3
+        },
+        "students": 60,
+        "id": "EngWeb2023"
+    },
+    {
+        "year": "2022/2023",
+        "name": "Processamento de Linguagens",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS",
+        "grad": {
+            "name": "Licenciatura em Engenharia Informática",
+            "acr": "LEI",
+            "year": 3
+        },
+        "students": 178,
+        "id": "PL2023"
+    },
+    {
+        "year": "2022/2023",
+        "name": "Representação e Processamento de Conhecimento na Web",
+        "url": "https://epl.di.uminho.pt/~jcr/AULAS/RPCW2023",
+        "grad": {
+            "name": "Mestrado em Engenharia Informática",
+            "acr": "MEI",
+            "year": 1
+        },
+        "students": 30,
+        "id": "RPCW2023"
+    },
+    {
+        "year": "2022/2023",
+        "name": "Projeto",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS",
+        "grad": {
+            "name": "Licenciatura em Ciências da Computação",
+            "acr": "LCC",
+            "year": 3
+        },
+        "students": 18,
+        "id": "lccProj23"
+    },
+    {
+        "year": "2022/2023",
+        "name": "Projeto de Inform\u00e1tica",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS",
+        "grad": {
+            "name": "Mestrado em Engenharia Inform\u00e1tica",
+            "acr": "MEI",
+            "year": 2
+        },
+        "students": 60,
+        "id": "courses3"
+    },
+    {
+        "year": "2022/2023",
+        "name": "Algoritmos e T\u00e9cnicas de Programa\u00e7\u00e3o",
+        "url": "https://epl.di.uminho.pt/~jcr/AULAS/ATP2022/",
+        "grad": {
+            "name": "Licenciatura em Engenharia Biom\u00e9dica",
+            "acr": "ENGBIOM",
+            "year": 2
+        },
+        "students": 120,
+        "id": "courses4"
+    },
+    {
+        "year": "2021/2022",
+        "name": "Projeto de Inform\u00e1tica",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS",
+        "grad": {
+            "name": "Mestrado Integrado em Engenharia Inform\u00e1tica",
+            "acr": "MIEI",
+            "year": 5
+        },
+        "students": 60,
+        "id": "courses5"
+    },
+    {
+        "year": "2021/2022",
+        "name": "Representa\u00e7\u00e3o e Processamento de Conhecimento na Web",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS",
+        "grad": {
+            "name": "Mestrado Integrado em Engenharia Inform\u00e1tica",
+            "acr": "MIEI",
+            "year": 4
+        },
+        "students": 43,
+        "id": "courses6"
+    },
+    {
+        "year": "2021/2022",
+        "name": "Processamento de Linguagens",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS",
+        "grad": {
+            "name": "Mestrado Integrado em Engenharia Inform\u00e1tica",
+            "acr": "MIEI",
+            "year": 3
+        },
+        "students": 202,
+        "id": "courses7"
+    },
+    {
+        "year": "2021/2022",
+        "name": "Algoritmos e T\u00e9cnicas de Programa\u00e7\u00e3o",
+        "url": "https://epl.di.uminho.pt/~jcr/AULAS/ATP2021/",
+        "grad": {
+            "name": "Licenciatura em Engenharia Biom\u00e9dica",
+            "acr": "ENGBIOM",
+            "year": 2
+        },
+        "students": 59,
+        "id": "courses8"
+    },
+    {
+        "year": "2021/2022",
+        "name": "Projeto",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS",
+        "grad": {
+            "name": "Licenciatura em Ciências da Computação",
+            "acr": "LCC",
+            "year": 3
+        },
+        "students": 12,
+        "id": "courses9"
+    },
+    {
+        "year": "2020/2021",
+        "name": "Projeto de Engenharia Informática",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS",
+        "grad": {
+            "name": "Mestrado Integrado em Engenharia Inform\u00e1tica",
+            "acr": "PEI",
+            "year": 5
+        },
+        "students": 174,
+        "id": "courses10"
+    },
+    {
+        "year": "2020/2021",
+        "name": "Desenvolvimento de Aplica\u00e7\u00f5es Web",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS",
+        "grad": {
+            "name": "Mestrado Integrado em Engenharia Inform\u00e1tica",
+            "acr": "MIEI",
+            "year": 4
+        },
+        "students": 47,
+        "id": "courses11"
+    },
+    {
+        "year": "2020/2021",
+        "name": "Processamento e Representa\u00e7\u00e3o de Informa\u00e7\u00e3o",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS",
+        "grad": {
+            "name": "Mestrado Integrado em Engenharia Inform\u00e1tica",
+            "acr": "MIEI",
+            "year": 4
+        },
+        "students": 37,
+        "id": "courses12"
+    },
+    {
+        "year": "2020/2021",
+        "name": "Processamento e Representa\u00e7\u00e3o de Conhecimento",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS",
+        "grad": {
+            "name": "Mestrado Integrado em Engenharia Inform\u00e1tica",
+            "acr": "MIEI",
+            "year": 4
+        },
+        "students": 30,
+        "id": "courses13"
+    },
+    {
+        "year": "2020/2021",
+        "name": "Laborat\u00f3rio de Engenharia Inform\u00e1tica",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS",
+        "grad": {
+            "name": "Mestrado Integrado em Engenharia Inform\u00e1tica",
+            "acr": "MIEI",
+            "year": 4
+        },
+        "students": 19,
+        "id": "courses14"
+    },
+    {
+        "year": "2020/2021",
+        "name": "Processamento de Linguagens",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS",
+        "grad": {
+            "name": "Mestrado Integrado em Engenharia Inform\u00e1tica",
+            "acr": "MIEI",
+            "year": 3
+        },
+        "students": 211,
+        "id": "courses15"
+    },
+    {
+        "year": "2020/2021",
+        "name": "Programa\u00e7\u00e3o Imperativa",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS",
+        "grad": {
+            "name": "Mestrado Integrado em Engenharia Inform\u00e1tica",
+            "acr": "MIEI",
+            "year": 1
+        },
+        "students": 211,
+        "id": "courses16"
+    },
+    {
+        "year": "2020/2021",
+        "name": "Projeto",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS",
+        "grad": {
+            "name": "Licenciatura em Ci\u00eancias da Computa\u00e7\u00e3o",
+            "acr": "LCC",
+            "year": 3
+        },
+        "students": 13,
+        "id": "courses17"
+    },
+    {
+        "year": "2019/2020",
+        "name": "Processamento de Linguagens",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS",
+        "grad": {
+            "name": "Mestrado Integrado em Engenharia Inform\u00e1tica",
+            "acr": "MIEI",
+            "year": 3
+        },
+        "students": 198,
+        "id": "courses18"
+    },
+    {
+        "year": "2019/2020",
+        "name": "Desenvolvimento de Aplica\u00e7\u00f5es Web",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS",
+        "grad": {
+            "name": "Mestrado Integrado em Engenharia Inform\u00e1tica",
+            "acr": "MIEI",
+            "year": 4
+        },
+        "students": 50,
+        "id": "courses19"
+    },
+    {
+        "year": "2019/2020",
+        "name": "Publica\u00e7\u00e3o Eletr\u00f3nica",
+        "url": "http://www4.di.uminho.pt/~jcr/AULAS",
+        "grad": {
+            "name": "Mestrado Integrado em Engenharia Biom\u00e9dica",
+            "acr": "MIEBIOM",
+            "year": 4
+        },
+        "students": 20,
+        "id": "courses20"
+    },
+    {
+        "year": "2019/2020",
+        "name": "Processamento e Representa\u00e7\u00e3o de Informa\u00e7\u00e3o",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS",
+        "grad": {
+            "name": "Mestrado Integrado em Engenharia Inform\u00e1tica",
+            "acr": "MIEI",
+            "year": 4
+        },
+        "students": 34,
+        "id": "courses21"
+    },
+    {
+        "year": "2019/2020",
+        "name": "Processamento e Representa\u00e7\u00e3o de Conhecimento",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS",
+        "grad": {
+            "name": "Mestrado Integrado em Engenharia Inform\u00e1tica",
+            "acr": "MIEI",
+            "year": 4
+        },
+        "students": 32,
+        "id": "courses22"
+    },
+    {
+        "year": "2019/2020",
+        "name": "Laborat\u00f3rio de Engenharia Inform\u00e1tica",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS",
+        "grad": {
+            "name": "Mestrado Integrado em Engenharia Inform\u00e1tica",
+            "acr": "LEI",
+            "year": 4
+        },
+        "students": 20,
+        "id": "courses23"
+    },
+    {
+        "year": "2019/2020",
+        "name": "Projeto",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS",
+        "grad": {
+            "name": "Licenciatura em Ci\u00eancias da Computa\u00e7\u00e3o",
+            "acr": "LCC",
+            "year": 3
+        },
+        "students": 12,
+        "id": "courses24"
+    },
+    {
+        "year": "2018/2019",
+        "name": "Desenvolvimento de Aplica\u00e7\u00f5es Web",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS",
+        "grad": {
+            "name": "Mestrado Integrado em Engenharia Inform\u00e1tica",
+            "acr": "DAW",
+            "year": 4
+        },
+        "students": 32,
+        "id": "courses25"
+    },
+    {
+        "year": "2018/2019",
+        "name": "Publica\u00e7\u00e3o Eletr\u00f3nica",
+        "url": "http://www4.di.uminho.pt/~jcr/AULAS",
+        "grad": {
+            "name": "Mestrado Integrado em Engenharia Biom\u00e9dica",
+            "acr": "MIEBIOM",
+            "year": 4
+        },
+        "students": 15,
+        "id": "courses26"
+    },
+    {
+        "year": "2018/2019",
+        "name": "Processamento e Representa\u00e7\u00e3o de Informa\u00e7\u00e3o",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS",
+        "grad": {
+            "name": "Mestrado Integrado em Engenharia Inform\u00e1tica",
+            "acr": "MIEI",
+            "year": 4
+        },
+        "students": 33,
+        "id": "courses27"
+    },
+    {
+        "year": "2018/2019",
+        "name": "Processamento e Representa\u00e7\u00e3o de Conhecimento",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS",
+        "grad": {
+            "name": "Mestrado Integrado em Engenharia Inform\u00e1tica",
+            "acr": "MIEI",
+            "year": 4
+        },
+        "students": 27,
+        "id": "courses28"
+    },
+    {
+        "year": "2018/2019",
+        "name": "Introdu\u00e7\u00e3o \u00e0 Programa\u00e7\u00e3o para N\u00e3o Inform\u00e1ticos (IPNI)",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS",
+        "grad": {
+            "name": "Op\u00e7\u00e3o UMinho",
+            "acr": "OpUM",
+            "year": 2
+        },
+        "students": 16,
+        "id": "courses29"
+    },
+    {
+        "year": "2017/2018",
+        "name": "Introdu\u00e7\u00e3o \u00e0 Programa\u00e7\u00e3o para N\u00e3o Inform\u00e1ticos (IPNI)",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS",
+        "grad": {
+            "name": "Op\u00e7\u00e3o UMinho",
+            "acr": "OpUM",
+            "year": 2
+        },
+        "students": 22,
+        "id": "courses30"
+    },
+    {
+        "year": "2017/2018",
+        "name": "Processamento de Linguagens (PL)",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS",
+        "grad": {
+            "name": "Mestrado Integrado em Engenharia Inform\u00e1tica",
+            "acr": "MIEI",
+            "year": 3
+        },
+        "students": 150,
+        "id": "courses31"
+    },
+    {
+        "year": "2017/2018",
+        "name": "Processamento de Linguagens e Conhecimento (PLC)::Processamento e Representa\u00e7\u00e3o de\n            Conhecimento (PRC)",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS",
+        "grad": {
+            "name": "Mestrado Integrado em Engenharia Inform\u00e1tica",
+            "acr": "MIEI",
+            "year": 4
+        },
+        "students": 18,
+        "id": "courses32"
+    },
+    {
+        "year": "2017/2018",
+        "name": "Processamento de Linguagens e Conhecimento (PLC)::Processamento e Representa\u00e7\u00e3o da Informa\u00e7\u00e3o (PRI)",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS/pri2015",
+        "grad": {
+            "name": "Mestrado Integrado em Engenharia Inform\u00e1tica",
+            "acr": "MIEI",
+            "year": 4
+        },
+        "students": 18,
+        "id": "courses33"
+    },
+    {
+        "year": "2017/2018",
+        "name": "Publica\u00e7\u00e3o Eletr\u00f3nica",
+        "url": "http://www4.di.uminho.pt/~jcr/AULAS/elpub2015/",
+        "grad": {
+            "name": "Mestrado Integrado em Engenharia Biom\u00e9dica",
+            "acr": "MIEBIOM",
+            "year": 4
+        },
+        "students": 18,
+        "id": "courses34"
+    },
+    {
+        "year": "2017/2018",
+        "name": "Engenharia Web",
+        "url": "http://elearning.uminho.pt",
+        "grad": {
+            "name": "Mestrado Integrado em Engenharia de Telecomunica\u00e7\u00f5es e Inform\u00e1tica",
+            "acr": "MIETI",
+            "year": 5
+        },
+        "students": 15,
+        "id": "courses35"
+    },
+    {
+        "year": "2015/2016",
+        "name": "Engenharia Web",
+        "url": "http://elearning.uminho.pt",
+        "grad": {
+            "name": "Mestrado Integrado em Engenharia de Comunica\u00e7\u00f5es",
+            "acr": "MIECOM",
+            "year": 5
+        },
+        "students": 8,
+        "id": "courses36"
+    },
+    {
+        "year": "2015/2016",
+        "name": "Laborat\u00f3rio de Engenharia Inform\u00e1tica",
+        "grad": {
+            "name": "Mestrado Integrado em Engenharia Inform\u00e1tica",
+            "acr": "MIEI",
+            "year": 4
+        },
+        "students": 8,
+        "desc": {
+            "#text": "Projetos realizados:",
+            "list": {
+                "li": [
+                    "\"MEF: desenvolvimento de uma aplica\u00e7\u00e3o Web para edi\u00e7\u00e3o colaborativa de uma ontologia\", por Miguel Zenha, Patr\u00edcia Barros e Tiago Concei\u00e7\u00e3o.",
+                    "\"MIEI box: desenvolvimento de uma aplica\u00e7\u00e3o Web para armazenamento de recursos did\u00e1ticos classificados\", por Janine Freitas, Jorge Ferreira e Nuno Monteiro.",
+                    "\"Encicolp\u00e9dia musical \u00e0 medida\", por Jorge Sol Ferreira e Tom\u00e1s Ferreira."
+                ]
+            }
+        },
+        "id": "courses37"
+    },
+    {
+        "year": "2015/2016",
+        "name": "Processamento de Linguagens e Conhecimento (PLC)::Processamento e Representa\u00e7\u00e3o de Conhecimento (PRC)",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS/prc2015",
+        "grad": {
+            "name": "Mestrado Integrado em Engenharia Inform\u00e1tica",
+            "acr": "MIEI",
+            "year": 4
+        },
+        "students": 26,
+        "id": "courses38"
+    },
+    {
+        "year": "2015/2016",
+        "name": "Processamento de Linguagens e Conhecimento (PLC)::Processamento e Representa\u00e7\u00e3o da Informa\u00e7\u00e3o (PRI)",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS/pri2015",
+        "grad": {
+            "name": "Mestrado Integrado em Engenharia Inform\u00e1tica",
+            "acr": "MIEI",
+            "year": 4
+        },
+        "students": 34,
+        "id": "courses39"
+    },
+    {
+        "year": "2015/2016",
+        "name": "Publica\u00e7\u00e3o Eletr\u00f3nica",
+        "url": "http://www4.di.uminho.pt/~jcr/AULAS/elpub2015/",
+        "grad": {
+            "name": "Mestrado Integrado em Engenharia Biom\u00e9dica",
+            "acr": "MIEBIOM",
+            "year": 4
+        },
+        "students": 20,
+        "id": "courses40"
+    },
+    {
+        "year": "2015/2016",
+        "name": "Programa\u00e7\u00e3o Imperativa",
+        "grad": {
+            "name": "Mestrado Integrado em Engenharia Inform\u00e1tica",
+            "acr": "MIEI",
+            "year": 1
+        },
+        "students": 320,
+        "id": "courses41"
+    },
+    {
+        "year": "2015/2016",
+        "name": "Processamento de Linguagens",
+        "grad": {
+            "name": "Mestrado Integrado em Engenharia Inform\u00e1tica",
+            "acr": "MIEI",
+            "year": 3
+        },
+        "students": 151,
+        "id": "courses42"
+    },
+    {
+        "year": "2014/2015",
+        "name": "Inform\u00e1tica para a Musicologia",
+        "grad": {
+            "name": "Licenciatura em M\u00fasica",
+            "acr": "LM",
+            "year": 2
+        },
+        "students": 4,
+        "id": "courses43"
+    },
+    {
+        "year": "2014/2015",
+        "name": "Processamento de Linguagens",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS/pl-lei-2015",
+        "grad": {
+            "name": "Licenciatura em Engenharia Inform\u00e1tica",
+            "acr": "LEI",
+            "year": 3
+        },
+        "students": 131,
+        "id": "courses44"
+    },
+    {
+        "year": "2014/2015",
+        "name": "Processamento de Linguagens e Conhecimento (PLC)::Processamento e Representa\u00e7\u00e3o de Conhecimento (PRC)",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS/prc2015",
+        "grad": {
+            "name": "Mestrado em Engenharia Inform\u00e1tica",
+            "acr": "MEI",
+            "year": 1
+        },
+        "students": 20,
+        "id": "courses45"
+    },
+    {
+        "year": "2014/2015",
+        "name": "Projeto Integrado",
+        "grad": {
+            "name": "Mestrado em Engenharia Inform\u00e1tica",
+            "acr": "MEI",
+            "year": 1
+        },
+        "students": 6,
+        "desc": {
+            "#text": "Projetos desenvolvidos:",
+            "list": {
+                "li": "\"Ontoworks: generic sparql endpoint\", por Andr\u00e9 Pereira, Bruno Ferreira e Lu\u00eds Miguel Pinto."
+            }
+        },
+        "id": "courses46"
+    },
+    {
+        "year": "2014/2015",
+        "name": "Processamento de Linguagens e Conhecimento (PLC)::Processamento e Representa\u00e7\u00e3o da Informa\u00e7\u00e3o (PRI)",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS/pri2014",
+        "grad": {
+            "name": "Mestrado em Engenharia Inform\u00e1tica",
+            "acr": "MEI",
+            "year": 1
+        },
+        "students": 20,
+        "id": "courses47"
+    },
+    {
+        "year": "2014/2015",
+        "name": "Publica\u00e7\u00e3o Eletr\u00f3nica",
+        "grad": {
+            "name": "Mestrado Integrado em Engenharia Biom\u00e9dica",
+            "acr": "MIEBIOM",
+            "year": 4
+        },
+        "students": 15,
+        "id": "courses48"
+    },
+    {
+        "year": "2014/2015",
+        "name": "Algoritmos e Paradigmas de Computa\u00e7\u00e3o",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS/ensprog2013",
+        "grad": {
+            "name": "Mestrado em Ensino da Inform\u00e1tica",
+            "acr": "MEINF",
+            "year": 1
+        },
+        "students": 2,
+        "id": "courses49"
+    },
+    {
+        "year": "2013/2014",
+        "name": "Engenharia de Linguagens (PED)",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS/engweb2013",
+        "grad": {
+            "name": "Mestrado em Engenharia Inform\u00e1tica",
+            "acr": "MEI",
+            "year": 1
+        },
+        "students": 22,
+        "id": "courses50"
+    },
+    {
+        "year": "2013/2014",
+        "name": "Processamento de Linguagens",
+        "url": "http://elearning.uminho.pt",
+        "grad": {
+            "name": "Licenciatura em Engenharia Inform\u00e1tica",
+            "acr": "LEI",
+            "year": 3
+        },
+        "students": 120,
+        "id": "courses51"
+    },
+    {
+        "year": "2013/2014",
+        "name": "Algoritmos e Paradigmas de Computa\u00e7\u00e3o",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS/ensprog2013",
+        "grad": {
+            "name": "Mestrado em Ensino da Inform\u00e1tica",
+            "acr": "MEINF",
+            "year": 1
+        },
+        "students": 6,
+        "id": "courses52"
+    },
+    {
+        "year": "2013/2014",
+        "name": "Engenharia Web",
+        "url": "http://elearning.uminho.pt",
+        "grad": {
+            "name": "Mestrado Integrado em Engenharia de Comunica\u00e7\u00f5es",
+            "acr": "MIECOM",
+            "year": 5
+        },
+        "students": 18,
+        "id": "courses53"
+    },
+    {
+        "year": "2012/2013",
+        "name": "UCE30::Engenharia de Linguagens::Processamento e Representa\u00e7\u00e3o de Conhecimento",
+        "url": "http://elearning.uminho.pt",
+        "grad": {
+            "name": "Mestrado em Engenharia Inform\u00e1tica",
+            "acr": "MEI",
+            "year": 1
+        },
+        "students": 13,
+        "id": "courses54"
+    },
+    {
+        "year": "2012/2013",
+        "name": "Processamento de Linguagens",
+        "url": "http://elearning.uminho.pt",
+        "grad": {
+            "name": "Licenciatura em Engenharia Inform\u00e1tica",
+            "acr": "LEI",
+            "year": 3
+        },
+        "students": 125,
+        "id": "courses55"
+    },
+    {
+        "year": "2012/2013",
+        "name": "Algoritmos e Paradigmas de Computa\u00e7\u00e3o",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS/ensprog2013",
+        "grad": {
+            "name": "Mestrado em Ensino da Inform\u00e1tica",
+            "acr": "MEINF",
+            "year": 1
+        },
+        "students": 26,
+        "id": "courses56"
+    },
+    {
+        "year": "2012/2013",
+        "name": "Ensino da Programa\u00e7\u00e3o",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS/ensprog2013",
+        "grad": {
+            "name": "Mestrado em Ensino da Inform\u00e1tica",
+            "acr": "MEINF",
+            "year": 1
+        },
+        "students": 26,
+        "id": "courses57"
+    },
+    {
+        "year": "2012/2013",
+        "name": "Engenharia Web",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS/engweb2012",
+        "grad": {
+            "name": "Mestrado Integrado em Engenharia de Comunica\u00e7\u00f5es",
+            "acr": "MIECOM",
+            "year": 5
+        },
+        "students": 18,
+        "id": "courses58"
+    },
+    {
+        "year": "2012/2013",
+        "name": "UCE30::Engenharia de Linguagens::Processamento Estruturado de Documentos",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS/ped2012",
+        "grad": {
+            "name": "Mestrado em Engenharia Inform\u00e1tica",
+            "acr": "MEI",
+            "year": 1
+        },
+        "students": 17,
+        "id": "courses59"
+    },
+    {
+        "year": "2012/2013",
+        "name": "Representa\u00e7\u00e3o de Conhecimento",
+        "grad": {
+            "name": "P\u00f3s-gradua\u00e7\u00e3o em Gest\u00e3o da Informa\u00e7\u00e3o e Marketing Intelligence",
+            "acr": "PGIMI",
+            "year": 1
+        },
+        "students": 12,
+        "id": "courses60"
+    },
+    {
+        "year": "2011/2012",
+        "name": "Representa\u00e7\u00e3o de Conhecimento",
+        "grad": {
+            "name": "P\u00f3s-gradua\u00e7\u00e3o em Gest\u00e3o da Informa\u00e7\u00e3o e Marketing Intelligence [EGP-UPBS]",
+            "acr": "PGIMI",
+            "year": 1
+        },
+        "students": 12,
+        "id": "courses61"
+    },
+    {
+        "year": "2011/2012",
+        "name": "Engenharia Web",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS/engweb2011",
+        "grad": {
+            "name": "Mestrado Integrado em Engenharia de Comunica\u00e7\u00f5es",
+            "acr": "MIECOM",
+            "year": 5
+        },
+        "students": 25,
+        "id": "courses62"
+    },
+    {
+        "year": "2011/2012",
+        "name": "UCE30::Engenharia de Linguagens::Processamento Estruturado de Documentos",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS/ped2011",
+        "grad": {
+            "name": "Mestrado em Engenharia Inform\u00e1tica",
+            "acr": "MEI",
+            "year": 1
+        },
+        "students": 6,
+        "id": "courses63"
+    },
+    {
+        "year": "2011/2012",
+        "name": "Programa\u00e7\u00e3o Imperativa",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS/pi-lei-2012",
+        "grad": {
+            "name": "Licenciatura em Engenharia Inform\u00e1tica",
+            "acr": "LEI",
+            "year": 1
+        },
+        "students": 308,
+        "id": "courses64"
+    },
+    {
+        "year": "2011/2012",
+        "name": "Ensino da Programa\u00e7\u00e3o",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS/ensprog2012",
+        "grad": {
+            "name": "Mestrado em Ensino da Inform\u00e1tica",
+            "acr": "MEINF",
+            "year": 1
+        },
+        "students": 26,
+        "id": "courses65"
+    },
+    {
+        "year": "2011/2012",
+        "name": "Ver\u00e3o no Campus: \"Scratch\"",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS/vc2012",
+        "students": 12,
+        "id": "courses66"
+    },
+    {
+        "year": "2010/2011",
+        "name": "Engenharia Web",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS/EngWeb2009",
+        "grad": {
+            "name": "Mestrado Integrado em Engenharia de Comunica\u00e7\u00f5es",
+            "acr": "MIECOM",
+            "year": 5
+        },
+        "students": 25,
+        "id": "courses67"
+    },
+    {
+        "year": "20010/2011",
+        "name": "Laborat\u00f3rios de Comunica\u00e7\u00f5es III",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS/lciii2009:2010",
+        "grad": {
+            "name": "Mestrado Integrado em Engenharia de Comunica\u00e7\u00f5es",
+            "acr": "MIECOM",
+            "year": 2
+        },
+        "students": 34,
+        "id": "courses68"
+    },
+    {
+        "year": "2010/2011",
+        "name": "Representa\u00e7\u00e3o de Conhecimento",
+        "grad": {
+            "name": "P\u00f3s-gradua\u00e7\u00e3o em Gest\u00e3o da Informa\u00e7\u00e3o e Marketing Intelligence [EGP-UPBS]",
+            "acr": "PGIMI",
+            "year": 1
+        },
+        "students": 18,
+        "id": "courses69"
+    },
+    {
+        "year": "2010/2011",
+        "name": "Processamento de Linguagens",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS/pl-lei-2011",
+        "grad": {
+            "name": "Licenciatura em Engenharia Inform\u00e1tica",
+            "acr": "LEI",
+            "year": 3
+        },
+        "students": 120,
+        "id": "courses70"
+    },
+    {
+        "year": "2010/2011",
+        "name": "Programa\u00e7\u00e3o Imperativa",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS/pi-lei-2011",
+        "grad": {
+            "name": "Licenciatura em Engenharia Inform\u00e1tica",
+            "acr": "LEI",
+            "year": 1
+        },
+        "students": 344,
+        "id": "courses71"
+    },
+    {
+        "year": "2009/2010",
+        "name": "Programa\u00e7\u00e3o Imperativa",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS/pi-lei-2010",
+        "grad": {
+            "name": "Licenciatura em Engenharia Inform\u00e1tica",
+            "acr": "LEI",
+            "year": 1
+        },
+        "students": 340,
+        "id": "courses72"
+    },
+    {
+        "year": "2009/2010",
+        "name": "Programa\u00e7\u00e3o Imperativa",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS/pi-lcc-2010",
+        "grad": {
+            "name": "Licenciatura em Ci\u00eancias da Computa\u00e7\u00e3o",
+            "acr": "LCC",
+            "year": 1
+        },
+        "students": 140,
+        "id": "courses73"
+    },
+    {
+        "year": "2009/2010",
+        "name": "Representa\u00e7\u00e3o de Conhecimento",
+        "grad": {
+            "name": "P\u00f3s-gradua\u00e7\u00e3o em Gest\u00e3o da Informa\u00e7\u00e3o e Marketing Intelligence [EGP-UPBS]",
+            "acr": "PGIMI",
+            "year": 1
+        },
+        "students": 15,
+        "id": "courses74"
+    },
+    {
+        "year": "2009/2010",
+        "name": "Engenharia Web",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS/EngWeb2009",
+        "grad": {
+            "name": "Mestrado Integrado em Engenharia de Comunica\u00e7\u00f5es",
+            "acr": "MIECOM",
+            "year": 5
+        },
+        "id": "courses75"
+    },
+    {
+        "year": "2009/2010",
+        "name": "Laborat\u00f3rios de Comunica\u00e7\u00f5es III",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS/lciii2009:2010",
+        "grad": {
+            "name": "Mestrado Integrado em Engenharia de Comunica\u00e7\u00f5es",
+            "acr": "MIECOM",
+            "year": 2
+        },
+        "id": "courses76"
+    },
+    {
+        "year": "2008/2009",
+        "name": "UCE30::Engenharia de Linguagens::Processamento Estruturado de Documentos",
+        "url": "http://www.di.uminho.pt/~jcr/XML/CURSOS/PED2008",
+        "grad": {
+            "name": "Mestrado em Engenharia Inform\u00e1tica",
+            "acr": "MEI",
+            "year": 1
+        },
+        "id": "courses77"
+    },
+    {
+        "year": "2008/2009",
+        "name": "Laborat\u00f3rios de Comunica\u00e7\u00f5es III",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS/lciii2008",
+        "grad": {
+            "name": "Mestrado Integrado em Engenharia de Comunica\u00e7\u00f5es",
+            "acr": "MIECOM",
+            "year": 2
+        },
+        "id": "courses78"
+    },
+    {
+        "year": "2008/2009",
+        "name": "Representa\u00e7\u00e3o de Conhecimento",
+        "grad": {
+            "name": "P\u00f3s-gradua\u00e7\u00e3o em Gest\u00e3o da Informa\u00e7\u00e3o e Marketing Intelligence [EGP-UPBS]",
+            "acr": "PGIMI",
+            "year": 1
+        },
+        "students": 15,
+        "id": "courses79"
+    },
+    {
+        "year": "2008/2009",
+        "name": "Programa\u00e7\u00e3o Imperativa",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS/pi2009",
+        "grad": {
+            "name": "Licenciatura em Ci\u00eancias da Computa\u00e7\u00e3o",
+            "acr": "LCC",
+            "year": 1
+        },
+        "id": "courses80"
+    },
+    {
+        "year": "2008/2009",
+        "name": "Processamento de Linguagens e Compiladores",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS/pl-lei-2011",
+        "grad": {
+            "name": "Licenciatura em Engenharia Inform\u00e1tica",
+            "acr": "LEI",
+            "year": 3
+        },
+        "id": "courses81"
+    },
+    {
+        "year": "2007/2008",
+        "name": "Processamento de Linguagens e Compiladores",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS/plc2008",
+        "grad": {
+            "name": "Licenciatura em Ci\u00eancias da Computa\u00e7\u00e3o",
+            "acr": "LCC",
+            "year": 2
+        },
+        "id": "courses82"
+    },
+    {
+        "year": "2007/2008",
+        "name": "Programa\u00e7\u00e3o Imperativa",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS/pi2008",
+        "grad": {
+            "name": "Licenciatura em Ci\u00eancias da Computa\u00e7\u00e3o",
+            "acr": "LCC",
+            "year": 1
+        },
+        "id": "courses83"
+    },
+    {
+        "year": "2007/2008",
+        "name": "Programa\u00e7\u00e3o Funcional",
+        "grad": {
+            "name": "Licenciatura em Ci\u00eancias da Computa\u00e7\u00e3o",
+            "acr": "LCC",
+            "year": 1
+        },
+        "id": "courses84"
+    },
+    {
+        "year": "2007/2008",
+        "name": "Laborat\u00f3rios de Comunica\u00e7\u00f5es III",
+        "grad": {
+            "name": "Mestrado Integrado em Engenharia de Comunica\u00e7\u00f5es",
+            "acr": "MIECOM",
+            "year": 2
+        },
+        "id": "courses85"
+    },
+    {
+        "year": "2007/2008",
+        "name": "UCE30::Engenharia de Linguagens::Processamento Estruturado de Documentos",
+        "url": "http://www.di.uminho.pt/~jcr/XML/CURSOS/PED2007",
+        "grad": {
+            "name": "Mestrado em Engenharia Inform\u00e1tica",
+            "acr": "MEI",
+            "year": 1
+        },
+        "id": "courses86"
+    },
+    {
+        "year": "2006/2007",
+        "name": "No courses, 100% research.",
+        "id": "courses87"
+    },
+    {
+        "year": "2005/2006",
+        "name": "Processamento Estruturado de Documentos (Op\u00e7\u00e3o IV)",
+        "url": "http://www.di.uminho.pt/~jcr/XML/CURSOS/PED2005",
+        "grad": {
+            "name": "Licenciatura em Engenharia de Sistemas e Inform\u00e1tica",
+            "acr": "LESI",
+            "year": 5
+        },
+        "id": "courses88"
+    },
+    {
+        "year": "2005/2006",
+        "name": "Processamento Estruturado de Documentos (Op\u00e7\u00e3o IV)",
+        "url": "http://www.di.uminho.pt/~jcr/XML/CURSOS/PED2005",
+        "grad": {
+            "name": "Licenciatura em Matem\u00e1tica e Ci\u00eancias da Computa\u00e7\u00e3o",
+            "acr": "LMCC",
+            "year": 5
+        },
+        "id": "courses89"
+    },
+    {
+        "year": "2005/2006",
+        "name": "Processamento Estruturado de Documentos",
+        "url": "http://www.di.uminho.pt/~jcr/XML/CURSOS/MICEI2005",
+        "grad": {
+            "name": "Mestrado em Inform\u00e1tica / Curso de Especializa\u00e7\u00e3o em Inform\u00e1tica",
+            "acr": "MICEI",
+            "year": 1
+        },
+        "id": "courses90"
+    },
+    {
+        "year": "2005/2006",
+        "name": "Programa\u00e7\u00e3o Funcional",
+        "grad": {
+            "name": "Licenciatura em Ci\u00eancias da Computa\u00e7\u00e3o",
+            "acr": "LCC",
+            "year": 1
+        },
+        "id": "courses91"
+    },
+    {
+        "year": "2005/2006",
+        "name": "Programa\u00e7\u00e3o Imperativa",
+        "grad": {
+            "name": "Licenciatura em Ci\u00eancias da Computa\u00e7\u00e3o",
+            "acr": "LCC",
+            "year": 1
+        },
+        "id": "courses92"
+    },
+    {
+        "year": "2005/2006",
+        "name": "Programa\u00e7\u00e3o Imperativa",
+        "grad": {
+            "name": "Licenciatura em Engenharia de Sistemas e Inform\u00e1tica",
+            "acr": "LESI",
+            "year": 1
+        },
+        "id": "courses93"
+    },
+    {
+        "year": "2004/2005",
+        "name": "Processamento Estruturado de Documentos (Op\u00e7\u00e3o IV)",
+        "grad": {
+            "name": "Licenciatura em Engenharia de Sistemas e Inform\u00e1tica",
+            "acr": "LESI",
+            "year": 5
+        },
+        "id": "courses94"
+    },
+    {
+        "year": "2004/2005",
+        "name": "Processamento Estruturado de Documentos (Op\u00e7\u00e3o IV)",
+        "grad": {
+            "name": "Licenciatura em Matem\u00e1tica e Ci\u00eancias da Computa\u00e7\u00e3o",
+            "acr": "LMCC",
+            "year": 5
+        },
+        "id": "courses95"
+    },
+    {
+        "year": "2004/2005",
+        "name": "Processamento Estruturado de Documentos",
+        "grad": {
+            "name": "Mestrado em Inform\u00e1tica / Curso de Especializa\u00e7\u00e3o em Inform\u00e1tica",
+            "acr": "MICEI",
+            "year": 1
+        },
+        "id": "courses96"
+    },
+    {
+        "year": "2004/2005",
+        "name": "Programa\u00e7\u00e3o Imperativa",
+        "grad": {
+            "name": "Licenciatura em Ci\u00eancias da Computa\u00e7\u00e3o",
+            "acr": "LCC",
+            "year": 1
+        },
+        "id": "courses97"
+    },
+    {
+        "year": "2004/2005",
+        "name": "Programa\u00e7\u00e3o Imperativa",
+        "grad": {
+            "name": "Licenciatura em Engenharia de Sistemas e Inform\u00e1tica",
+            "acr": "LESI",
+            "year": 1
+        },
+        "id": "courses98"
+    },
+    {
+        "year": "2004/2005",
+        "name": "Processamento de Linguagens I",
+        "grad": {
+            "name": "Licenciatura em Ci\u00eancias da Computa\u00e7\u00e3o",
+            "acr": "LCC",
+            "year": 2
+        },
+        "id": "courses99"
+    },
+    {
+        "year": "2004/2005",
+        "name": "Processamento de Linguagens I",
+        "grad": {
+            "name": "Licenciatura em Engenharia de Sistemas e Inform\u00e1tica",
+            "acr": "LESI",
+            "year": 2
+        },
+        "id": "courses100"
+    },
+    {
+        "year": "2003/2004",
+        "name": "Processamento Estruturado de Documentos (Op\u00e7\u00e3o IV)",
+        "url": "http://www.di.uminho.pt/~jcr/XML/CURSOS/PED2003/",
+        "grad": {
+            "name": "Licenciatura em Engenharia de Sistemas e Inform\u00e1tica",
+            "acr": "LESI",
+            "year": 5
+        },
+        "id": "courses101"
+    },
+    {
+        "year": "2003/2004",
+        "name": "Processamento Estruturado de Documentos (Op\u00e7\u00e3o IV)",
+        "url": "http://www.di.uminho.pt/~jcr/XML/CURSOS/PED2003/",
+        "grad": {
+            "name": "Licenciatura em Matem\u00e1tica e Ci\u00eancias da Computa\u00e7\u00e3o",
+            "acr": "LMCC",
+            "year": 5
+        },
+        "id": "courses102"
+    },
+    {
+        "year": "2003/2004",
+        "name": "Processamento Estruturado de Documentos",
+        "url": "http://www.di.uminho.pt/~jcr/XML/CURSOS/MICEI2003/",
+        "grad": {
+            "name": "Mestrado em Inform\u00e1tica / Curso de Especializa\u00e7\u00e3o em Inform\u00e1tica",
+            "acr": "MICEI",
+            "year": 1
+        },
+        "id": "courses103"
+    },
+    {
+        "year": "2003/2004",
+        "name": "Programa\u00e7\u00e3o Imperativa",
+        "grad": {
+            "name": "Licenciatura em Ci\u00eancias da Computa\u00e7\u00e3o",
+            "acr": "LCC",
+            "year": 1
+        },
+        "id": "courses104"
+    },
+    {
+        "year": "2003/2004",
+        "name": "Programa\u00e7\u00e3o Imperativa",
+        "grad": {
+            "name": "Licenciatura em Engenharia de Sistemas e Inform\u00e1tica",
+            "acr": "LESI",
+            "year": 1
+        },
+        "id": "courses105"
+    },
+    {
+        "year": "2003/2004",
+        "name": "Linguagens de Anota\u00e7\u00e3o de Documentos",
+        "grad": {
+            "name": "L\u00ednguas Estranjeiras Aplicadas",
+            "acr": "LEA",
+            "year": 3
+        },
+        "id": "courses106"
+    },
+    {
+        "year": "2002/2003",
+        "name": "Processamento Estruturado de Documentos (Op\u00e7\u00e3o IV)",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS/ped2002/ped2002.html",
+        "grad": {
+            "name": "Licenciatura em Engenharia de Sistemas e Inform\u00e1tica",
+            "acr": "LESI",
+            "year": 5
+        },
+        "id": "courses107"
+    },
+    {
+        "year": "2002/2003",
+        "name": "Processamento Estruturado de Documentos (Op\u00e7\u00e3o IV)",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS/ped2002/ped2002.html",
+        "grad": {
+            "name": "Licenciatura em Matem\u00e1tica e Ci\u00eancias da Computa\u00e7\u00e3o",
+            "acr": "LMCC",
+            "year": 5
+        },
+        "id": "courses108"
+    },
+    {
+        "year": "2002/2003",
+        "name": "Processamento Estruturado de Documentos",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS/micei2002/index.html",
+        "grad": {
+            "name": "Mestrado em Inform\u00e1tica / Curso de Especializa\u00e7\u00e3o em Inform\u00e1tica",
+            "acr": "MICEI",
+            "year": 1
+        },
+        "id": "courses109"
+    },
+    {
+        "year": "2002/2003",
+        "name": "Linguagens de Anota\u00e7\u00e3o de Documentos",
+        "url": "http://www.di.uminho.pt/~jcr/XML/CURSOS/LAD2003/LAD2003.htm",
+        "grad": {
+            "name": "L\u00ednguas Estranjeiras Aplicadas",
+            "acr": "LEA",
+            "year": 3
+        },
+        "students": 14,
+        "id": "courses110"
+    },
+    {
+        "year": "2001/2002",
+        "name": "Processamento Estruturado de Documentos (Op\u00e7\u00e3o IV)",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS/ped2001/ped2001.html",
+        "grad": {
+            "name": "Licenciatura em Engenharia de Sistemas e Inform\u00e1tica",
+            "acr": "LESI",
+            "year": 5
+        },
+        "id": "courses111"
+    },
+    {
+        "year": "2001/2002",
+        "name": "Processamento Estruturado de Documentos (Op\u00e7\u00e3o IV)",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS/ped2001/ped2001.html",
+        "grad": {
+            "name": "Licenciatura em Matem\u00e1tica e Ci\u00eancias da Computa\u00e7\u00e3o",
+            "acr": "LMCC",
+            "year": 5
+        },
+        "id": "courses112"
+    },
+    {
+        "year": "2001/2002",
+        "name": "Processamento de Linguagens I",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS/pli2002/pli2002.html",
+        "grad": {
+            "name": "Licenciatura em Matem\u00e1tica e Ci\u00eancias da Computa\u00e7\u00e3o",
+            "acr": "LMCC",
+            "year": 2
+        },
+        "students": 30,
+        "id": "courses113"
+    },
+    {
+        "year": "2001/2002",
+        "name": "Processamento de Linguagens I",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS/pli2002/pli2002.html",
+        "grad": {
+            "name": "Licenciatura em Engenharia de Sistemas e Inform\u00e1tica",
+            "acr": "LESI",
+            "year": 3
+        },
+        "students": 45,
+        "id": "courses114"
+    },
+    {
+        "year": "2000/2001",
+        "name": "Processamento Estruturado de Documentos (Op\u00e7\u00e3o IV)",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS/ped2000/ped.html",
+        "grad": {
+            "name": "Licenciatura em Engenharia de Sistemas e Inform\u00e1tica",
+            "acr": "LESI",
+            "year": 5
+        },
+        "id": "courses115"
+    },
+    {
+        "year": "2000/2001",
+        "name": "Processamento Estruturado de Documentos (Op\u00e7\u00e3o IV)",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS/ped2000/ped.html",
+        "grad": {
+            "name": "Licenciatura em Matem\u00e1tica e Ci\u00eancias da Computa\u00e7\u00e3o",
+            "acr": "LMCC",
+            "year": 5
+        },
+        "id": "courses116"
+    },
+    {
+        "year": "2000/2001",
+        "name": "Processamento de Linguagens I",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS/pli2001",
+        "grad": {
+            "name": "Licenciatura em Matem\u00e1tica e Ci\u00eancias da Computa\u00e7\u00e3o",
+            "acr": "LMCC",
+            "year": 2
+        },
+        "id": "courses117"
+    },
+    {
+        "year": "2000/2001",
+        "name": "Processamento de Linguagens I",
+        "url": "http://www.di.uminho.pt/~jcr/AULAS/pli2001",
+        "grad": {
+            "name": "Licenciatura em Engenharia de Sistemas e Inform\u00e1tica",
+            "acr": "LESI",
+            "year": 3
+        },
+        "id": "courses118"
+    },
+    {
+        "year": "2000/2001",
+        "name": "Paradigmas de Programa\u00e7\u00e3o I",
+        "grad": {
+            "name": "Licenciatura em Engenharia de Sistemas e Inform\u00e1tica",
+            "acr": "LESI",
+            "year": 1
+        },
+        "id": "courses119"
+    },
+    {
+        "year": "2000/2001",
+        "name": "Paradigmas de Programa\u00e7\u00e3o I",
+        "grad": {
+            "name": "Licenciatura em Matem\u00e1tica e Ci\u00eancias da Computa\u00e7\u00e3o",
+            "acr": "LMCC",
+            "year": 1
+        },
+        "id": "courses120"
+    }
+],
+"comms": [
+    {
+        "date": {
+            "year": 2022,
+            "month": "Jul",
+            "day": 7
+        },
+        "title": "Software comercial versus Software Open Source: o dilema do ponto de vista empresarialcar3118",
+        "event": "Colóquio Internacional: Bases de dados arquivísticas entre o projeto e a comunidade",
+        "place": "Torre do Tombo, Lisboa, Portugal",
+        "id": "comms37"
+    },
+    {
+        "date": {
+            "year": 2019,
+            "month": "Dec",
+            "day": 4
+        },
+        "title": "CLAV: Classificação e Avaliação da Informação Pública",
+        "event": "Encontro Nacional CLAV",
+        "place": "Torre do Tombo, Lisboa, Portugal",
+        "id": "comms36"
+    },
+    {
+        "date": {
+            "year": 2022,
+            "month": "Sep",
+            "day": 14
+        },
+        "title": "CLAV: Classificação e Avaliação da Informação Pública",
+        "event": "Encontro Nacional CLAV",
+        "place": "Torre do Tombo, Lisboa, Portugal",
+        "id": "comms35"
+    },
+    {
+        "date": {
+            "year": 2023,
+            "month": "Feb",
+            "day": 2
+        },
+        "title": "Informação nos Arquivos e Inteligência Artificial (passado, presente e futuro)",
+        "event": "2ª Conferência Internacional de Gestão da Informação e Arquivos (CIGIA)",
+        "place": "Torres Vedras, Portugal",
+        "id": "comms34"
+    },
+    {
+        "date": {
+            "year": 2015,
+            "month": "May",
+            "day": 28
+        },
+        "title": "Tecnologia i serveis de preservaci\u00f3 digital (keynote)",
+        "event": "XV Congr\u00e9s D\u2019Arxiv\u00edstica de Catalunya",
+        "place": "Lleida, Catalunya, Espa\u00f1a",
+        "doi": "http://hdl.handle.net/1822/35514",
+        "id": "comms0"
+    },
+    {
+        "date": {
+            "year": 2014,
+            "month": "Oct.",
+            "day": 4
+        },
+        "title": "RODA: reposit\u00f3rio de objetos digitais aut\u00eanticos: passado, presente e futuro...",
+        "event": "Encontro Internacional de Arquivos",
+        "place": "\u00c9vora, Portugal",
+        "doi": "http://hdl.handle.net/1822/31335",
+        "id": "comms1"
+    },
+    {
+        "date": {
+            "year": 2014,
+            "month": "Oct.",
+            "day": 3
+        },
+        "title": "Preservation watch : um sistema de suporte \u00e0 preserva\u00e7\u00e3o digital",
+        "event": "Encontro Internacional de Arquivos",
+        "place": "\u00c9vora, Portugal",
+        "doi": "http://hdl.handle.net/1822/30713",
+        "id": "comms2"
+    },
+    {
+        "date": {
+            "year": 2014,
+            "month": "Sep.",
+            "day": 11
+        },
+        "title": "Arquivos e Web Sem\u00e2ntica",
+        "event": "Ciclo de reflex\u00f5es e debates promovido pelo Grupo de Documentos de Arquivo",
+        "place": "Arquivo Municipal de Ponte do Lima, Portugal",
+        "doi": "http://hdl.handle.net/1822/30713",
+        "id": "comms3"
+    },
+    {
+        "date": {
+            "year": 2014,
+            "month": "Jul.",
+            "day": 2
+        },
+        "title": "Preserva\u00e7\u00e3o Digital no contexto da crescente desmaterializa\u00e7\u00e3o",
+        "event": "Colloquium Luris : desmaterializa\u00e7\u00e3o, confian\u00e7a, autenticidade e preserva\u00e7\u00e3o",
+        "place": "Braga, Portugal",
+        "doi": "http://hdl.handle.net/1822/29736",
+        "id": "comms4"
+    },
+    {
+        "date": {
+            "year": 2014,
+            "month": "May",
+            "day": 16
+        },
+        "title": "Arquivos e Web Sem\u00e2ntica",
+        "event": "Ciclo de reflex\u00f5es e debates promovido pelo Grupo de Documentos de Arquivo (GT-\u00ad\u2010GDA)",
+        "place": "Arquivo Hist\u00f3rico, Coimbra, Portugal",
+        "doi": "http://hdl.handle.net/1822/29735",
+        "id": "comms5"
+    },
+    {
+        "date": {
+            "year": 2013,
+            "month": "Apr."
+        },
+        "title": "Arquivos digitais na 3\u00aa gera\u00e7\u00e3o da Web : uma ideia com mais de 20 anos",
+        "event": "VII Encontro CTDI",
+        "place": "ESEIG, Vila do Conde, Portugal",
+        "doi": "http://hdl.handle.net/1822/23979",
+        "id": "comms6"
+    },
+    {
+        "date": {
+            "year": 2012,
+            "month": "Feb.",
+            "day": 7
+        },
+        "title": "Database migration : CLI",
+        "event": "A Practical Approach to Database Archiving",
+        "place": "Danish National Archives, Copenhagen, Denmark",
+        "doi": "http://hdl.handle.net/1822/17856",
+        "id": "comms7"
+    },
+    {
+        "date": {
+            "year": 2012,
+            "month": "Feb.",
+            "day": 7
+        },
+        "title": "RODA : a service-oriented digital repository : database archiving",
+        "event": "A Practical Approach to Database Archiving",
+        "place": "Danish National Archives, Copenhagen, Denmark",
+        "doi": "http://hdl.handle.net/1822/17860",
+        "id": "comms8"
+    },
+    {
+        "date": {
+            "year": 2011,
+            "month": "Nov.",
+            "day": 7
+        },
+        "title": "RODA : Reposit\u00f3rio de Objectos Digitais Aut\u00eanticos",
+        "event": "Semin\u00e1rio: (R)evolu\u00e7\u00e3o da informa\u00e7\u00e3o p\u00fablica : preservar, certificar e acessibilizar",
+        "place": "Dire\u00e7\u00e3o-Geral de Arquivos, Torre do Tombo, Lisboa, Portugal",
+        "doi": "http://hdl.handle.net/1822/17849",
+        "id": "comms9"
+    },
+    {
+        "date": {
+            "year": 2011,
+            "month": "Sep.",
+            "day": 15
+        },
+        "title": "Agrega\u00e7\u00e3o\u2029 de \u2029conte\u00fados \u2029e\u2029 constru\u00e7\u00e3o\u2029 de \u2029redes \u2029de\u2029 recursos digitais\u2029 \u00e0\u2029 medida",
+        "event": "Semin\u00e1rio: Ambiente \u2029Digital\u2029 Aberto",
+        "place": "Biblioteca L\u00facio Craveira da Silva, Braga, Portugal",
+        "doi": "http://hdl.handle.net/1822/17848",
+        "id": "comms10"
+    },
+    {
+        "date": {
+            "year": 2011,
+            "month": "Feb.",
+            "day": 9
+        },
+        "title": "Representa\u00e7\u00e3o de Conhecimento: representa\u00e7\u00e3o da informa\u00e7\u00e3o",
+        "event": "Ontulia 2011: Workshop sobre Ontologias",
+        "place": "DI-UM, Portugal",
+        "id": "comms11"
+    },
+    {
+        "date": {
+            "year": 2009,
+            "month": "Sep.",
+            "day": 15
+        },
+        "title": "KEEP Solutions Lda : uma spin-off da Universidade do Minho",
+        "event": "JOIN'09 - Jornadas de Inform\u00e1tica",
+        "place": "DI-UM, Portugal",
+        "id": "comms12"
+    },
+    {
+        "date": {
+            "year": 2008,
+            "month": "Mar.",
+            "day": 23
+        },
+        "title": "Preserva\u00e7\u00e3o digital : das normas \u00e0s boas pr\u00e1ticas",
+        "event": "Workshop \"Representa\u00e7\u00e3o de Baixo Relevo com PTM - da teoria \u00e0 pr\u00e1tica\"",
+        "place": "Museu D. Diogo de Sousa, Braga, Portugal",
+        "doi": "http://hdl.handle.net/1822/7760",
+        "id": "comms13"
+    },
+    {
+        "date": {
+            "year": 2008,
+            "month": "Feb.",
+            "day": 27
+        },
+        "title": "Sistemas de suporte \u00e0 Governa\u00e7\u00e3o Electr\u00f3nica: Preserva\u00e7\u00e3o a longo-prazo de informa\u00e7\u00e3o digital",
+        "event": "Semin\u00e1rio: Governa\u00e7\u00e3o na Era Digital",
+        "place": "Centro Pastoral de Amarante, Amarante, Portugal",
+        "id": "comms14"
+    },
+    {
+        "date": {
+            "year": 2007,
+            "month": "Nov.",
+            "day": "22-23"
+        },
+        "title": "The RODA project - Repository of Authentic Digital Objects",
+        "event": "DLM Forum Members Meeting",
+        "place": "Torre do Tombo, Lisbon, Portugal",
+        "url": "COMMS/DLM2007-RODA.pdf",
+        "id": "comms15"
+    },
+    {
+        "date": {
+            "year": 2007,
+            "month": "Oct.",
+            "day": 25
+        },
+        "title": "Digitarq2: Arquitectura aplicacional para gest\u00e3o de Arquivos Definitivos",
+        "event": "Workshop \"Organiza\u00e7\u00e3o e disponibiliza\u00e7\u00e3o de Informa\u00e7\u00e3o em arquivos fotogr\u00e1ficos - Relato da experi\u00eancia do CPF\"",
+        "place": "Torre do Tombo, Lisbon, Portugal",
+        "doi": "http://hdl.handle.net/1822/7371",
+        "id": "comms16"
+    },
+    {
+        "date": {
+            "year": 2007,
+            "month": "Oct.",
+            "day": 18
+        },
+        "title": "Digitarq2: Arquitectura aplicacional para gest\u00e3o de Arquivos Definitivos",
+        "event": "Workshop \"Organiza\u00e7\u00e3o e disponibiliza\u00e7\u00e3o de Informa\u00e7\u00e3o em arquivos fotogr\u00e1ficos - Relato da experi\u00eancia do CPF\"",
+        "place": "Centro Portugu\u00eas de Fotografia, Porto, Portugal",
+        "doi": "http://hdl.handle.net/1822/7371",
+        "id": "comms17"
+    },
+    {
+        "date": {
+            "year": 2007,
+            "month": "Oct.",
+            "day": 17
+        },
+        "title": "Reposit\u00f3rios Digitais",
+        "event": "Workshop \"III Tert\u00falia em Intelig\u00eancia Artificial: Pesquisa de Informa\u00e7\u00e3o e Intelig\u00eancia Artificial\"",
+        "place": "Instituto Superior de Engenharia - ISEP, Porto, Portugal",
+        "doi": "http://hdl.handle.net/1822/7382",
+        "id": "comms18"
+    },
+    {
+        "date": {
+            "year": 2007,
+            "month": "Dec."
+        },
+        "title": "RODA - Repository of Authentic Digital Objects",
+        "event": "International Workshop on Database Preservation",
+        "place": "National e-Science Centre, Edinburgh, Scotland",
+        "doi": "http://hdl.handle.net/1822/7405",
+        "id": "comms19"
+    },
+    {
+        "date": {
+            "year": 2007,
+            "month": "Dec."
+        },
+        "title": "CRiB - Preservation Services for Digital Repositories",
+        "event": "Open Repositories 2007",
+        "place": "San Antonio, Texas, USA",
+        "doi": "http://hdl.handle.net/1822/6195",
+        "id": "comms20"
+    },
+    {
+        "date": {
+            "year": 2006,
+            "month": "Nov.",
+            "day": 29
+        },
+        "title": "RODA - Desenvolvimento de uma plataforma tecnol\u00f3gica para suporte de Arquivos Digitais",
+        "event": "Encontro Sofware Livre na Administra\u00e7\u00e3o P\u00fablica",
+        "place": "Torre do Tombo, Lisboa - Portugal",
+        "doi": "http://hdl.handle.net/1822/6420",
+        "id": "comms21"
+    },
+    {
+        "date": {
+            "year": 2006,
+            "month": "Jul."
+        },
+        "title": "E-Portf\u00f3lios: da especifica\u00e7\u00e3o ao processamento digital",
+        "event": "I Encontro sobre e-Portf\u00f3lio - Aprendizagem Formal e Informal",
+        "place": "Universidade do Minho - Portugal",
+        "url": "http://www.di.uminho.pt/~jcr/XML/publicacoes/artigos/2006/e-portfolio-presentation.pdf",
+        "id": "comms22"
+    },
+    {
+        "date": {
+            "year": 2004,
+            "month": "Dec."
+        },
+        "title": "XML: passado, presente e futuro",
+        "event": "ACM students seminar",
+        "place": "Universidade do Minho - Portugal",
+        "url": "http://www.di.uminho.pt/~jcr/XML/publicacoes/artigos/2006/e-portfolio-presentation.pdf",
+        "id": "comms23"
+    },
+    {
+        "date": {
+            "year": 2002,
+            "month": "Apr."
+        },
+        "title": "Web Services",
+        "event": "Jornadas de LESI 2002",
+        "place": "Universidade do Minho - Portugal",
+        "id": "comms24"
+    },
+    {
+        "date": {
+            "year": 2001,
+            "month": "Nov."
+        },
+        "title": "XML Web Services",
+        "event": "Workshop \".Net days\" organized by Microsoft and DI/UM",
+        "place": "Universidade do Minho - Portugal",
+        "id": "comms25"
+    },
+    {
+        "date": {
+            "year": 2001,
+            "month": "Dec."
+        },
+        "title": "XML: a promessa e a esperan\u00e7a ...",
+        "event": "Msc students of MICEI",
+        "place": "DI/UM, Portugal",
+        "id": "comms26"
+    },
+    {
+        "date": {
+            "year": 2000,
+            "month": "Nov."
+        },
+        "title": "Linguagens de Anota\u00e7\u00e3o: XML, SGML, ...",
+        "event": "Seminar",
+        "place": "Instituto de Letras e Ci\u00eancias Humanas da Universidade do Minho",
+        "id": "comms27"
+    },
+    {
+        "date": {
+            "year": 1998,
+            "month": "Oct."
+        },
+        "title": "Informa\u00e7\u00e3o Estruturada: uma nova tecnologia nos Arquivos",
+        "event": "Encontro Portugu\u00eas de Museus e Autarquias",
+        "place": "Loures - Portugal",
+        "url": "COMMS/museus-autarquias98/musaut.htm",
+        "id": "comms28"
+    },
+    {
+        "date": {
+            "year": 1998,
+            "month": "Sep.",
+            "day": "2-4"
+        },
+        "title": "Informatics and Archives: a Present Needed Symbiosis",
+        "event": "Workshop \"Informa\u00e7\u00e3o e Documentos de Arquivo em Ambientes Digitais\"",
+        "place": "Porto, Portugal",
+        "url": "COMMS/archives98/archives98.htm",
+        "id": "comms29"
+    },
+    {
+        "date": {
+            "year": 1998,
+            "month": "May"
+        },
+        "title": "Engenharia da Informa\u00e7\u00e3o: Novos Desafios ...",
+        "event": "Jornadas de LESI 98",
+        "place": "Universidade do Minho, Braga, Portugal",
+        "url": "COMMS/BDs98di/BDs98DI.htm",
+        "id": "comms30"
+    },
+    {
+        "date": {
+            "year": 1996,
+            "month": "Sep."
+        },
+        "title": "DSSSL - basic topics",
+        "event": "Workshop \"David: Document Processing and SGML\"",
+        "place": "Universidade do Minho, Braga, Portugal",
+        "url": "COMMS/dsssl/dsssl.html",
+        "id": "comms31"
+    },
+    {
+        "date": {
+            "year": 1996,
+            "month": "Jun."
+        },
+        "title": "Synthesizer Generator",
+        "event": "Msc Seminar",
+        "place": "Universidade do Minho, Braga, Portugal",
+        "url": "COMMS/sgen/sgen_acet.html",
+        "id": "comms32"
+    },
+    {
+        "date": {
+            "year": 1996,
+            "month": "May"
+        },
+        "title": "Processamento de Documentos",
+        "event": "Msc Seminar",
+        "place": "Universidade do Minho, Braga, Portugal",
+        "url": "COMMS/proc_doc/proc_doc_acet.html",
+        "id": "comms33"
+    }
+]

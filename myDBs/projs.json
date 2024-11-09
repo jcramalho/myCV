@@ -1,0 +1,132 @@
+[
+    {
+        "id": "roda",
+        "title": "RODA: Repositório de Objetos Digitais Autênticos",
+        "beginDate": "2006-09-01",
+        "endDate": "2007-11-30",
+        "funding": {
+            "program": "Direção Geral de Arquivos (DGARQ)"
+        },
+        "url": "https://www.roda-community.org/"
+    },
+    {
+        "id": "digitarq",
+        "title": "Criação e Manutenção de Metainformação no contexto de Arquivos Históricos - DigitArq",
+        "beginDate": "2002-11-01",
+        "endDate": "2004-04-30",
+        "funding": {
+            "program": "Plano Operacional da Cultura - POC 315/02"
+        },
+        "desc": "Fui responsável pelos recursos humanos e por toda a gestão da parte técnica do projecto que decorreu de Novembro de 2002 a Abril de 2004. Recentemente, já em 2005, este projecto foi galardoado com o Prémio Fernandes Costa - AGÊNCIA PARA A SOCIEDADE DO CONHECIMENTO, IP promovido pelo Instituto de Informática. Os objectivos do projecto foram plenamente atingidos e consistiram na concepção e implementação da plataforma de software que neste momento suporta a nível digital todos os arquivos sob a alçada administrativa da Direcção Geral de Arquivos (18 instituições nacionais). Está também a ser equacionada a sua adopção em vários arquivos municipais."
+    },
+    {
+        "id": "metamedia2",
+        "title": "Metadata for the Preservation and Retrieval of Multimedia Components - METAMEDIA II",
+        "beginDate": "2000-07-31",
+        "endDate": "2002-07-31",
+        "funding": {
+            "program": "POSI/1999/SRI/34903"
+        }
+    },
+    {
+        "id": "metamedia",
+        "title": "MetaMedia: Metadata for Multimedia Archives",
+        "beginDate": "1999-07-01",
+        "endDate": "2000-07-01",
+        "desc": "Led by Prof. Gabriel David, from FEUP/INESC-Porto. This project had follow-up in another project. In addition to the results scientific studies that focused on modeling and designing a system for storage of metadata associated with multimedia objects, this project created a great spirit of collaboration between the teams, namely FEUP and DI/UM. This collaboration has extended to several levels: we have collaborated thesis supervisions, in the launching and organizing XATA conferences and applying for new research projects."
+    },
+    {
+        "id": "david",
+        "title": "David: Algebraic Specification of Documents",
+        "beginDate": "1996-09-01",
+        "endDate": "1998-12-31",
+        "funding": {
+            "program": "JNICT, PBIC/TIT/2479/95"
+        }
+    },
+    {
+        "id": "geira",
+        "title": "GeIRA: Information System supporting the portuguese heritage",
+        "beginDate": "1996-09-01",
+        "endDate": "1999-12-31",
+        "funding": {
+            "program": "INTERREG II"
+        },
+        "desc": "In the first years, I was in charge of the Development Center. Several pioneering solutions were developed in the cultural area."
+    },
+    {
+        "id": "j-ark",
+        "title": "J-Ark: European Jewish Community Archive",
+        "beginDate": "2021-12-01",
+        "endDate": "2022-05-31",
+        "funding": {
+            "program": "European Commission Seventh Framework Programme for Research and Technological Development (Brussels, BE), GRANT_NUMBER: TENtec number 29416093",
+            "ref": "http://dx.doi.org/10.13039/100011102",
+            "amount": "EUR 91,485"
+        },
+        "desc": "J-Ark -European Jewish Community Archive will connect the eArchiving, Europeana, and eTranslation CEF digital services to support long-term viability and sustainability of Jewish heritage archives in an integrated long-term preservation platform named J-Ark. This online solution will offer cloud services to ingest, preserve and distribute a wide range of heritage materials, including oral history interviews and recordings, historical photographs, documents, and more. J-Ark will be based on RODA, a mature open-source digital preservation platform, and will be customised according to the project needs. J-Ark will provide built-in support for Europeana and eTranslation DSIs. As a result, the ingested heritage materials will be offered to Europeana for publishing and automatically translated into the European languages of choice. The long-term sustainability of the system will be ensured through a combination of public funding, private funding (including from Jewish philanthropy) and usage fees. This project is an eArchiving Generic Services project, and it is co-financed by the Connecting Europe Facility of the European Union."
+    },
+    {
+        "id": "earchiving",
+        "title": "CEF eArchiving Building Blocks",
+        "beginDate": "2019-03-01",
+        "endDate": "2021-03-01",
+        "funding": {
+            "program": "European Commission Seventh Framework Programme for Research and Technological Development (Brussels, BE), GRANT_NUMBER: CET-TC-2019-3",
+            "ref": "http://dx.doi.org/10.13039/100011102",
+            "amount": "EUR 121,005"
+        },
+        "desc": "The CEF eArchiving Building Block is based on the outcomes of the E-ARK project (2014  2017). The project, which involved a number of European national archives, e-government agencies, digital preservation software developers and research institutions, aimed to synthesise best-practices from across Europe and develop a core set of interoperability specifications for archival operations. The project also updated a number of archival software components to meet the specifications, and carried out a number of operational pilots to verify the cross-border validity and interoperability of the specifications. After the successful conclusion of the E-ARK project in 2017, the European Commission included its outcomes into the CEF programme to become the basis of the eArchiving Building Block. Within CEF the initial specifications and open-source software components are being enriched with training and implementation guidance services. The mid-term vision of eArchiving is that within the next five years its specifications will be implemented throughout Europe across all sectors."
+    },
+    {
+        "id": "perf",
+        "title": "Performance em Expansão Tecnológica",
+        "beginDate": "2018-10-01",
+        "endDate": "2022-04-30",
+        "funding": {
+            "program": "Fundação para a Ciência e a Tecnologia (Lisboa, PT), GRANT_NUMBER: PTDC/ART-PER/31263/2017",
+            "ref": "http://dx.doi.org/10.13039/501100001871",
+            "amount": "EUR 224,392"
+        },
+        "desc": "TEPe é um projeto interdisciplinar que adopta o conceito de tecnologia em sentido operativo, enquanto estratégia de ampliação das possibilidades dos corpos em movimento, e modo de expansão de zonas de intersubjetividade. TEPe é o desenvolvimento de Technologically Expanded Dance TeDANCE, que foi o primeiro projeto sediado em universidades portuguesas a propor um cruzamento bidirecional entre arte e tecnociência. TeDANCE proporcionou a apresentação pública dos estudos e a disseminação de resultados, a publicação de uma obra bilingue com contribuições de pesquisadores de diversos países e estimulou o aparecimento de projetos artísticos, alguns dos quais de intercâmbio entre Portugal e Brasil. TEPe alarga o campo da dança ao da performance, na medida em que esta configura um território inclusivo de disciplinas e de contaminação de linguagens artísticas. Além disso, persiste e consolida a ligação atlântica, através da submissão à candidatura integrada FCT / FUNCAP. TEPe continua a investigação que vem sendo realizada sobre a produção de sonoridades a partir dos movimentos do corpo humano. Com este projeto, pretendemos aprofundar a experimentação intensiva de um dispositivo de captura de movimento MOCAP em articulação com a recolha e geração de sonoridades. O programa de trabalho decorre em duas escalas - a do corpo e a da cidade. TEPe tenciona mais concretamente estudar os contextos sonoros na e da cidade de Lisboa. Em articulação com este desiderato, TEPe proporcionará, caso tenha apoio, o desdobramento e a extensão posterior da investigação também para a cidade de Fortaleza. Os movimentos dos corpos nas paisagens urbanas e os modos de produção sonora e imagética constituem portanto o foco da investigação. Pretendemos analisar a forma como as assinaturas dos corpos em movimento se inscrevem nos percursos urbanos e como estes se rebatem nas escutas dos indivíduos. As sonoridades surgem aqui como scores de criação artística. E esta realizar-se-á através da intervenção de criadores de diferentes proveniências artísticas: do som ao teatro, da dança ao vídeo. Em termos de resultados, TEPe está alinhado sobre dois eixos principais: 1 a qualificação das vivências urbanas, por meio da negociação em site specific de diferentes tempos da cidade, assumindo a labilidade e desaceleração dos ritmos citadinos; 2 a valorização do património, graças à exposição tensional entre o material e o imaterial, no pressuposto de que todo o património material detém camadas imateriais, e todo o património imaterial contém as suas materialidades. TEPe é concebido em ligação com o repositório online http://weebox.fmh.ulisboa.pt. Os seus resultados serão considerados não apenas em termos de indicadores académicos - publicações, edições sonoras e de imagens em movimento, e formação de jovens investigadores - mas também contribuindo para outras plataformas, para a presença em festivais e para a organização de residências e eventos artísticos em regime de site-specific.",
+        "url": "http://weebox.fmh.ulisboa.pt/community/#front"
+    },
+    {
+        "id": "e-ark4all",
+        "title": "E-ARK4ALL",
+        "beginDate": "2018-06-01",
+        "endDate": "2019-05-31",
+        "funding": {
+            "program": "European Commission Seventh Framework Programme for Research and Technological Development (Brussels, BE), GRANT_NUMBER: LC-00921441 CEF-TC-2018-15 eArchiving",
+            "ref": "http://dx.doi.org/10.13039/100011102",
+            "amount": "EUR 122,500"
+        },
+        "desc": "E-ARK4ALL is supporting the development of the CEF eArchiving Building Block. The eArchiving Building Block is a solution to long-term information assurance. It provides the specifications, reference software, training and service desk support for digital archiving. This benefits both the design of repositories as digital archiving and preservation systems and the enabling of business systems to send data to those repositories. Data drives the global economy, but to remain accessible over time, it frequently needs to be migrated between successive generations of software. That can occur because software needs to be updated, replaced or decommissioned. Such migrations always incur costs and bring risks concerning data integrity and information assurance. This is where eArchiving can help. The foundation of eArchiving is the set of Information Package specifications. These describe platform-independent formats for storing information assets as bulk data and metadata that remains authentic and understandable over the long-term. These specifications are based on the accumulated knowledge and experience of a large international community of researchers and practitioners. They are thus ideal for long-term information assurance, supporting: migrating data between generations of business information systems; transferring data to dedicated archival repositories; managing data in repositories concerning its long-term preservation; reusing data over the long-term, independently of the business systems. eArchiving also provides a set of sample software components for several scenarios and business environments. With these components any organisation can develop its own institutional archiving and preservation ecosystem, or develop standardised workflows for delivering content from its business systems to external repositories. Using eArchiving guidelines guarantees that information will still be available and reusable for as long as it is required.",
+        "url": "https://e-ark4all.eu/"
+    },
+    {
+        "id": "e-ark",
+        "title": "E-ARK: European Archival Records and Knowledge Preservation",
+        "beginDate": "2014-01-17",
+        "endDate": "2017-01-17",
+        "funding": {
+            "program": "European Commission Seventh Framework Programme for Research and Technological Development (Brussels, BE), GRANT_NUMBER: 620998 E-ARK",
+            "ref": "http://dx.doi.org/10.13039/100011102",
+            "amount": "EUR 162,060"
+        },
+        "desc": "Archives provide an indispensable component of the digital ecosystem by safeguarding information and enabling access to it. Harmonisation of currently fragmented archival approaches is required to provide the economies of scale necessary for general adoption of end-to-end solutions. There is a critical need for an overarching methodology addressing business and operational issues, and technical solutions for ingest, preservation and re-use. In co-operation w300ith commercial systems providers, E-ARK will create and pilot a pan-European methodology for electronic document archiving, synthesising existing national and international best practices, that will keep records and databases authentic and usable over time. The methodology will be implemented in an open pilot in various national contexts, using existing, near-to-market tools, and services developed by the partners. This will allow memory institutions and their clients (public- and private-sector) to assess, in an operational context, the suitability of those state-of-the-art technologies. Our objective is to provide a single, scalable, robust approach capable of meeting the needs of diverse organisations, public and private, large and small, and able to support complex data types. E-ARK will demonstrate the potential benefits for public administrations, public agencies, public services, citizens and business by providing simple, efficient access to the workflows for the three main activities of an archive  acquiring, preserving and enabling re-use of information. The practices developed within the project will reduce the risk of information loss due to unsuitable approaches to keeping and archiving of records. The project will be public facing, providing a fully operational archival service, and access to information for its users. The project results will be generic and scalable in order to build an archival infrastructure across the EU and in environments where different legal systems and records management traditions apply. E-ARK will provide new types of access for business users. E-ARK will pilot an end-to-end OAIS-compliant e-archival service covering ingest, vendor-neutral archiving, and reuse of structured and unstructured data, thus covering both databases and records, addressing the needs of data subjects, owners and users. The pilot and methodology will also focus on the essential pre-ingest phase of data export and normalisation in source systems. The pilot will integrate tools currently in use in partner organisations, and provide a framework for providers of these and similar tools ensuring compatibility and interoperability. A core component of the project is the integration platform which uses the existing ESSArch Preservation Platform (EPP) application as an Archival Information System, which is already in productive deployment at the National Archives of Norway and Sweden. In order to achieve scalability, E-ARK will adopt a data management and storage layer for this tool on top of the proven open-source Cloudera CDH4 distribution of Apache Hadoop, enabling storage and computational power to be seamlessly added to the system. The pilot will run in several national archives, each of which will provide data to run in the pilot instance by agreement from an associated government data owner (e.g. national or regional / federal). To sustain the outputs of our project, project partner The DLM Forum, comprising 22 national archives and associated commercial and technical providers, is well placed to ensure these. Using the open Apache licensing model, commercial suppliers will be able to incorporate the project outputs (particularly the open interfaces for pre-ingest, ingest, archival, access and re-use) into their own systems, enhancing their longevity. National archives running E-ARK pilot instances will serve as exemplars for others wanting to adopt up the new e-archiving open system."
+    },
+    {
+        "id": "scape",
+        "title": "SCAPE: Scalable Preservation Environments",
+        "beginDate": "2011-02-01",
+        "endDate": "2015-02-01",
+        "funding": {
+            "program": "European Commission Seventh Framework Programme for Research and Technological Development (Brussels, BE), GRANT_NUMBER: 270137 SCAPE",
+            "ref": "http://dx.doi.org/10.13039/100011102",
+            "amount": "EUR 451,121"
+        },
+        "desc": "The SCAPE project will develop scalable services for planning and execution of institutional preservation strategies on an open source platform that orchestrates semi-automated workflows for large-scale, heterogeneous collections of complex digital objects. SCAPE will enhance the state of the art of digital preservation in three ways: by developing infrastructure and tools for scalable preservation actions; by providing a framework for automated, quality-assured preservation workflows and by integrating these components with a policy-based preservation planning and watch system. These concrete project results will be validated within three large-scale Testbeds from diverse application areas. SCAPE approaches digital preservation through research and development sub-projects: Testbeds, Preservation Components, Platform, and Planning and Watch. The SCAPE Testbeds are the primary driver for the rest of the project, in that they define use case scenarios, create preservation workflows, and assess the large scale applicability of the SCAPE Preservation Platform and the preservation components developed within the project. Using these software components, test environments are created for the different scenarios and the complex large scale preservation workflows. SCAPE Preservation Components address known limitations of digital preservation systems on three levels: scalability, functional coverage quality. This sub-project improves and extends existing tools, develop new ones where necessary, and apply proven approaches to the problem of ensuring quality in digital preservation. Building on the state of the art and focusing on formats and tools that are considered most important by the Testbeds sub-project, SCAPE investigates methods to parallelise and embed components in robust and scalable workflows. A major focus is the ability to capture relevant provenance and contextual information and metadata, and to provide usable outputs for automated policy-driven preservation. The SCAPE Platform will provide an extensible infrastructure for the execution of digital preservation processes on large volumes of data. It will include a flexible mechanism for the integration of existing digital repository systems and provide a reference implementation. The Preservation Platform will also provide the underlying environment for large-scale testing and evaluation performed by the Testbeds and the Preservation Component providers in the project. The computational layer of the Preservation Platform system will make use of Hadoop, with the underlying distributed storage layer being based on HBase, which provides high performance and scalable data storage on top of Hadoops Distributed File System (HDFS). The Planning and Watch Components developed in SCAPE address the bottleneck of decision processes and processing information required for decision making. Work on these components started with a conceptual analysis, based on extensive real-world application experience. A set of essential policy elements is being defined and modelled. These elements will make use of the SCAPE Policy Catalogue. Building on SCAPEs machine-understandable policy representation and the first release of the automated planning component, core watch services will be implemented. In the final phase the policy-aware planning component will be fully integrated with the platform and repository operations.300 The Cross-project Activities in SCAPE include project management and coordination as well as the investigation of Open Research Challenges and a Research Roadmap. These activities provide administrative control and technical coordination for the project as well as focused research on innovative and emerging technologies having the potential to improve SCAPEs capabilities.",
+        "url": "https://scape-project.eu/"
+    }
+]

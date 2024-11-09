@@ -1,0 +1,596 @@
+[
+    {
+        "student": {
+            "name": "Ricardo Giuliani Martini"
+        },
+        "document": {
+            "title": "Formal Description and Automatic Generation of Learning Spaces based on Ontologies"
+        },
+        "inst": "Universidade do Minho, Escola de Engenharia, Departamento de Informática, PDINF",
+        "date": "Sep. 2018 (2018-09-26)",
+        "id": "theexa0"
+    },
+    {
+        "student": {
+            "name": "Luís Miguel Gomes dos Santos Reis Leitão"
+        },
+        "document": {
+            "title": "Duplicate Detection in XML Databases"
+        },
+        "inst": "Instituto Superior Técnico da Universidade Técnica de Lisboa (IST/UTL)",
+        "date": "Jul. 2013 (2013-07-01)",
+        "id": "theexa1"
+    },
+    {
+        "student": {
+            "name": "Ricardo Alexandre Peixoto de Queirós"
+        },
+        "document": {
+            "title": "A framework for practice-based learning applied to computer programmming"
+        },
+        "inst": "Faculdade de Ci\u00eancias da Universidade do Porto",
+        "date": "Set. 2012 (2012-09-14)",
+        "id": "theexa2"
+    },
+    {
+        "student": {
+            "name": "Francisco Javier Calzada Prado"
+        },
+        "document": {
+            "title": "Los Objetos de Aprendizaje en la Educaci\u00f3n Superior: Fundamentos, Tratamiento y Recuperaci\u00f3n en Repositorios y Bibliotecas\n                Digitales Educativas"
+        },
+        "inst": "Doctorado, Univ. Carlos III, Madrid, Spain",
+        "date": "Jun. 2009",
+        "id": "theexa3"
+    },
+    {
+        "student": {
+            "name": "Jana Jagodic"
+        },
+        "document": {
+            "title": "The Role of an ICT Change Agent in ICT Diffusion within Technology Projects in Public and Private Sector Settings"
+        },
+        "inst": "Doctorate of Business Administration (DBA), School of Business, University of Ballarat, Australia",
+        "date": "August 2008",
+        "id": "theexa4"
+    },
+    {
+        "student": {
+            "name": "Gustavo Vasconcelos Arnold"
+        },
+        "document": {
+            "title": "Automatization of the Code Generation for Different Industrial Robots"
+        },
+        "inst": "Escola de Engenharia da Universidade do Minho",
+        "date": "June 2008",
+        "id": "theexa5"
+    },
+    {
+        "student": {
+            "name": "Maria João Tinoco Varanda Pereira"
+        },
+        "document": {
+            "title": "Sistematização da Animação de Programas"
+        },
+        "inst": "Escola de Engenharia da Universidade do Minho",
+        "date": "Oct. 2003",
+        "id": "theexa6"
+    },
+    {
+        "student": {
+            "name": "Eduardo Luís Braga Machado (Mestrado em Engenharia de Sistemas)"
+        },
+        "document": {
+            "title": "Projeto de classificação de documentos - DocClassify"
+        },
+        "inst": "Escola de Engenharia da Universidade do Minho",
+        "date": "Jun. 2016 (2016-06-07)",
+        "id": "theexa7"
+    },
+    {
+        "student": {
+            "name": "Rolando Osvaldo Esteves Barradas Coelho (Mestrado em Ensino da Inform\u00e1tica)"
+        },
+        "document": {
+            "title": "GAMIFICATION AND GAME-BASED LEARNING: A ludic approach to learning"
+        },
+        "inst": "Instituto de Educação da Universiade do Minho",
+        "date": "Jul. 2015 (2015-07-29)",
+        "id": "theexa8"
+    },
+    {
+        "student": {
+            "name": "Carlos Manuel dos Santos Os\u00f3rio (Mestrado em Ensino da Inform\u00e1tica)"
+        },
+        "document": {
+            "title": "O Desenvolvimento do Pensamento Abstrato atrav\u00e9s de game-based learning e do Scratch"
+        },
+        "inst": "Instituto de Educa\u00e7\u00e3o da Universiade do Minho",
+        "date": "Jul. 2015 (2015-07-29)",
+        "id": "theexa9"
+    },
+    {
+        "student": {
+            "name": "Pedro Andr\u00e9 da Costa e Silva (Mestrado em Engenharia Inform\u00e1tica)"
+        },
+        "document": {
+            "title": "Especifica\u00e7\u00e3o de Conhcecimento Associado a Bases de Dados Relacionais: Ontologias"
+        },
+        "inst": "Universidade Lus\u00edada de Vila Nova de Famalic\u00e3o",
+        "date": "Jun. 2015 (2015-06-05)",
+        "id": "theexa10"
+    },
+    {
+        "student": {
+            "name": "Ana Lu\u00edsa Mendes Barata Rogeiro Gon\u00e7alves (Mestrado em Ensino da Inform\u00e1tica)"
+        },
+        "document": {
+            "title": "O uso da OFICINABOX no ensino da multim\u00e9dia: um estudo na \"Sala de D\u00favidas\" Virtual"
+        },
+        "inst": "Instituto de Educa\u00e7\u00e3o da Universiade do Minho",
+        "date": "Dez. 2014 (2014-12-11)",
+        "id": "theexa11"
+    },
+    {
+        "student": {
+            "name": "Cristina Alice Lomba (Mestrado em Ensino da Inform\u00e1tica)"
+        },
+        "document": {
+            "title": "A utiliza\u00e7\u00e3o do Scratch como estrat\u00e9gia de ensino e aprendizagem da programa\u00e7\u00e3o: uma experi\u00eancia no \u00e2mbito do ensino\n                profissional"
+        },
+        "inst": "Instituto de Educa\u00e7\u00e3o da Universiade do Minho",
+        "date": "Dez. 2014 (2014-12-09)",
+        "id": "theexa12"
+    },
+    {
+        "student": {
+            "name": "Jorge Manuel Coutinho Soares (Mestrado em Ensino da Inform\u00e1tica)"
+        },
+        "document": {
+            "title": "Promo\u00e7\u00e3o da Autonomia dos Alunos na Aprendizagem de Programa\u00e7\u00e3o para a WEB"
+        },
+        "inst": "Instituto de Educa\u00e7\u00e3o da Universiade do Minho",
+        "date": "Nov. 2014 (2014-11-21)",
+        "id": "theexa13"
+    },
+    {
+        "student": {
+            "name": "Andreia Filipa Silva Loureiro (Mestrado em Ensino da Inform\u00e1tica)"
+        },
+        "document": {
+            "title": "Cria\u00e7\u00e3o de Sites para o utilizador comum"
+        },
+        "inst": "Instituto de Educa\u00e7\u00e3o da Universiade do Minho",
+        "date": "Nov. 2014 (2014-11-06)",
+        "id": "theexa14"
+    },
+    {
+        "student": {
+            "name": "C\u00e9sar Filipe Barbosa Gomes de Ara\u00fajo (Mestrado em Ensino da Inform\u00e1tica)"
+        },
+        "document": {
+            "title": "A Metodologia de Trabalho de Projeto como promotora da aprendizagem dos alunos: uma abordagem a um curso profissional"
+        },
+        "inst": "Instituto de Educa\u00e7\u00e3o da Universiade do Minho",
+        "date": "Set. 2014 (2014-09-30)",
+        "id": "theexa15"
+    },
+    {
+        "student": {
+            "name": "Ricardo Filipe Carvalho Amorim"
+        },
+        "document": {
+            "title": "LabTablet: A multi-domain laboratory book"
+        },
+        "inst": "Faculdade de Engenharia da Universidade do Porto (FEUP)",
+        "date": "Jul. 2014 (2014-07-18)",
+        "id": "theexa16"
+    },
+    {
+        "student": {
+            "name": "Lu\u00eds Carlos Ferreira Borges"
+        },
+        "document": {
+            "title": "IPBrick - M\u00f3dulo de Diagn\u00f3stico e de Despiste de Problemas"
+        },
+        "inst": "Faculdade de Engenharia da Universidade do Porto (FEUP)",
+        "date": "Jul. 2014 (2014-07-16)",
+        "id": "theexa17"
+    },
+    {
+        "student": {
+            "name": "Jo\u00e3o Lopes Ferreira Sobreira"
+        },
+        "document": {
+            "title": "IPBrick - API para Integra\u00e7\u00e3o de Aplica\u00e7\u00f5es \"Third Party\""
+        },
+        "inst": "Faculdade de Engenharia da Universidade do Porto (FEUP)",
+        "date": "Jul. 2014 (2014-07-16)",
+        "id": "theexa18"
+    },
+    {
+        "student": {
+            "name": "Lu\u00eds Miguel Barbosa Braga"
+        },
+        "document": {
+            "title": "Engineering Temporal and Spatial Aspects in OWL using Patterns"
+        },
+        "inst": "Instituto Superior de Engenharia do Porto (ISEP)",
+        "date": "Nov. 2013 (2013-11-22)",
+        "id": "theexa19"
+    },
+    {
+        "student": {
+            "name": "Alda Renata Fangueiro Canito"
+        },
+        "document": {
+            "title": "Evaluating the Combination of Relaxation and Argumentation in Ontology Matching Negotiation"
+        },
+        "inst": "Instituto Superior de Engenharia do Porto (ISEP)",
+        "date": "Nov. 2013 (2013-11-15)",
+        "id": "theexa20"
+    },
+    {
+        "student": {
+            "name": "Vitor Manuel Braga da Silva"
+        },
+        "document": {
+            "title": "Solu\u00e7\u00f5es Open-source para os Servi\u00e7os de Fax e VPN numa Rede Empresarial"
+        },
+        "inst": "Faculdade de Engenharia da Universidade do Porto",
+        "date": "Feb. 2012",
+        "id": "theexa21"
+    },
+    {
+        "student": {
+            "name": "Marcelo Sousa Almeida"
+        },
+        "document": {
+            "title": "Integra\u00e7\u00e3o do OpenERP (Enterprise Resource Planning) no Sistema de Gest\u00e3o Documental e Workflow"
+        },
+        "inst": "Faculdade de Engenharia da Universidade do Porto",
+        "date": "Feb. 2012",
+        "id": "theexa22"
+    },
+    {
+        "student": {
+            "name": "Joana Raquel Ferreira da Silva Pereira"
+        },
+        "document": {
+            "title": "Interface Avan\u00e7ado de Utilizador para An\u00e1lise de Formatos Multim\u00e9dia"
+        },
+        "inst": "Faculdade de Engenharia da Universidade do Porto",
+        "date": "Feb. 2012",
+        "id": "theexa23"
+    },
+    {
+        "student": {
+            "name": "Ricardo André de Sousa Jafe"
+        },
+        "document": {
+            "title": "Indexa\u00e7\u00e3o e Pesquisa de Informa\u00e7\u00e3o com Base em Ontologias Interligadas"
+        },
+        "inst": "Instituto Superior de Engenharia do Porto (ISEP)",
+        "date": "Nov. 2011 (2011-11-16)",
+        "id": "theexa24"
+    },
+    {
+        "student": {
+            "name": "Jo\u00e3o Miguel Silva"
+        },
+        "document": {
+            "title": "Sharing Botanical Information using Geospatial Databases"
+        },
+        "inst": "Faculdade de Engenharia da Universidade do Porto",
+        "date": "July 2009",
+        "id": "theexa25"
+    },
+    {
+        "student": {
+            "name": "Pedro Miguel Silva"
+        },
+        "document": {
+            "title": "Computa\u00e7\u00e3o Ub\u00edqua no Ensino B\u00e1sico: Plataforma orientada \u00e0 informa\u00e7\u00e3o multissensorial georreferenciada"
+        },
+        "inst": "Faculdade de Engenharia da Universidade do Porto",
+        "date": "July 2009",
+        "id": "theexa26"
+    },
+    {
+        "student": {
+            "name": "Mar\u00edlia Nat\u00e1lia Gon\u00e7alves"
+        },
+        "document": {
+            "title": "Earthquake Record Selection for Dynamic Structural Analysis: an Application with a Web Interface"
+        },
+        "inst": "Faculdade de Engenharia da Universidade do Porto",
+        "date": "July 2009",
+        "id": "theexa27"
+    },
+    {
+        "student": {
+            "name": "Luis Matias"
+        },
+        "document": {
+            "title": "Sistema de Gest\u00e3o Financeira para um Parque Tecnol\u00f3gico utilizando um Sistema de Gera\u00e7\u00e3o Autom\u00e1tica de C\u00f3digo"
+        },
+        "inst": "Faculdade de Engenharia da Universidade do Porto",
+        "date": "March 2009",
+        "id": "theexa28"
+    },
+    {
+        "student": {
+            "name": "Miguel Rodrigues"
+        },
+        "document": {
+            "title": "Arquitecturas de Integra\u00e7\u00e3o de Mediadores com Companhias de Seguros"
+        },
+        "inst": "Faculdade de Engenharia da Universidade do Porto",
+        "date": "March 2009",
+        "id": "theexa29"
+    },
+    {
+        "student": {
+            "name": "Ricardo Leandro"
+        },
+        "document": {
+            "title": "Improving Database Reporting Processes with XML Technologies"
+        },
+        "inst": "Faculdade de Engenharia da Universidade do Porto",
+        "date": "March 2009",
+        "id": "theexa30"
+    },
+    {
+        "student": {
+            "name": "Rui Pedro Guerra"
+        },
+        "document": {
+            "title": "Integration using Oracle SOA Suite"
+        },
+        "inst": "Faculdade de Engenharia da Universidade do Porto",
+        "date": "March 2009",
+        "id": "theexa31"
+    },
+    {
+        "student": {
+            "name": "Tiago Franco"
+        },
+        "document": {
+            "title": "Reactivity in the Semantic Web applied to Bio-informatics"
+        },
+        "inst": "Faculdade de Ci\u00eancia e Tecnologia da Universidade Nova de Lisboa",
+        "date": "February 2009",
+        "id": "theexa32"
+    },
+    {
+        "student": {
+            "name": "Tiago Rema e Cunha"
+        },
+        "document": {
+            "title": "A Control for Graph Representation and Interaction"
+        },
+        "inst": "Faculdade de Engenharia da Universidade do Porto (FEUP)",
+        "date": "July 2008",
+        "id": "theexa33"
+    },
+    {
+        "student": {
+            "name": "Filipe Daniel Figueiredo de Lemos"
+        },
+        "document": {
+            "title": "Digital Archives: Comparative Study and Interoperability"
+        },
+        "inst": "Faculdade de Engenharia da Universidade do Porto (FEUP)",
+        "date": "July 2008",
+        "id": "theexa34"
+    },
+    {
+        "student": {
+            "name": "Ivo Andr\u00e9 da Rocha Marinho"
+        },
+        "document": {
+            "title": "Utiliza\u00e7\u00e3o do Oracle BPEL Process Manager"
+        },
+        "inst": "Faculdade de Engenharia da Universidade do Porto (FEUP)",
+        "date": "July 2008",
+        "id": "theexa35"
+    },
+    {
+        "student": {
+            "name": "Filipe Jo\u00e3o Pereira Montenegro"
+        },
+        "document": {
+            "title": "Gest\u00e3o Integrada de Controlo de Acessos"
+        },
+        "inst": "Faculdade de Engenharia da Universidade do Porto (FEUP)",
+        "date": "July 2008",
+        "id": "theexa36"
+    },
+    {
+        "student": {
+            "name": "Filipe Emanuel Amaro Coelho"
+        },
+        "document": {
+            "title": "Sistema autom\u00e1tico de reconhecimento do montante de um cheque"
+        },
+        "inst": "Faculdade de Engenharia da Universidade do Porto (FEUP)",
+        "date": "May 2008",
+        "id": "theexa37"
+    },
+    {
+        "student": {
+            "name": "Guilherme Artur Concei\u00e7\u00e3o Capela"
+        },
+        "document": {
+            "title": "Reconhecimento de s\u00edmbolos musicais manuscritos na framework Gamera"
+        },
+        "inst": "Faculdade de Engenharia da Universidade do Porto (FEUP)",
+        "date": "May 2008",
+        "id": "theexa38"
+    },
+    {
+        "student": {
+            "name": "Hugo Andr\u00e9 Amaral Rodrigues"
+        },
+        "document": {
+            "title": "Clinical Protocols Enabling Evidence Based Medicine Practice in Healthcare Software Solutions"
+        },
+        "inst": "Faculdade de Engenharia da Universidade do Porto (FEUP)",
+        "date": "May 2008",
+        "id": "theexa39"
+    },
+    {
+        "student": {
+            "name": "Jos\u00e9 Miguel Ribeiro Paix\u00e3o"
+        },
+        "document": {
+            "title": "Audit Trail CCHIT: Specification and Implementation"
+        },
+        "inst": "Faculdade de Engenharia da Universidade do Porto (FEUP)",
+        "date": "May 2008",
+        "id": "theexa40"
+    },
+    {
+        "student": {
+            "name": "Pedro da Silveira Vieira da Silva"
+        },
+        "document": {
+            "title": "Uma infra-estrutura de suporte \u00e0 adaptabilidade em sites web"
+        },
+        "inst": "Faculdade de Ci\u00eancias da Uiversidade do Porto (FCUP)",
+        "date": "Dez. de 2006",
+        "id": "theexa41"
+    },
+    {
+        "student": {
+            "name": "Rui Manuel de Jesus Vaz Lu\u00eds"
+        },
+        "document": {
+            "title": "Sistemas Remotos para Monitoriza\u00e7\u00e3o e An\u00e1lise de Dados em Plataformas de E-Learning"
+        },
+        "inst": "Instituto Superior T\u00e9cnico da Universidade T\u00e9cnica de Lisboa (IST/UTL)",
+        "date": "Jan. de 2006",
+        "id": "theexa42"
+    },
+    {
+        "student": {
+            "name": "David Sim\u00f5es"
+        },
+        "document": {
+            "title": "Evolving E-Learning Standards: Vianet, a case study"
+        },
+        "inst": "Instituto Superior T\u00e9cnico da Universidade T\u00e9cnica de Lisboa (IST/UTL)",
+        "date": "Jul. 2005",
+        "id": "theexa43"
+    },
+    {
+        "student": {
+            "name": "Luis Ferreira"
+        },
+        "document": {
+            "title": "Formalizing Interface Markup Languages"
+        },
+        "inst": "Escola de Engenharia da Universidade do Minho",
+        "date": "Apr. 2005",
+        "id": "theexa44"
+    },
+    {
+        "student": {
+            "name": "Ricardo Alexandre Peixoto de Queir\u00f3s"
+        },
+        "document": {
+            "title": "Edi\u00e7\u00e3o estrutural de documentos XML sobre a Web"
+        },
+        "inst": "Faculdade de Ci\u00eancias da Uiversidade do Porto (FCUP)",
+        "date": "Dec. 2004",
+        "id": "theexa45"
+    },
+    {
+        "student": {
+            "name": "Ricardo Alexandre G. C. Martins"
+        },
+        "document": {
+            "title": "Explora\u00e7\u00e3o do GML e Web Services para uso de SIG's em PDA's"
+        },
+        "inst": "Escola de Engenharia da Universidade do Minho",
+        "date": "Dec. 2004",
+        "id": "theexa46"
+    },
+    {
+        "student": {
+            "name": "M\u00e1rio Ricardo de Novais Henriques"
+        },
+        "document": {
+            "title": "pGML - Estudo de um Subconjunto 'Preciso' do GML 2.12"
+        },
+        "inst": "Escola de Engenharia da Universidade do Minho",
+        "date": "Nov. 2004",
+        "id": "theexa47"
+    },
+    {
+        "student": {
+            "name": "Hugo Manuel Lima de Sousa"
+        },
+        "document": {
+            "title": "Normaliza\u00e7\u00e3o de Meta-Informa\u00e7\u00e3o para Arquivos Multim\u00e9dia"
+        },
+        "inst": "Faculdade de Engenharia da Universidade do Porto (FEUP)",
+        "date": "Nov. 2004",
+        "id": "theexa48"
+    },
+    {
+        "student": {
+            "name": "Giovana Mendes"
+        },
+        "document": {
+            "title": "Explora\u00e7\u00e3o de Solu\u00e7\u00f5es de Arquivo para Documentos anotados na linguagem XML e o seu processamento"
+        },
+        "inst": "Escola de Engenharia da Universidade do Minho",
+        "date": "Nov. 2004",
+        "id": "theexa49"
+    },
+    {
+        "student": {
+            "name": "Rui Alexandre Alperiz Cerveira Nunes"
+        },
+        "document": {
+            "title": "Armazenamento de Dados Complexos Utilizando XML"
+        },
+        "inst": "Instituto Superior T\u00e9cnico da Universidade T\u00e9cnica de Lisboa (IST/UTL)",
+        "date": "Jun. 2003",
+        "id": "theexa50"
+    },
+    {
+        "student": {
+            "name": "Carlos \u00c2ngelo de Paiva Pereira"
+        },
+        "document": {
+            "title": "Interac\u00e7\u00e3o com uma Arquitectura de Componentes com Independ\u00eancia de Dispositivo e Localiza\u00e7\u00e3o"
+        },
+        "inst": "Faculdade de Engenharia da Universidade do Porto (FEUP)",
+        "date": "Apr. 2003",
+        "id": "theexa51"
+    },
+    {
+        "student": {
+            "name": "Alexandre Manuel Pinto Martins"
+        },
+        "document": {
+            "title": "Especifica\u00e7\u00e3o XML de Aplica\u00e7\u00f5ees para WWW"
+        },
+        "inst": "Faculdade de Engenharia da Universidade do Porto (FEUP)",
+        "date": "Dec. 2002",
+        "id": "theexa52"
+    },
+    {
+        "student": {
+            "name": "Marta Henriques Jacinto"
+        },
+        "document": {
+            "title": "Valida\u00e7\u00e3o Sem\u00e2ntica em Documentos XML"
+        },
+        "inst": "Escola de Engenharia da Universidade do Minho",
+        "date": "Oct. 2002",
+        "id": "theexa53"
+    }
+]

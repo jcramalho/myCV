@@ -1,0 +1,40 @@
+version: '3.5'
+services:
+  mongo:
+    image: mongo:4.2
+    container_name: clav_mongo
+    restart: always
+    volumes:
+      - mongodb-data:/data/db
+  graphdb:
+    image: ${GRAPHDB_IMG}
+    container_name: clav_graphdb
+    restart: always
+    volumes:
+      - graphdb-data:/opt/graphdb/home/data/repositories
+  server:
+    image: ${SERVER_IMG}
+    container_name: clav_server
+    build:
+      context: ./CLAV2018
+      dockerfile: Dockerfile
+    restart: always
+    environment:
+      - NODE_ENV=production
+      - PROTOCOLS=https
+      - DOMAINS=${DOMAINS}
+      - GRAPHDB=graphdb:7200
+      - MONGODB=mongo
+      - API_VERSION=${API_VERSION}
+      - INTERFACE_HOSTS=${INTERFACE_HOSTS}
+      - SERVER_AUTH_HOST=http://clav-auth:7778
+    environment:
+      - DOMAINS=${DOMAINS}
+      - EMAIL=${EMAIL}
+      - API_VERSION=${API_VERSION}
+      - API_HOST=http://server:7779
+      - SERVER_AUTH_HOST=http://clav-auth:7778
+      - REDIS_HOST=redis
+    ports:
+      - ${HTTP_PORT}:8000
+      - ${HTTPS_PORT}:8443
